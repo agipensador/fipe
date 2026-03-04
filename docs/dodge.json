@@ -1,0 +1,1398 @@
+{
+  "items": [
+    {
+      "Avenger ES 2_PDOT0/2_PDOT5 16V": {
+        "Gasolina": {
+          "1994": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1995": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota 2_PDOT5": {
+        "Gasolina": {
+          "1998": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1999": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Club 2_PDOT5": {
+        "Gasolina": {
+          "1995": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Durango 5_PDOT9 4x4 V8": {
+        "Gasolina": {
+          "1998": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1999": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Durango SLT 5_PDOT2 4x4 V8": {
+        "Gasolina": {
+          "1998": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1999": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota RT 5_PDOT2 Aut_PDOT": {
+        "Gasolina": {
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota RT 5_PDOT2 CE Aut_PDOT": {
+        "Gasolina": {
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Sport 2_PDOT5 4x4": {
+        "Gasolina": {
+          "1995": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Sport 2_PDOT5 CD Diesel": {
+        "Diesel": {
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Sport 3_PDOT9 V6": {
+        "Gasolina": {
+          "1998": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1999": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Sport 3_PDOT9 V6 CD Aut_PDOT": {
+        "Gasolina": {
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Sport 3_PDOT9 V6 CD Mec_PDOT": {
+        "Gasolina": {
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Sport 5_PDOT2 V8": {
+        "Gasolina": {
+          "1997": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1998": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1999": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Sport 5_PDOT2 V8 CD Aut": {
+        "Gasolina": {
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Sport CE 2_PDOT5 Diesel": {
+        "Diesel": {
+          "1999": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Dakota Sport CE 3_PDOT9 V6": {
+        "Gasolina": {
+          "1998": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1999": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Durango Citadel 3_PDOT6 24V 4x4 Aut_PDOT": {
+        "Gasolina": {
+          "2013": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "valueDataKeyChip": "ID: 46; PCF: 7941; SÉRIE: -;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhOydOiqR2Cd--bnqxK3fl1fTxzSPqCFaXwHDC_rmXZNZn6KPnaqfpQWLulIPhCtt1bCumnlIUhGiryu5W8b0_oc1ryj2_x1FTu3JZrqkkFS46xgakAggbMSuVVPV5hVrKNaJAgDIGAdnzzfDpmUALvCJrJIkV9j1HPZge537eADiKTVrmOkhTbvK_6HYW/s522/chip_7941.png",
+            "telecomandoFrequency": "315/433",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "videoLink": "https://www.youtube.com/watch?v=_66qffCBx9g&pp=ygUiY29kaWZpY2FyIGNoYXZlIGRvZGdlIGR1cmFuZ28gMjAxMw%3D%3D"
+          }
+        }
+      },
+      "Durango Crew 3_PDOT6 24V 4x4 Aut_PDOT": {
+        "Gasolina": {
+          "2012": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "valueDataKeyChip": "ID: 46; PCF: 7941; SÉRIE: -;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhOydOiqR2Cd--bnqxK3fl1fTxzSPqCFaXwHDC_rmXZNZn6KPnaqfpQWLulIPhCtt1bCumnlIUhGiryu5W8b0_oc1ryj2_x1FTu3JZrqkkFS46xgakAggbMSuVVPV5hVrKNaJAgDIGAdnzzfDpmUALvCJrJIkV9j1HPZge537eADiKTVrmOkhTbvK_6HYW/s522/chip_7941.png",
+            "telecomandoFrequency": "315/433",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "videoLink": "https://www.youtube.com/watch?v=_66qffCBx9g&pp=ygUiY29kaWZpY2FyIGNoYXZlIGRvZGdlIGR1cmFuZ28gMjAxMw%3D%3D"
+          },
+          "2013": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "valueDataKeyChip": "ID: 46; PCF: 7941; SÉRIE: -;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhOydOiqR2Cd--bnqxK3fl1fTxzSPqCFaXwHDC_rmXZNZn6KPnaqfpQWLulIPhCtt1bCumnlIUhGiryu5W8b0_oc1ryj2_x1FTu3JZrqkkFS46xgakAggbMSuVVPV5hVrKNaJAgDIGAdnzzfDpmUALvCJrJIkV9j1HPZge537eADiKTVrmOkhTbvK_6HYW/s522/chip_7941.png",
+            "telecomandoFrequency": "315/433",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "videoLink": "https://www.youtube.com/watch?v=_66qffCBx9g&pp=ygUiY29kaWZpY2FyIGNoYXZlIGRvZGdlIGR1cmFuZ28gMjAxMw%3D%3D"
+          }
+        }
+      },
+      "Durango Limited 3_PDOT6 24V 4x4 Aut_PDOT": {
+        "Gasolina": {
+          "2015": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "valueDataKeyChip": "ID: 4A; PCF: 7953; SÉRIE: -;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "315/433",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVtYsyaKG6j2-Ff60GlAepC91XSjLYAzJRoDwPNdaLzoQ6fc-_H6h-VYFvKvalIAOBAyCaD-D0QI7jbiJfJjmK1wV2GgxHeABWFOHFwr1uGUu1Qphjf1lFhF6Oeqx247uWb9PRwgng0Sw7cXeGJA1pFmnKH__JaiuWQOVjiblfbeY8HR4bF6Zzevlzut_r/s730/Captura%20de%20Tela%202023-11-08%20a%CC%80s%2001.18.33.png",
+            "videoLink": "https://www.youtube.com/watch?v=_66qffCBx9g&pp=ygUiY29kaWZpY2FyIGNoYXZlIGRvZGdlIGR1cmFuZ28gMjAxMw%3D%3D"
+          }
+        }
+      },
+      "Intrepid 3_PDOT3 V6": {
+        "Gasolina": {
+          "1993": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "JOURNEY Crossroad 3_PDOT6 V6 Aut_PDOT": {
+        "Gasolina": {
+          "2014": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&pp=ygUXY29kaWZpY2FyIGpvdXJuZXkgMjAxNCA%3D"
+
+          },
+          "2015": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&pp=ygUXY29kaWZpY2FyIGpvdXJuZXkgMjAxNCA%3D"
+
+          }
+        }
+      },
+      "JOURNEY RT  3_PDOT6 V6 Aut_PDOT": {
+        "Gasolina": {
+          "2011": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nInfo: Se o carro possuir Smart Key, habilite 1º o transponder e depois a presença da chave",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Ref: 05026422 AC\nHabilita: junto c/ o transponder\nProcedimento: Ao habilitar o transponder, o telecomando entra automático\nSenha: 4 dígitos\n\nSmart Key\nFreq: 433MHz\nHabilita por equipamento\nSenha: 4 dígitos num.",
+            "maquinasCodificadoras": "OBD Star X300\nSBB\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=rxVM5GgLVlw&pp=ygUWY29kaWZpY2FyIGpvdXJuZXkgMjAxMQ%3D%3D"
+          },
+          "2012": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&pp=ygUXY29kaWZpY2FyIGpvdXJuZXkgMjAxNCA%3D"
+
+          },
+          "2013": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&pp=ygUXY29kaWZpY2FyIGpvdXJuZXkgMjAxNCA%3D"
+          },
+          "2014": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&pp=ygUXY29kaWZpY2FyIGpvdXJuZXkgMjAxNCA%3D"
+          },
+          "2015": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&pp=ygUXY29kaWZpY2FyIGpvdXJuZXkgMjAxNCA%3D"
+          },
+          "2016": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nQ8pdN89Kmw&pp=ygUnMjAxNyBkb2RnZSBqb3VybmV5IGtleSBmb2IgcHJvZ3JhbW1pbmcg"
+          },
+          "2017": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nQ8pdN89Kmw&pp=ygUnMjAxNyBkb2RnZSBqb3VybmV5IGtleSBmb2IgcHJvZ3JhbW1pbmcg"
+          },
+          "2018": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nQ8pdN89Kmw&pp=ygUnMjAxNyBkb2RnZSBqb3VybmV5IGtleSBmb2IgcHJvZ3JhbW1pbmcg"
+          }
+        }
+      },
+      "JOURNEY RT 2_PDOT7 V6 185cv Aut_PDOT": {
+        "Gasolina": {
+          "2010": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nInfo: Se o carro possuir Smart Key, habilite 1º o transponder e depois a presença da chave",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Ref: 05026422 AC\nHabilita: junto c/ o transponder\nProcedimento: Ao habilitar o transponder, o telecomando entra automático\nSenha: 4 dígitos\n\nSmart Key\nFreq: 433MHz\nHabilita por equipamento\nSenha: 4 dígitos num.",
+            "maquinasCodificadoras": "OBD Star X300\nSBB\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=ACsC0WcrOj4"
+          },
+          "2011": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nInfo: Se o carro possuir Smart Key, habilite 1º o transponder e depois a presença da chave",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Ref: 05026422 AC\nHabilita: junto c/ o transponder\nProcedimento: Ao habilitar o transponder, o telecomando entra automático\nSenha: 4 dígitos\n\nSmart Key\nFreq: 433MHz\nHabilita por equipamento\nSenha: 4 dígitos num.",
+            "maquinasCodificadoras": "OBD Star X300\nSBB\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=rxVM5GgLVlw&pp=ygUWY29kaWZpY2FyIGpvdXJuZXkgMjAxMQ%3D%3D"
+          }
+        }
+      },
+      "JOURNEY RT 3_PDOT6 AWD V6 Aut_PDOT": {
+        "Gasolina": {
+          "2014": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&pp=ygUXY29kaWZpY2FyIGpvdXJuZXkgMjAxNCA%3D"
+          },
+          "2015": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&pp=ygUXY29kaWZpY2FyIGpvdXJuZXkgMjAxNCA%3D"
+          },
+          "2016": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nQ8pdN89Kmw&pp=ygUnMjAxNyBkb2RnZSBqb3VybmV5IGtleSBmb2IgcHJvZ3JhbW1pbmcg"
+          }
+        }
+      },
+      "JOURNEY SE 2_PDOT7 V6 185cv Aut_PDOT": {
+        "Gasolina": {
+          "2010": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nInfo: Se o carro possuir Smart Key, habilite 1º o transponder e depois a presença da chave",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Ref: 05026422 AC\nHabilita: junto c/ o transponder\nProcedimento: Ao habilitar o transponder, o telecomando entra automático\nSenha: 4 dígitos\n\nSmart Key\nFreq: 433MHz\nHabilita por equipamento\nSenha: 4 dígitos num.",
+            "maquinasCodificadoras": "OBD Star X300\nSBB\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=ACsC0WcrOj4"
+          }
+        }
+      },
+      "JOURNEY SXT 2_PDOT7 V6 185cv Aut_PDOT": {
+        "Gasolina": {
+          "2009": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nInfo: Se o carro possuir Smart Key, habilite 1º o transponder e depois a presença da chave",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Ref: 05026422 AC\nHabilita: junto c/ o transponder\nProcedimento: Ao habilitar o transponder, o telecomando entra automático\nSenha: 4 dígitos\n\nSmart Key\nFreq: 433MHz\nHabilita por equipamento\nSenha: 4 dígitos num.",
+            "maquinasCodificadoras": "OBD Star X300\nSBB\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=ACsC0WcrOj4"
+          },
+          "2010": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nInfo: Se o carro possuir Smart Key, habilite 1º o transponder e depois a presença da chave",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Ref: 05026422 AC\nHabilita: junto c/ o transponder\nProcedimento: Ao habilitar o transponder, o telecomando entra automático\nSenha: 4 dígitos\n\nSmart Key\nFreq: 433MHz\nHabilita por equipamento\nSenha: 4 dígitos num.",
+            "maquinasCodificadoras": "OBD Star X300\nSBB\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=ACsC0WcrOj4"
+          },
+          "2011": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nInfo: Se o carro possuir Smart Key, habilite 1º o transponder e depois a presença da chave",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Ref: 05026422 AC\nHabilita: junto c/ o transponder\nProcedimento: Ao habilitar o transponder, o telecomando entra automático\nSenha: 4 dígitos\n\nSmart Key\nFreq: 433MHz\nHabilita por equipamento\nSenha: 4 dígitos num.",
+            "maquinasCodificadoras": "OBD Star X300\nSBB\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=rxVM5GgLVlw&pp=ygUWY29kaWZpY2FyIGpvdXJuZXkgMjAxMQ%3D%3D"
+          }
+        }
+      },
+      "JOURNEY SXT 3_PDOT6 V6 Aut_PDOT": {
+        "Gasolina": {
+          "2012": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&t=104s&pp=ygUWY29kaWZpY2FyIGpvdXJuZXkgMjAxNw%3D%3D"
+          },
+          "2013": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&t=104s&pp=ygUWY29kaWZpY2FyIGpvdXJuZXkgMjAxNw%3D%3D"
+          },
+          "2014": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&t=104s&pp=ygUWY29kaWZpY2FyIGpvdXJuZXkgMjAxNw%3D%3D"
+          },
+          "2015": {            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "433",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\nÉ possível reutilizar chaves já cadastradas/usadas",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "Não clona",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Kbn5uRKNLDugyarY5chd9Pdb3ZTnt0pdQby8QoZCuRmwrRF16iQs8st2O96AZW6R9lVW_vuaGztgy0NljPt1rXYKBlGdjkaqwHDmdOm9uNJ5C3c9ealLqb5Y2iONfrK4bLVv-FtSsXhHtQ-X-vWOyu9wgtcSqUY-rolOL7Qle5ifSMYd_r-lUbJOHT4e/s852/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2010.57.58.png",
+            "telecomandoProcedure": "Smart Key\nRef: M3N-40821302\nHabilita por equipamento\nSenha: 4 dígitos\n\nMáquina KD\nArq: Journey ID46\nTipo: ZB Smart Key",
+            "maquinasCodificadoras": "Fácil\niGold\nOBD Star X300\nRemap/Scanicar\nSKP\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=jNxS-nH4d5o&t=104s&pp=ygUWY29kaWZpY2FyIGpvdXJuZXkgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Ram 2500 H_PDOTDUTY 5_PDOT9 SLT 24V CD 4x4 Dies_PDOT": {
+        "Diesel": {
+          "2004": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2005": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2006": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2007": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2008": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2009": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Habilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=ERtxDVwtQ-g&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA5"
+          }
+        }
+      },
+      "Ram 2500 H_PDOTDUTY 5_PDOT9 SLT TDI CS 4x4 Dies_PDOT": {
+        "Diesel": {
+          "2006": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2007": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2008": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2009": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Habilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=ERtxDVwtQ-g&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA5"
+          }
+        }
+      },
+      "Ram 2500 LARAMIE 6_PDOT7 TDI CD 4x4 Dies": {
+        "Diesel": {
+          "2012": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Habilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=ERtxDVwtQ-g&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA5"
+          }
+        }
+      },
+      "Ram 2500 TROPIVAN 5_PDOT9 SLT Exec_PDOTTDI Dies_PDOT": {
+        "Diesel": {
+          "2010": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Habilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=ERtxDVwtQ-g&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA5"
+          }
+        }
+      },
+      "Ram 2500 TROPIVAN 5_PDOT9 SLT TDI 4x4 Dies_PDOT": {
+        "Diesel": {
+          "2005": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2006": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2007": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2008": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2009": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Habilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=ERtxDVwtQ-g&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA5"
+          },
+          "2010": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDH3yIDnwmMZ2SM7t8jt0N8bAl4zgEQpKrv8Gsi35QB7V8yT4U3aI-XSn8i0aYkc2Ke6KB23hDJBRaxmoDqR-Mi0Kz_W4N3knlt_EZgufn5qHzMjzTJIU-DWBInCnwFQ0KRdT_MxZE9JNbI1EHba1qYMTucjxgyZIo5errfoSfNURy0ag5VJuRRM3d5WaO/s564/Captura%20de%20Tela%202024-04-07%20a%CC%80s%2015.13.35.png",
+            "telecomandoProcedure": "Habilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=ERtxDVwtQ-g&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA5"
+          }
+        }
+      },
+      "Ram Laramie 5_PDOT9 V8": {
+        "Gasolina": {
+          "1994": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1995": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1996": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1997": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1998": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1999": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2002": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2003": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2004": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          },
+          "2005": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": "",
+            "telecomandoFrequency": "315",
+            "laminasKeys": "Gold: 932; Silca: CY24;",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4 díg numéricos\n*Na 3ª tentativa errada, o carro bloqueia;",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderClone": "CN3 ou Super Chip VVDI",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_JUXa9mBvfYBzZzTah1zSx8rvcbzxOoy6mJzh7wvXdFuvLpQy8ttE0UncDsrIcd7IStdkUBeZ3Ae5yof_ZnFvpwOg7uoYpOnokDlIy1c4PZmCsUknbUUFDEuTZAsJmj5kWp_DlEwbKmMyHO8LgqJwdrA3JIzXezx1qUcYUGKGMU2y3gYVCtdtCwb-Vmt/s684/Captura%20de%20Tela%202024-04-08%20a%CC%80s%2013.07.13.png",
+            "telecomandoProcedure": "Ref: OHT 692 427AA ou 560 406 49AC\nHabilita junto c/ o transponder\nNão usa senha",
+            "maquinasCodificadoras": "OBD Star X300\nSKP\nVVDI\nx100 Pad\nZed Full",
+            "telecomandoBatery": "CR2032 3V",
+            "videoLink": "https://www.youtube.com/watch?v=nM7s7WMSBA0&pp=ygUYY29kaWZpY2FyIGRvZGdlIHJhbSAyMDA1"
+          }
+        }
+      },
+      "Ram Laramie/SLT 5_PDOT2 V8": {
+        "Gasolina": {
+          "1994": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1995": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1996": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Ram Sport 5_PDOT9 V8": {
+        "Gasolina": {
+          "1994": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1995": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1996": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1997": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1998": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1999": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2000": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "2001": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      },
+      "Stealth 3_PDOT0 MPI": {
+        "Gasolina": {
+          "1992": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1993": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          },
+          "1994": {
+            "valueKeyCopy": "",
+            "valueKeyAlarm": "",
+            "valueKeyConfect": "",
+            "valueKeyConfectAlarm": "",
+            "valueCopyStore": ""
+          }
+        }
+      }
+    }
+  ]
+}
