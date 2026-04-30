@@ -1,0 +1,465 @@
+{
+  "items": [
+    {
+      "AMAROK": {
+        "Gasolina": {}
+      },
+      "Amrk1117": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilita por equipamento\nnSenha: 5 dígitos\nnEm caso de confecção é necessário retirar o painel e deixá-lo em modo de serviço, endo o arquivo da Eeprom, alterando-o de acordo comm as instruções do equipamento. Para gravar a 1ª chave, desligue o módulo de ABS",
+        "valueDataKeyChip": "id: 48; série: t44;",
+        "transponderNomenclatura": "id48 can tp23",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 7e0 837 202 ad\nHabilita por equipamento\nnão usa senha\n\nMaquina kd\nArquivo: 5k0837202ad\ntipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-Autel IM -608/5008\n-fácil\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-skp\n-Zed full\n-X100 Pad\n-Smelecom\n-VagTacho",
+        "videoLink": "https://www.youtube.com/watch?v=gcUExiQmF7w&pp=ygUncHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gIGFtYXJvayAyMDE1"
+      },
+      "amrk18a21": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilita por equipamento\nnSenha: 5 dígitos\nnEm caso de confecção é necessário retirar o painel e deixá-lo em modo de serviço, endo o arquivo da Eeprom, alterando-o de acordo comm as instruções do equipamento. Para gravar a 1ª chave, desligue o módulo de ABS",
+        "transponderNomenclatura": "MQB",
+        "transponderClone": "não clona",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 7e0 837 202 bd\nHabilita por equipamento\nnão usa senha",
+        "maquinasCodificadoras": "-igold\n-obd star x300\n-remap/scanicar\n-VagTacho\n-vvdi",
+        "videoLink": "https://www.youtube.com/watch?v=mu2OI0wk23o&pp=ygUncHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gIGFtYXJvayAyMDIw"
+      },
+      "BORA": {
+        "Gasolina": {}
+      },
+      "bora02": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Por equipamento\nnão usa senha",
+        "maquinasCodificadoras": "-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-Smelecom\n-VagTacho\n-Zed full",
+        "videoLink": "https://www.youtube.com/watch?v=RjlpEw1hag8&pp=ygUkcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gYm9yYSAyMDAx"
+      },
+      "bora311": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Por equipamento\nnão usa senha",
+        "maquinasCodificadoras": "-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-Smelecom\n-VagTacho",
+        "videoLink": "https://www.youtube.com/watch?v=RjlpEw1hag8&pp=ygUkcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gYm9yYSAyMDAx"
+      },
+      "crossf10": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 5z0 959 753 e\nHabilita Por procedimento\nProcedimento: 1. DESBLOQUEAR O ALARME COM EQUIPAMENTO ADEQUADO OU DEIXAR AS PORTAS DESTRANCADAS POR 3 HORAS\n2. LIGAR O CONTATO (PAINEL ACESO) COM UMA CHAVE HABILITADA NO CARRO\n3. BAIXAR O VIDRO DA PORTA DO MOTORISTA\n 4. COLOCAR UMA SEGUNDA CHAVE NO CILINDRO DE PORTA ESQUERDA, GIRAR NO SENTIDO HORÁRIO (TRANCAR) E MANTER NESSA POSIÇÃO POR 4 SEGUNDOS\n5. GIRAR A CHAVE NO SENTIDO ANTI- HORÁRIO (DESTRAVAR) E MANTER NESTA POSIÇÃO\n6. APERTAR O BOTÃO DE TRAVAR DO CONTROLE ATÉ AS TRAVAS REPICAREM, PARA MAIS CONTROLES, APERTAR O BOTÃO DE TRAVAR NA SEQUÊNCIA SEM VOLTAR A CHAVE\n7. APÓS APRESENTADOS TODOS OS CONTROLES, ABRIR A PORTA, DESLIGAR O CONTATO E TESTAR\nNão usa senha",
+        "maquinasCodificadoras": "-fácil\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-vagtacho\n-tango\n-tmpro\n-upa\n-Zed full\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=Kx5RCGYbQFA&pp=ygUocHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gY3Jvc3Nmb3ggMjAxNQ%3D%3D"
+      },
+      "crossf1113": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderNomenclatura": "id48 can tp23",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 6QE 959 753\nHabilita Por procedimento\n\nProcedimento: 1. LIGAR O CONTATO COM UMA CHAVE VÁLIDA (HABILITADA) E DEIXAR O VIDRO DA PORTA DO MOTORISTA ABAIXADO\n2. FECHAR TODAS AS PORTAS SEM TRANCAR\n3. COLOCAR A CHAVE NOVA NO CILINDRO DA PORTA DO MOTORISTA\n4. VIRAR A CHAVE PARA DESTRAVAR (SENTIDO ANTI-HORÁRIO) E MANTER A CHAVE VIRADA\n5. APERTAR O BOLTÃO \"LOCK\" DO CONTROLE VÁRIAS VEZES, ATÉ AS TRAVAS DAS PORTAS REPICAREM\n6. SE FOR HABILITAR MAIS COMANDOS, REPITA OS PASSOS 4 E 5\n7. APÓS HABILITAR TODOS OS CONTROLES, ABRA A PORTA, DESLIGUE A IGNIÇÃO E TESTE OS CONTROLES(MÁXIMO 4)\nNão usa senha\n\nmaquina kd\nArquivo: 6qe959753\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "fácil\n-Faz+\n-obdmap\n-rasther\n-remap/scanicar\n-smelecom\n-vagtacho\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=Cc0v3nob9GA&pp=ygUocHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gY3Jvc3Nmb3ggMjAxMA%3D%3D"
+      },
+      "crossf1418": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderNomenclatura": "id48 can tp23",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 5k0 837 202 ad\nHabilita por equipamento\nNão usa senha\n\nmaquina kd\nArq: 5k0837202ad\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "fácil\n-Faz+\n-obdmap\n-rasther\n-remap/scanicar\n-smelecom\n-vagtacho\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=Cc0v3nob9GA&pp=ygUocHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gY3Jvc3Nmb3ggMjAxMA%3D%3D"
+      },
+      "crossf59": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 1J0959753G\nHabilita Por procedimento\nProcedimento: 1. DESBLOQUEAR O ALARME COM EQUIPAMENTO ADEQUADO OU DEIXAR AS PORTAS DESTRANCADAS POR 3 HORAS\n2. LIGAR O CONTATO (PAINEL ACESO) COM UMA CHAVE HABILITADA NO CARRO\n3. BAIXAR O VIDRO DA PORTA DO MOTORISTA\n 4. COLOCAR UMA SEGUNDA CHAVE NO CILINDRO DE PORTA ESQUERDA, GIRAR NO SENTIDO HORÁRIO (TRANCAR) E MANTER NESSA POSIÇÃO POR 4 SEGUNDOS\n5. GIRAR A CHAVE NO SENTIDO ANTI- HORÁRIO (DESTRAVAR) E MANTER NESTA POSIÇÃO\n6. APERTAR O BOTÃO DE TRAVAR DO CONTROLE ATÉ AS TRAVAS REPICAREM, PARA MAIS CONTROLES, APERTAR O BOTÃO DE TRAVAR NA SEQUÊNCIA SEM VOLTAR A CHAVE\n7. APÓS APRESENTADOS TODOS OS CONTROLES, ABRIR A PORTA, DESLIGAR O CONTATO E TESTAR\nNão usa senha\n\n\nMaquina KD\nArq: Fox Brazil\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-Faz+\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-vagtacho\n-tango\n-tmpro\n-upa\n-Zed full\n-X100 Pad\n-skp",
+        "videoLink": "https://www.youtube.com/watch?v=5aqotYHUI9k&pp=ygUocHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gY3Jvc3Nmb3ggMjAwNg%3D%3D"
+      },
+      "CROSSFOX": {
+        "Gasolina": {}
+      },
+      "fuc": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderNomenclatura": "id48 can tp23",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 5k0 837 202 ad\nHabilita junto c o transponder\nNão usa senha\n\nmaquina kd\nArq: 5k0837202ad\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-obd star x300\n-smelecom\n-vagtacho\n-vvdi\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=eJTCybxrfMM&pp=ygUlcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gZnVzY2EgMjAxNQ%3D%3D"
+      },
+      "FUCA": {
+        "Gasolina": {}
+      },
+      "GOL": {
+        "Gasolina": {}
+      },
+      "gol3e4": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "telecomandoProcedure": "Ref: 1J0959753G\nHabilita Por procedimento\nProcedimento: 1-DEIXAR AS PORTAS DESTRANCADAS POR 3 HORAS PARA PERMITIR HABILITAR NOVOS CONTROLES\n2-COLOCAR UMA CHAVE NO CILINDRO DE PORTA(MOTORISTA), GIRAR NO SENTIDO ANTI-HORÁRIO (DESTRAVAR) E MANTER NESTA POSIÇÃO\n3-APERTAR O BOTÃO DE TRAVAR DO CONTROLE VARIAS VEZES, ATÉ AS TRAVAS REPICAREM, PARA MAIS CONTROLES, APERTAR O BOTÃO DE TRAVAR NA SEQUENCIA SEM VOLTAR A CHAVE (MÁX 2 CONTROLES)\n4-APÓS APRESENTADOS TODOS OS CONTROLES, VOLTAR A CHAVE E RETIRAR DO CILINDRO, TESTAR OS CONTROLES\nNão usa senha\n\n\nmaquina kd\nArq: GOL\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-Faz+\nigold\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-vagtacho\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=98k8axr2EGI&pp=ygUjcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gZ29sIDIwMDE%3D"
+      },
+      "gol96a98": {
+        "laminasKeys": "Gold: 602;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "maquinasCodificadoras": "-fácil\n-Faz+\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-vagtacho\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=98k8axr2EGI&pp=ygUjcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gZ29sIDIwMDE%3D"
+      },
+      "gol99a2": {
+        "laminasKeys": "Gold: 602;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 1J0959753G\nHabilita Por procedimento\nProcedimento: 1-DEIXAR AS PORTAS DESTRANCADAS POR 3 HORAS PARA PERMITIR HABILITAR NOVOS CONTROLES\n2-COLOCAR UMA CHAVE NO CILINDRO DE PORTA(MOTORISTA), GIRAR NO SENTIDO ANTI-HORÁRIO (DESTRAVAR) E MANTER NESTA POSIÇÃO\n3-APERTAR O BOTÃO DE TRAVAR DO CONTROLE VARIAS VEZES, ATÉ AS TRAVAS REPICAREM, PARA MAIS CONTROLES, APERTAR O BOTÃO DE TRAVAR NA SEQUENCIA SEM VOLTAR A CHAVE (MÁX 2 CONTROLES)\n4-APÓS APRESENTADOS TODOS OS CONTROLES, VOLTAR A CHAVE E RETIRAR DO CILINDRO, TESTAR OS CONTROLES\nNão usa senha\n\n\nmaquina kd\nArq: GOL\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-Faz+\nigold\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-vagtacho\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=98k8axr2EGI&pp=ygUjcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gZ29sIDIwMDE%3D"
+      },
+      "golf": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderNomenclatura": "id48 can tp23",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 1j0 959 753 ct\nHabilita por equipamento\nNão usa senha\n\nmaquina kd\nArq: 1j0959753ct\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-igold\n-kd900\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-vvdi\n-smelecom\n-zed full",
+        "videoLink": "https://www.youtube.com/watch?v=urPngt7xClQ&pp=ygUkcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gZ29sZiAyMDEw"
+      },
+      "GOLF": {
+        "Gasolina": {}
+      },
+      "JT": {
+        "Gasolina": {}
+      },
+      "jt1116": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: por equipamento via obdii\nSenha: 5 díg. numéricos\nEm caso de confecção é preciso retirar o painel para adicionar a 1ª chave",
+        "valueDataKeyChip": "id: 48; série: t44;",
+        "transponderNomenclatura": "id48 cann tp23",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 5k0 837 202 ad\nHabilita junto c o transponder\nNão usa senha\n\nsmart key\nRef: 5k0 837 202 ad\nfreq: 434\nHabilita junto c o transponder\nNão usa senha\n\nmaquina kd\nArq: 5k0837202ad\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-igold\n-obd star x300\n-obdmap\n-remap/scanicar\n-vagtacho\n-smelecom\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=gW0uNDCbKjM&pp=ygUicHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gamV0dGEgOQ%3D%3D"
+      },
+      "jt1721": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: por equipamento via obdii\nSenha: 5 díg. numéricos\nSomente chave virgem",
+        "valueDataKeyChip": "mqb",
+        "transponderNomenclatura": "mqb",
+        "transponderClone": "não clona",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 5k0 837 202 bh\nHabilita por equipamento\nNão usa senha\n\nsmart key\nRef: 5k0 837 202 bn\nfreq: 434\nHabilita junto c o transponder\nNão usa senha",
+        "maquinasCodificadoras": "-concessionária\n-igold",
+        "videoLink": "https://www.youtube.com/watch?v=jmbZKHDUA5M&pp=ygUicHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gamV0dGEgOQ%3D%3D"
+      },
+      "jt710": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t44;",
+        "transponderNomenclatura": "id48 cann tp23",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 1k0 959 753 g\nHabilita por equipamento\nNão usa senha\n\nmaquina kd\nArq: da8000m\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "n-obd star x300\n-smelecom\n-vagtacho\n-x100 pad\n-vvdi",
+        "videoLink": "https://www.youtube.com/watch?v=zgao8rZPcVg&pp=ygUlcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gamV0dGEgMjAwOQ%3D%3D"
+      },
+      "kombi": {
+        "laminasKeys": "Gold: 426; Silca: wt7;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "maquinasCodificadoras": "-fácil\n-Faz+\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-vagtacho\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=bCRPpf6Q5Ok&pp=ygUlcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4ga29tYmkgMjAwOQ%3D%3D"
+      },
+      "KOMBI": {
+        "Gasolina": {}
+      },
+      "NEW": {
+        "Gasolina": {}
+      },
+      "new4a10": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 1j0 959 753 da\nHabilita por equipamento\nNão usa senha\n\nmaquina kd\nArq: 1j0959753da\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-igold\n-obd star x300\n-skp\n-remap/scanicar\n-vagtacho\n-smelecom\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=uHpXnQof8q4&pp=ygUlcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gbmV3IGJlYXRsZQ%3D%3D"
+      },
+      "new99a3": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 1j0 959 753 ah\nHabilita por equipamento\nNão usa senha\n\nmaquina kd\nArq: 1j0959753da\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-igold\n-obd star x300\n-skp\n-remap/scanicar\n-vagtacho\n-smelecom\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=UoFWdVV722U&pp=ygUlcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gbmV3IGJlYXRsZQ%3D%3D"
+      },
+      "pol2a6": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 1j0 959 753 ah\nHabilita Por procedimento\nProcedimento: 1. LIGAR O CONTATO COM UMA CHAVE VÁLIDA (HABILITADA) E DEIXAR O VIDRO DA PORTA DO MOTORISTA ABAIXADO\n2. FECHAR TODAS AS PORTAS SEM TRANCAR\n3. COLOCAR A CHAVE NOVA NO CILINDRO DA PORTA DO MOTORISTA\n4. VIRAR A CHAVE PARA DESTRAVAR (SENTIDO ANTI-HORÁRIO) E MANTER A CHAVE VIRADA\n5. APERTAR O BOLTÃO \"LOCK\" DO CONTROLE VÁRIAS VEZES, ATÉ AS TRAVAS DAS PORTAS REPICAREM\n6. SE FOR HABILITAR MAIS COMANDOS, REPITA OS PASSOS 4 E 5\n7. APÓS HABILITAR TODOS OS CONTROLES, ABRA A PORTA, DESLIGUE A IGNIÇÃO E TESTE OS CONTROLES(MÁXIMO 4)\nNão usa senha\n\nmaquina kd\nArquivo: 1j0959753da\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-igold\n-upa\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-vagtacho",
+        "videoLink": "https://www.youtube.com/watch?v=fbC4ME-dRzE&pp=ygUkcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gcG9sbyAyMDEw"
+      },
+      "pol7a15": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 6QE 959 753\nHabilita Por procedimento\n\nProcedimento: 1. LIGAR O CONTATO COM UMA CHAVE VÁLIDA (HABILITADA) E DEIXAR O VIDRO DA PORTA DO MOTORISTA ABAIXADO\n2. FECHAR TODAS AS PORTAS SEM TRANCAR\n3. COLOCAR A CHAVE NOVA NO CILINDRO DA PORTA DO MOTORISTA\n4. VIRAR A CHAVE PARA DESTRAVAR (SENTIDO ANTI-HORÁRIO) E MANTER A CHAVE VIRADA\n5. APERTAR O BOLTÃO \"LOCK\" DO CONTROLE VÁRIAS VEZES, ATÉ AS TRAVAS DAS PORTAS REPICAREM\n6. SE FOR HABILITAR MAIS COMANDOS, REPITA OS PASSOS 4 E 5\n7. APÓS HABILITAR TODOS OS CONTROLES, ABRA A PORTA, DESLIGUE A IGNIÇÃO E\nTESTE OS CONTROLES(MÁXIMO 4)\nNão usa senha\n\nmaquina kd\nArquivo: 6qe959753\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-upa\n-smelecom\n-vagtacho",
+        "videoLink": "https://www.youtube.com/watch?v=fbC4ME-dRzE&pp=ygUkcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gcG9sbyAyMDEw"
+      },
+      "polcl96a2": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 42; pcf: 7935 série: t15;",
+        "transponderNomenclatura": "7935aa id42 cv",
+        "transponderClone": "super chip vvdi",
+        "maquinasCodificadoras": "-obdmap\n-remap/scanicar\n-tango\n-tmpro\n-smelecom\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=QSadFuIvkTE&pp=ygUncHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gcG9sbyBjbGFzc2lj"
+      },
+      "POLCL?": {
+        "Gasolina": {}
+      },
+      "POLO": {
+        "Gasolina": {}
+      },
+      "prt3a13": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 1J/0959753G\nHabilita Por procedimento\nProcedimento: 1-Ligar o contato com uma chave válida e desbloquear o alarme\n2-baixar o vidro do motorista, fechar a porta e virar o cilindro para destravar, mantenha a chave virada e aperte o botão de travar do telecomando até as travas repicarem\nNão usa senha\n\nnMaquina kd\nArquivo: gol\ntipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-Faz+\n-igold\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-vagtacho\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=urPngt7xClQ&pp=ygUmcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gcGFyYXRpIDIwMDc%3D"
+      },
+      "prt99a2": {
+        "laminasKeys": "Gold: 602;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 1J/0959753G\nHabilita Por procedimento\nProcedimento: 1-Ligar o contato com uma chave válida e desbloquear o alarme\n2-baixar o vidro do motorista, fechar a porta e virar o cilindro para destravar, mantenha a chave virada e aperte o botão de travar do telecomando até as travas repicarem\nNão usa senha\n\nnMaquina kd\nArquivo: gol\ntipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-Faz+\n-igold\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-vagtacho\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=urPngt7xClQ&pp=ygUmcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gcGFyYXRpIDIwMDc%3D"
+      },
+      "PRT?": {
+        "Gasolina": {}
+      },
+      "pst5": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 1j0 959 753 dc\nHabilita por equipamento\nNão usa senha\n\nmaquina kd\nArq: hlo 1j0-959-753-dc\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-obd star x300\n-skp\n-remap/scanicar\n-remap/scanicar\n-sbb\n-smelecom",
+        "videoLink": "https://www.youtube.com/watch?v=SBe0xRoxre8&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gcGFzc2F0"
+      },
+      "pst974": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 1j0 959 753 a(h)\nHabilita por equipamento\nNão usa senha\n\nmaquina kd\nArq: hlo 1j0-959-753-a(da)\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-obd star x300\n-skp\n-remap/scanicar\n-remap/scanicar\n-sbb\n-smelecom",
+        "videoLink": "https://www.youtube.com/watch?v=SBe0xRoxre8&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gcGFzc2F0"
+      },
+      "PST?": {
+        "Gasolina": {}
+      },
+      "santana": {
+        "laminasKeys": "Gold: 426; Silca: wt7;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "1j0 959 753 ah\nHabilita Por procedimento\nRef: 1J0959753G\nHabilita Por procedimento\nProcedimento: 1-DEIXAR AS PORTAS DESTRANCADAS POR 3 HORAS PARA PERMITIR HABILITAR NOVOS CONTROLES\n2-COLOCAR UMA CHAVE NO CILINDRO DE PORTA(MOTORISTA), GIRAR NO SENTIDO ANTI-HORÁRIO (DESTRAVAR) E MANTER NESTA POSIÇÃO\n3-APERTAR O BOTÃO DE TRAVAR DO CONTROLE VARIAS VEZES, ATÉ AS TRAVAS REPICAREM, PARA MAIS CONTROLES, APERTAR O BOTÃO DE TRAVAR NA SEQUENCIA SEM VOLTAR A CHAVE (MÁX 2 CONTROLES)\n4-APÓS APRESENTADOS TODOS OS CONTROLES, VOLTAR A CHAVE E RETIRAR DO CILINDRO, TESTAR OS CONTROLES\nNão usa senha\n\n\nmaquina kd\nArq: GOL\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-igold\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=98k8axr2EGI&pp=ygUicHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gc2FudGFuYQ%3D%3D"
+      },
+      "SANTANA": {
+        "Gasolina": {}
+      },
+      "SAVAGE": {
+        "Gasolina": {}
+      },
+      "SAVE": {
+        "Gasolina": {}
+      },
+      "save34": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "1j0 959 753 ah\nHabilita Por procedimento\nRef: 1J0959753G\nHabilita Por procedimento\nProcedimento: 1-DEIXAR AS PORTAS DESTRANCADAS POR 3 HORAS PARA PERMITIR HABILITAR NOVOS CONTROLES\n2-COLOCAR UMA CHAVE NO CILINDRO DE PORTA(MOTORISTA), GIRAR NO SENTIDO ANTI-HORÁRIO (DESTRAVAR) E MANTER NESTA POSIÇÃO\n3-APERTAR O BOTÃO DE TRAVAR DO CONTROLE VARIAS VEZES, ATÉ AS TRAVAS REPICAREM, PARA MAIS CONTROLES, APERTAR O BOTÃO DE TRAVAR NA SEQUENCIA SEM VOLTAR A CHAVE (MÁX 2 CONTROLES)\n4-APÓS APRESENTADOS TODOS OS\nCONTROLES, VOLTAR A CHAVE E RETIRAR DO CILINDRO, TESTAR OS CONTROLES\nNão usa senha\n\n\nmaquina kd\nArq: GOL\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\nn-skp\n-smelecom\n-vagtacho\n-upa\n-x100 pad",
+        "videoLink": "https://www.youtube.com/watch?v=QiQDS3LCjtc&pp=ygUncHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gc2F2ZWlybyAxOTk5"
+      },
+      "save96a2": {
+        "laminasKeys": "Gold: 602;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "maquinasCodificadoras": "-obdmap\n-remap/scanicar\n-sbb\nn-skp\n-rasther\n-smelecom\n-upa\n-vagtacho",
+        "videoLink": "https://www.youtube.com/watch?v=QiQDS3LCjtc&pp=ygUncHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gc2F2ZWlybyAxOTk5"
+      },
+      "saveg4": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 1J0959753G\nHabilita Por procedimento\nProcedimento: 1. DESBLOQUEAR O ALARME COM\nEQUIPAMENTO ADEQUADO OU DEIXAR AS PORTAS DESTRANCADAS POR 3 HORAS\n2. LIGAR O CONTATO (PAINEL ACESO) COM UMA CHAVE HABILITADA NO CARRO\n3. BAIXAR O VIDRO DA PORTA DO MOTORISTA\n 4. COLOCAR UMA SEGUNDA CHAVE NO CILINDRO DE PORTA ESQUERDA, GIRAR NO SENTIDO HORÁRIO (TRANCAR) E MANTER NESSA POSIÇÃO POR 4 SEGUNDOS\n5. GIRAR A CHAVE NO SENTIDO ANTI- HORÁRIO (DESTRAVAR) E MANTER NESTA POSIÇÃO\n6. APERTAR O BOTÃO DE TRAVAR DO CONTROLE ATÉ AS TRAVAS REPICAREM, PARA MAIS CONTROLES, APERTAR O BOTÃO DE TRAVAR NA SEQUÊNCIA SEM VOLTAR A CHAVE\n7. APÓS APRESENTADOS TODOS OS CONTROLES, ABRIR A PORTA, DESLIGAR O CONTATO E TESTAR\nNão usa senha\n\n\nMaquina KD\nArq: gol\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-Faz+\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-smelecom\n-vagtacho\n-tango\n-tmpro\n-upa\n-Zed full\n-X100 Pad\n-skp",
+        "videoLink": "https://www.youtube.com/watch?v=g9ADsuhp7a0&pp=ygUlcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gc2F2ZWlybyBnNA%3D%3D"
+      },
+      "saveg6": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilita por equipamento\nnSenha: 4 dígitos numéricos\nEm alguns equipamentos é necessário pré codificar o transponder",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 7e0 837 202 ad\nHabilita por equipamento\nnão usa senha\n\nMaquina kd\nArquivo: 5k0837202ad\ntipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-faz+\n-igold\n-remap/scanicar\n-VagTacho\n-vvdi\n-rasther\n-upa\n-X100 Pad\n-Smelecom",
+        "videoLink": "https://www.youtube.com/watch?v=HTLdMPtrpbI&pp=ygUlcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gc2F2ZWlybyBnNg%3D%3D"
+      },
+      "SPACE": {
+        "Gasolina": {}
+      },
+      "space10": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 5z0 959 753 e\nHabilita Por procedimento\nProcedimento: 1. DESBLOQUEAR O ALARME COM EQUIPAMENTO ADEQUADO OU DEIXAR AS PORTAS DESTRANCADAS POR 3 HORAS\n2. LIGAR O CONTATO (PAINEL ACESO) COM UMA CHAVE HABILITADA NO CARRO\n3. BAIXAR O VIDRO DA PORTA DO MOTORISTA\n 4. COLOCAR UMA SEGUNDA CHAVE NO CILINDRO DE PORTA ESQUERDA, GIRAR NO SENTIDO HORÁRIO (TRANCAR) E MANTER NESSA POSIÇÃO POR 4 SEGUNDOS\n5. GIRAR A CHAVE NO SENTIDO ANTI- HORÁRIO (DESTRAVAR) E MANTER NESTA POSIÇÃO\n6. APERTAR O BOTÃO DE TRAVAR DO CONTROLE ATÉ AS TRAVAS REPICAREM, PARA MAIS CONTROLES, APERTAR O BOTÃO DE TRAVAR NA SEQUÊNCIA SEM VOLTAR A CHAVE\n7. APÓS APRESENTADOS TODOS OS CONTROLES, ABRIR A PORTA, DESLIGAR O CONTATO E TESTAR\nNão usa senha",
+        "maquinasCodificadoras": "-fácil\n-Faz+\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp",
+        "videoLink": "https://www.youtube.com/watch?v=HRMqBopX9uk&pp=ygUocHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gc3BhY2Vmb3ggMjAxMQ%3D%3D"
+      },
+      "space1113": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 6QE 959 753\nHabilita Por procedimento\n\nProcedimento: 1. LIGAR O CONTATO COM UMA CHAVE VÁLIDA (HABILITADA) E DEIXAR O VIDRO DA PORTA DO MOTORISTA ABAIXADO\n2. FECHAR TODAS AS PORTAS SEM TRANCAR\n3. COLOCAR A CHAVE NOVA NO CILINDRO DA PORTA DO MOTORISTA\n4. VIRAR A CHAVE PARA DESTRAVAR (SENTIDO ANTI-HORÁRIO) E MANTER A CHAVE VIRADA\n5. APERTAR O BOLTÃO \"LOCK\" DO CONTROLE VÁRIAS VEZES, ATÉ AS TRAVAS DAS PORTAS REPICAREM\n6. SE FOR HABILITAR MAIS COMANDOS, REPITA OS PASSOS 4 E 5\n7. APÓS HABILITAR TODOS OS CONTROLES, ABRA A PORTA, DESLIGUE A IGNIÇÃO E TESTE OS CONTROLES(MÁXIMO 4)\nNão usa senha\n\nmaquina kd\nArquivo: 6qe959753\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-Faz+\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp",
+        "videoLink": "https://www.youtube.com/watch?v=HRMqBopX9uk&pp=ygUocHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gc3BhY2Vmb3ggMjAxMQ%3D%3D"
+      },
+      "space1419": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 5k0 837 202 ad\nHabilita por equipamento\nNão usa senha\n\nmaquina kd\nArq: 5k0837202ad\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-Faz+\n-igold\n-obdmap\n-rasther\n-remap/scanicar\n-smelecom\n-vagtacho\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=7L7mBLMgX3k&pp=ygUocHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gc3BhY2Vmb3ggMjAxNw%3D%3D"
+      },
+      "space69": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 1J0959753G\nHabilita Por procedimento\nProcedimento: 1. DESBLOQUEAR O ALARME COM EQUIPAMENTO ADEQUADO OU DEIXAR AS PORTAS DESTRANCADAS POR 3 HORAS\n2. LIGAR O CONTATO (PAINEL ACESO) COM UMA CHAVE HABILITADA NO CARRO\n3. BAIXAR O VIDRO DA PORTA DO MOTORISTA\n 4. COLOCAR UMA SEGUNDA CHAVE NO CILINDRO DE PORTA ESQUERDA, GIRAR NO SENTIDO HORÁRIO (TRANCAR) E MANTER NESSA POSIÇÃO POR 4 SEGUNDOS\n5. GIRAR A CHAVE NO SENTIDO ANTI- HORÁRIO (DESTRAVAR) E MANTER NESTA POSIÇÃO\n6. APERTAR O BOTÃO DE TRAVAR DO CONTROLE ATÉ AS TRAVAS REPICAREM, PARA MAIS CONTROLES, APERTAR O BOTÃO DE TRAVAR NA SEQUÊNCIA SEM VOLTAR A CHAVE\n7. APÓS APRESENTADOS TODOS OS CONTROLES, ABRIR A PORTA, DESLIGAR O CONTATO E TESTAR\nNão usa senha\n\nMaquina KD\nArq: Fox Brazil\nTipo: Série b ou multifuncional",
+        "videoLink": "https://www.youtube.com/watch?v=P39GJJX7t7Y&pp=ygUocHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gc3BhY2Vmb3ggMjAwNw%3D%3D"
+      },
+      "TIGUAN": {
+        "Gasolina": {}
+      },
+      "tiguan1213": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: por equipamento via obdii\nSenha: 5 díg. numéricos\nEm caso de confecção é preciso retirar o painel para adicionar a 1ª chave",
+        "valueDataKeyChip": "id: 48; série: t44;",
+        "transponderNomenclatura": "id48 can tp23",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 1k0 959 753 n\nHabilita por equipamento\nNão usa senha\n\nsmart key\nRef: 5k0 837 202 aj\nHabilita c/ o transponder\nNão usa senha",
+        "maquinasCodificadoras": "-fácil\n-igold\n-obd star x300\n-obdmap\n-rasther\n-smelecom\n-vagtacho\n-vvdi-\n-x100 pad\n-zed full",
+        "videoLink": "https://www.youtube.com/watch?v=wenPLFVB0vU&pp=ygUmcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gdGlndWFuIDIwMTM%3D"
+      },
+      "tiguan1417": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: por equipamento via obdii\nSenha: 5 díg. numéricos\nEm caso de confecção é preciso retirar o painel para adicionar a 1ª chave",
+        "valueDataKeyChip": "id: 48; série: t44;",
+        "transponderNomenclatura": "id48 can tp23",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 5k0 837 202 ad\nHabilita por equipamento\nNão usa senha\n\nsmart key\nRef: 5k0 837 202 aj\nHabilita c/ o transponder\nNão usa senha\n\nmaquina kd\nRef: 5k0837202ad\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-obd star x300\n-obdmap\n-rasther\n-smelecom\n-vagtacho\n-vvdi-\n-x100 pad\n-zed full",
+        "videoLink": "https://www.youtube.com/watch?v=P3harvGE330&pp=ygUmcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gdGlndWFuIDIwMTI%3D"
+      },
+      "tiguan911": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: por equipamento via obdii\nSenha: 5 díg. numéricos\nEm caso de confecção é preciso retirar o painel para adicionar a 1ª chave",
+        "valueDataKeyChip": "id: 48; série: t44;",
+        "transponderNomenclatura": "id48 can tp23",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 1k0 959 753 n\nHabilita por equipamento\nNão usa senha",
+        "maquinasCodificadoras": "-obd star x300\n-obdmap\n-rasther\n-smelecom\n-vagtacho\n-vvdi-\n-x100 pad\n-zed full",
+        "videoLink": "https://www.youtube.com/watch?v=1HFyUxKGl0Q"
+      },
+      "up": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilita por equipamento obdii\nnSenha: 5 dígitos",
+        "valueDataKeyChip": "id: 48; série: t44;",
+        "transponderNomenclatura": "id48 can tp23",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoProcedure": "Ref: 5k0 837 202 ad\nHabilita por equipamento\nNão usa senha\n\nmaquina kd\nRef: 5k0837202ad\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-obdmap\n-rasther\n-smelecom\n-vagtacho\n-upa\n-remap/scanicar",
+        "videoLink": "https://www.youtube.com/watch?v=eBID72wR0VM&pp=ygUdcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gdXA%3D"
+      },
+      "UP": {
+        "Gasolina": {}
+      },
+      "voy1420": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 5k0 837 202 ad\nHabilita por equipamento\nNão usa senha\n\nmaquina kd\nArq: 5k0837202ad\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-igold\n-obdmap\n-rasther\n-remap/scanicar\n-smelecom\n-vagtacho",
+        "videoLink": "https://www.youtube.com/watch?v=3lCVBXRTkto&pp=ygUmcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gVk9ZQUdFIDIwMTg%3D"
+      },
+      "voy913": {
+        "laminasKeys": "Gold: 683; Silca: hu66;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Para desbloquear deixe o contato ligado por 1hora",
+        "valueDataKeyChip": "id: 48; série: t42;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 6QE 959 753\nHabilita Por procedimento\n\nProcedimento: 1-Ligue o contato c/ uma chave válida e desbloqueie o alarme\n2-baixe o vidro do motorista\n3-Feche a porta e vire o cilindro para destravar, mantenha a chave virada e aperte o botão de travar do telecomando até as travas repicarem\nNão usa a senha\n\nmaquina kd\nArquivo: 6qe959753\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-fácil\n-Faz+\n-igold\n-obdmap\n-rasther\n-remap/scanicar\n-smelecom\n-vagtacho\n-upa",
+        "videoLink": "https://www.youtube.com/watch?v=g9ADsuhp7a0&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIHZvbGtzd2FnZW4gVk9ZQUdF"
+      },
+      "VOYAGE": {
+        "Gasolina": {}
+      }
+    }
+  ]
+}

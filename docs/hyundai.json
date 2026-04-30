@@ -1,0 +1,150 @@
+{
+  "items": [
+    {
+      "azr11": {
+        "valueDataKeyChip": "ID: 60; Série: t58;",
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente c/ transponder virgem",
+        "laminasKeys": "Silca: KIA7",
+        "transponderClone": "cn5 ou super chip vvdi",
+        "transponderNomenclatura": "4d id60 80 bits dst",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: oka-865t(md f/l)\nHabilita por equipamento\nProced.: Pode habilitar usando comandos\nnão usa senha\n\nMáquina KD\nArquivo: 5wy8421 azera by fateh\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-IGold\n-OBD Star X300\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=ffGr8kibBH8&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgYXplcmEgMjAxMQ%3D%3D"
+      },
+      "azr12m": {
+        "valueDataKeyChip": "ID: 60; Série: t58;",
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente c/ transponder virgem",
+        "laminasKeys": "Silca: KIA7",
+        "transponderClone": "cn5 ou super chip vvdi",
+        "transponderNomenclatura": "4d id60 80 bits dst",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: oka-865t(md f/l)\nHabilita por equipamento\nProced.: Pode habilitar usando comandos\nnão usa senha",
+        "maquinasCodificadoras": "-Fácil\n-OBD Star X300\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=Z9owNtUOYIE&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgYXplcmEgMjAxNA%3D%3D"
+      },
+      "creta": {
+        "valueDataKeyChip": "ID: 60; Série: t58;",
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente c/ transponder virgem. Não são todas as chaves que podem ser clonadas,pois alguns modelos o transponder está travado",
+        "laminasKeys": "Silca: HYN14R",
+        "transponderClone": "cn5 ou super chip vvdi",
+        "transponderNomenclatura": "4d id60 80 bits dst",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 95430-m4000\nHabilita por equipamento\nnão usa senha\n\nSMART KEY\nRef:95440-m4000\nFreq: 433Mhz\nHabilita por equipamento\nSenha: 6 díg. numéricos",
+        "maquinasCodificadoras": "-Fácil\n-igold*\n-OBD Star X300\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=7s-NrL8z2Zw&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgY3JldGEgMjAxNA%3D%3D"
+      },
+      "elantra1215": {
+        "valueDataKeyChip": "ID: 46; pcf: 7936; Série: t19;",
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente c/ transponder virgem",
+        "laminasKeys": "Silca: HYN14R",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "transponderNomenclatura": "7936aa id46",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "SMART KEY\nRef: cmfeu03\nFreq: 433Mhz\nHabilita por equipamento\nSenha: 6 díg. numéricos",
+        "maquinasCodificadoras": "-Fácil\n-igold\n-OBD Star X300\n-obdmap\n-remap/scanicar\n-skp\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=Oom9EI30D68&pp=ygUkcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgZWxhbnRyYSAyMDE0"
+      },
+      "elantra16": {
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente c/ transponder virgem",
+        "laminasKeys": "Silca: HYN14R",
+        "transponderNomenclatura": "4d8a dst aes (id8a)",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "SMART KEY\nRef: 95440-f2100\nFreq: 433Mhz\nHabilita por equipamento\nSenha: 6 díg. numéricos",
+        "maquinasCodificadoras": "-OBD Star X300\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=wnvYw_jW64I&pp=ygUkcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgZWxhbnRyYSAyMDE2"
+      },
+      "elantra1719": {
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente c/ chave virgem",
+        "laminasKeys": "Silca: HYN14R",
+        "transponderNomenclatura": "4d8a dst aes (id8a)",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Pode habilitar comandos usados\nNão usa senha\n\nSMART KEY\nRef: 95440-f2100\nFreq: 433Mhz\nHabilita por equipamento\nSenha: 6 díg. numéricos",
+        "maquinasCodificadoras": "-OBD Star X300\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=wnvYw_jW64I&pp=ygUkcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgZWxhbnRyYSAyMDE2"
+      },
+      "hb2013a18": {
+        "valueDataKeyChip": "id: 60; Série t58;",
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente c/ transponder virgem",
+        "laminasKeys": "Silca: HYN14R;",
+        "transponderClone": "cn5 ou super chip vvdi",
+        "transponderNomenclatura": "4d id60 80bits dst",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "Ref: 95430-1s000/95430-1s100\nHabilita por equipamento\nNão usa senha\n\nMaquina KD\nRef: 95430-3k010 433 ou HB20 2015 fsk 433\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-igold\n-OBD Star X300\n-obdmap\n-rasther\n-remap/scanicar\n-skp\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=sGKjoRJZf1s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgaGIyMCAyMDE2"
+      },
+      "hb2019": {
+        "valueDataKeyChip": "id:60* pcf: 7939; série: t58*/t59; (*Depende do veículo pode ser um ou outro ID/SERIE)",
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente c/ transponder virgem",
+        "laminasKeys": "Silca: HYN14R;",
+        "transponderClone": "não clona",
+        "transponderNomenclatura": "4d id60 80bits dst / 7939MA 128bits",
+        "telecomandoFrequency": "433/434",
+        "telecomandoProcedure": "Ref: 95430-1s000/95430-1s100\nHabilita por equipamento\nNão usa senha\n\nMaquina KD\nRef: 95430-3k010 433 ou HB20 2015 fsk 433\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-igold\n-OBD Star X300\n-obdmap\n-remap/scanicar\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=V7YZdqVIBFU&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgaGIyMCAyMDE4"
+      },
+      "hb20m": {
+        "valueDataKeyChip": "pcf: 7939; série: t59;",
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente c/ transponder virgem",
+        "laminasKeys": "Silca: HYN14R;",
+        "transponderClone": "não clona",
+        "transponderNomenclatura": "4d id60 80bits dst / 7939MA 128bits",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 95430-r1100\nFreq: 433MHZ\nHabilita por equipamento\nProcedimento: pode habilitar por comandos usados\nNão usa senha",
+        "maquinasCodificadoras": "-Fácil\n-igold\n-OBD Star X300\n-obdmap\n-remap/scanicar\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=1kbUzDREKzw&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgaGIyMCAyMDE4"
+      },
+      "i301317": {
+        "laminaTextDica": "Habilita por equipamento via OBDII\nNão usa senha",
+        "laminasKeys": "Silca: kia7",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 95430-a5100\nHabilita por equipamento\nDica: Fazer todo o processo com o contato desligado\nNão usa senha",
+        "maquinasCodificadoras": "-Fácil\n-igold\n-OBD Star X300\n-obdmap\n-rasther\n-remap/scanicar\n-SBB\n-skp\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=ev3JeRFqNwc&pp=ygUgcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgaTMwIDIwMTA%3D"
+      },
+      "i309a12": {
+        "laminaTextDica": "Habilita por equipamento via OBDII\nNão usa senha",
+        "laminasKeys": "Silca: kia7",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 95430-2l600\nHabilita por equipamento\nDica: Fazer todo o processo com o contato desligado\nNão usa senha",
+        "maquinasCodificadoras": "-Fácil\n-igold\n-OBD Star X300\n-obdmap\n-rasther\n-remap/scanicar\n-SBB\n-skp\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=ev3JeRFqNwc&pp=ygUgcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgaTMwIDIwMTA%3D"
+      },
+      "stfe": {
+        "laminaTextDica": "Habilita Por equipamento via OBDII\nNão usa senha",
+        "laminasKeys": "Silca: hyn14r;",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: ha-t039\nHabilita por equipamento\nDica: Fazer todo o processo com o contato desligado\nNão usa senha",
+        "maquinasCodificadoras": "-Fácil\n-igold\n-OBD Star X300\n-obdmap\n-rasther\n-remap/scanicar\n-SBB\n-skp\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=abGT5Mj0Xjw&pp=ygUmcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgc2FudGEgZsOpIDIwMTE%3D"
+      },
+      "tucs1821": {
+        "laminasKeys": "SILCA: hyn14r;",
+        "valueDataKeyChip": "id: 47; pcf: 7938;",
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente chave virgem",
+        "telecomandoProcedure": "Pode habilitar comandos usados\nNão usa senha\n\nSMART KEY\nRef: 95440-d3000\nFreq:433MHz\nHabilita por equipamento\nSenha: 6 dígitos",
+        "maquinasCodificadoras": "-OBD Star X300\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=4wBFdC2bxJQ&pp=ygUjcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgdHVjc29uIDIwMjA%3D"
+      },
+      "tucs517": {
+        "laminasKeys": "SILCA: hyn6;",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: oka-311t/f02\nHabilita por equipamento\nDica: Fazer todo o processo com o contato desligado\nNão usa senha\n\nMáquina KD\nArq.: oka-312t 954302e100\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-igold\n-OBD Star X300\n-obdmap\n-rasther\n-remap/scanicar\n-SBB\n-skp\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=WlT56wzT1cI&pp=ygUjcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgdHVjc29uIDIwMDc%3D"
+      },
+      "velos517": {
+        "valueDataKeyChip": "id: 46; pcf: 7936; série: t19;",
+        "laminaTextDica": "Por equipamento via OBDII\nSenha: 6 dígitos numéricos\nDica:Somente chave virgem",
+        "laminasKeys": "SILCA: HY18;",
+        "transponderClone": "Não clona",
+        "transponderNomenclatura": "7936aa id46",
+        "telecomandoProcedure": "Smart key: Ref: 95440-3j501(fobik)\nHabilita por equipamento\nSenha: 6 díg. numéricos",
+        "maquinasCodificadoras": "-igold\n-OBD Star X300\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=Lc2VJI9fLIE&pp=ygUlcHJvZ3JhbWFyIGNoYXZlIGh5dW5kYWkgdmVyYWNydXogMjAxMg%3D%3D"
+      }
+    }
+  ]
+}

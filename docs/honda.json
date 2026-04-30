@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "accord": {
+        "valueDataKeyChip": "ID: 46; pcf: 7936; Série: t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;\nDica: Pode ser habilitado por chave usada",
+        "laminasKeys": "Gold: 823; Silca: HON66;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "PCF7936AA ID46",
+        "telecomandoProcedure": "Ref: 3518-sta-m01\nHabilita por procedimento\nApós habilitar, aperte todos os botões de tranca de todos os telecomandos em sequência\n\nPara sincronizar controles que saão do carro e pararam de funcionar:\n1-Feche todas as portas sem travar\n2-Ligue o contato\n3-Sem desligar o contato aperte o botão de travar do controle\n4-Desigue o contato\n5-Ligue o contato\n6-Sem desligar o contato aperte o botão de travar do controle\n7-Desigue o contato\n8-Ligue o contato\n9-Sem desligar o contato aperte o botão de travar do controle\n10-Desigue o contato\n11-Ligue o contato\n12-Sem desligar o contato, aperte o botão de travar do controle\n13-Se o controle for aceito as travas da porta farão um som\n14-Tire a chave do contato e aperte o botão de destravar 3 vezes\nNão usa senha",
+        "telecomandoFrequency": "313",
+        "maquinasCodificadoras": "-Autel IM 608/508\n-obd Star X300\n-SKP\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=G-_HuqQziI4&pp=ygUVb25peCBjbG9uZSBjaGF2ZSBwbHVz"
+      },
+      "city1013": {
+        "valueDataKeyChip": "ID: 46; pcf: 7936; Série: t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;\nDica: Pode ser habilitado por chave usada",
+        "laminasKeys": "Gold: 823; Silca: HON66;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "PCF7936AA ID46",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 3518-sta-m01\nHabilita por procedimento\nApós habilitar, aperte todos os botões de tranca de todos os telecomandos em sequência\n\nPara sincronizar controles que saão do carro e pararam de funcionar:\n1-Feche todas as portas sem travar\n2-Ligue o contato\n3-Sem desligar o contato aperte o botão de travar do controle\n4-Desigue o contato\n5-Ligue o contato\n6-Sem desligar o contato aperte o botão de travar do controle\n7-Desigue o contato\n8-Ligue o contato\n9-Sem desligar o contato aperte o botão de travar do controle\n10-Desigue o contato\n11-Ligue o contato\n12-Sem desligar o contato, aperte o botão de travar do controle\n13-Se o controle for aceito as travas da porta farão um som\n14-Tire a chave do contato e aperte o botão de destravar 3 vezes\nNão usa senha\n\nMáquina KD\nArquivo: 2013CRV fit USA\nTipo: série B ou multifuncional",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-skp\n-sbb\n-Zed full\n-X100 Pad\n-VVDI",
+        "videoLink": "https://www.youtube.com/watch?v=VuyN6T6wQMQ"
+      },
+      "city1421": {
+        "valueDataKeyChip": "ID: 46; pcf: 7938; Série: t49;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;\nDica: Somente chave virgem",
+        "laminasKeys": "Gold: 823; Silca: HON66;",
+        "transponderClone": "NÃO CLONA",
+        "transponderNomenclatura": "7938XA ID46 LOCK A",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref:35114-tr0-m0\nHabilita junto com o transponder\nNão usa senha\n\nMáquinas KD\nArquivo: 15fit civic new xrv with G47 chip(433)\nTipo:Mutifuncional",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-skp\n-sbb\n-Zed full\n-X100 Pad\n-VVDI",
+        "videoLink": "https://www.youtube.com/watch?v=u1tRcSiTDjs&pp=ygUgcHJvZ3JhbWFyIGNoYXZlIGhvbm5kYSBjaXR5IDIwMTI%3D"
+      },
+      "civic14a21": {
+        "valueDataKeyChip": "ID: 46; pcf: 7938; Série: t49;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;\nDica: Somente chave virgem",
+        "laminasKeys": "Gold: 823; Silca: HON66;",
+        "transponderClone": "não clona",
+        "transponderNomenclatura": "7938XA ID46 LOCK A",
+        "telecomandoFrequency": "313",
+        "telecomandoProcedure": "Habilita junto c/ o transponder\nProcedimento: Após habilitar todas as chaves, aperte o botão de trancar de todos os telecomandos em sequência\nNão usa senha\nSmart Key: Freq: 315Mhz\nHabilita por equipamento\nNão utiliza senha",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x30\n-skp\n-Zed full\n-X100 Pad\n-VVDI",
+        "videoLink": "https://www.youtube.com/watch?v=l898E5Sckr8&pp=ygUgcHJvZ3JhbWFyIGNoYXZlIGhvbmRhIGNpdmljIDIwMTY%3D"
+      },
+      "civic4a6": {
+        "valueDataKeyChip": "ID: 46; pcf: 7936; Série: t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;\nDica: Pode ser habilitado por chave usada",
+        "laminasKeys": "Gold: 823; Silca: HON66;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "PCF7936AA ID46",
+        "telecomandoFrequency": "313",
+        "telecomandoProcedure": "Habilita por procedimento\nApós habilitar, aperte todos os botões de tranca de todos os telecomandos em sequência\n\nPara sincronizar controles que saão do carro e pararam de funcionar:\n1-Feche todas as portas sem travar\n2-Ligue o contato\n3-Sem desligar o contato aperte o botão de travar do controle\n4-Desigue o contato\n5-Ligue o contato\n6-Sem desligar o contato aperte o botão de travar do controle\n7-Desigue o contato\n8-Ligue o contato\n9-Sem desligar o contato aperte o botão de travar do controle\n10-Desigue o contato\n11-Ligue o contato\n12-Sem desligar o contato, aperte o botão de travar do controle\n13-Se o controle for aceito as travas da porta farão um som\n14-Tire a chave do contato e aperte o botão de destravar 3 vezes\nNão usa senha",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-skp\n-Zed full\n-X100 Pad\n-VVDI",
+        "videoLink": "https://www.youtube.com/watch?v=AkYiXAUEZzE&pp=ygUgcHJvZ3JhbWFyIGNoYXZlIGhvbmRhIGNpdmljIDIwMTA%3D"
+      },
+      "civic7a13": {
+        "valueDataKeyChip": "ID: 46; pcf: 7936; Série: t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;\nDica: Pode ser habilitado por chave usada",
+        "laminasKeys": "Gold: 823; Silca: HON66;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "PCF7936AA ID46",
+        "telecomandoFrequency": "313",
+        "telecomandoProcedure": "Habilita por procedimento\nApós habilitar, aperte todos os botões de tranca de todos os telecomandos em sequência\n\nPara sincronizar controles que saão do carro e pararam de funcionar:\n1-Feche todas as portas sem travar\n2-Ligue o contato\n3-Sem desligar o contato aperte o botão de travar do controle\n4-Desigue o contato\n5-Ligue o contato\n6-Sem desligar o contato aperte o botão de travar do controle\n7-Desigue o contato\n8-Ligue o contato\n9-Sem desligar o contato aperte o botão de travar do controle\n10-Desigue o contato\n11-Ligue o contato\n12-Sem desligar o contato, aperte o botão de travar do controle\n13-Se o controle for aceito as travas da porta farão um som\n14-Tire a chave do contato e aperte o botão de destravar 3 vezes\nNão usa senha\n\nMáquina KD\nArquivo: 2013CRV fit USA\nTipo: série B ou multifuncional",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-skp\n-Zed full\n-X100 Pad\n-VVDI",
+        "videoLink": "https://www.youtube.com/watch?v=AkYiXAUEZzE&pp=ygUgcHJvZ3JhbWFyIGNoYXZlIGhvbmRhIGNpdmljIDIwMTA%3D"
+      },
+      "fit14a21": {
+        "valueDataKeyChip": "ID: 46; pcf: 7938; Série: t50;",
+        "laminaTextDica": "Habilita via obdii\nNão usa senha\nDica: Somente chave virgem",
+        "laminasKeys": "Gold: 823; Silca: HON66;",
+        "transponderClone": "NÃO CLONA",
+        "transponderNomenclatura": "7938XA ID46 LOCK G",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref:35114-t0a-m11/35111-t7s-k01\nHabilita junto com o transponder\nNão usa senha\n\nMáquinas KD\nArquivo: civic 2013 47a/ 15fit civic new xrv with G47 chip(433)\nTipo:Mutifuncional",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-skp\n-sbb\n-Zed full\n-X100 Pad\n-VVDI",
+        "videoLink": "https://www.youtube.com/watch?v=ySZdcpFTRPE&pp=ygUecHJvZ3JhbWFyIGNoYXZlIGhvbmRhIGZpdCAyMDE4"
+      },
+      "fit3a8": {
+        "laminaTextDica": "Não usa senha",
+        "laminasKeys": "Gold: 823; Silca: HON66;",
+        "telecomandoProcedure": "Habilita por procedimento\nApós habilitar, aperte todos os botões de tranca de todos os telecomandos em sequência\n\nPara sincronizar controles que saão do carro e pararam de funcionar:\n1-Feche todas as portas sem travar\n2-Ligue o contato\n3-Sem desligar o contato aperte o botão de travar do controle\n4-Desigue o contato\n5-Ligue o contato\n6-Sem desligar o contato aperte o botão de travar do controle\n7-Desigue o contato\n8-Ligue o contato\n9-Sem desligar o contato aperte o botão de travar do controle\n10-Desigue o contato\n11-Ligue o contato\n12-Sem desligar o contato, aperte o botão de travar do controle\n13-Se o controle for aceito as travas da porta farão um som\n14-Tire a chave do contato e aperte o botão de destravar 3 vezes\nNão usa senha\n\nMáquina KD\nArquivo: HONDA FIT 03-08 433\nTipo: série B ou multifuncional",
+        "videoLink": "https://www.youtube.com/watch?v=vRCeqw9gE6Y&pp=ygUecHJvZ3JhbWFyIGNoYXZlIGhvbmRhIGZpdCAyMDA1"
+      },
+      "fit9a13": {
+        "valueDataKeyChip": "id: 46; pcf:7936; Série: t19;",
+        "laminaTextDica": "Habilita via obdii\nNão usa senha\nDica: Pode ser habilitado por chave usada",
+        "laminasKeys": "Gold: 823; Silca: HON66;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "PCF7936AA ID46",
+        "telecomandoFrequency": "313",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoProcedure": "Ref: 35111-swa-307\nHabilita por procedimento\nApós habilitar, aperte todos os botões de tranca de todos os telecomandos em sequência\n\nPara sincronizar controles que saão do carro e pararam de funcionar:\n1-Feche todas as portas sem travar\n2-Ligue o contato\n3-Sem desligar o contato aperte o botão de travar do controle\n4-Desigue o contato\n5-Ligue o contato\n6-Sem desligar o contato aperte o botão de travar do controle\n7-Desigue o contato\n8-Ligue o contato\n9-Sem desligar o contato aperte o botão de travar do controle\n10-Desigue o contato\n11-Ligue o contato\n12-Sem desligar o contato, aperte o botão de travar do controle\n13-Se o controle for aceito as travas da porta farão um som\n14-Tire a chave do contato e aperte o botão de destravar 3 vezes\nNão usa senha\n\nMáquina KD\nArquivo: 2013CRV fit USA\nTipo: série B ou multifuncional",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-skp\n-sbb\n-Zed full\n-X100 Pad\n-VVDI",
+        "videoLink": "https://www.youtube.com/watch?v=q2UMe68vJ0Q&pp=ygUecHJvZ3JhbWFyIGNoYXZlIGhvbmRhIGZpdCAyMDEw"
+      },
+      "hrvwrv": {
+        "valueDataKeyChip": "ID: 46; pcf: 7938; Série: t50;",
+        "laminaTextDica": "Habilita via obdii\nNão usa senha\nDica: Somente chave virgem",
+        "laminasKeys": "Gold: 823; Silca: HON66;",
+        "transponderClone": "NÃO CLONA",
+        "transponderNomenclatura": "7938XA ID46 LOCK G",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "35111-t7s-k01\nHabilita por procedimento\nProcedimento:Após habilitar todas as chaves, aperte o botão trancar de todos oos telecomandos em sequência\nNão usa senha\n\nMáquinas KD\nArquivo: civic 2013 47a/ 15fit civic new xrv with G47 chip(433)\nTipo:Mutifuncional",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-skp\n-sbb\n-Zed full\n-X100 Pad\n-VVDI",
+        "videoLink": "https://www.youtube.com/watch?v=ySZdcpFTRPE&pp=ygUecHJvZ3JhbWFyIGNoYXZlIGhvbmRhIGZpdCAyMDE4"
+      }
+    }
+  ]
+}

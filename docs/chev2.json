@@ -1,5 +1,261 @@
-{ "items": [{
-   "Meriva 1_PDOT8/ CD 1_PDOT8 MPFI 16V 122cv 5p": {
+{
+  "items": [
+    {
+      "malibu": {
+        "laminasKeys": "Silca: b111;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;",
+        "laminaPalhetas": {
+          "portamalas": [
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          "ignicao": [
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          "porta": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false
+          ]
+        },
+        "valueDataKeyChip": "ID: 46; PCF: 7937; ",
+        "transponderNomenclatura": "PCF7937 id46 ",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+        "telecomandoFrequency": "315",
+        "telecomandoBatery": "CR 2032 3v",
+        "telecomandoProcedure": "Habilitação: Por equipamento; Não usa senha;\n\nMáquina KD\nTipo: Série B ou Multifuncional",
+        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc1ylVN_NW-ZSZE9sr3gwqUi5bytu_kk9dOnYdXbkez9grHQpHIpimLYP6XJjVL8saSKq-mB7CRgqeJSCc5wz5r4Eeu9AmXxO9LtKlo4Ul1StlcOMsW9MnGx-J8oDrDLqhyphenhyphen32hYvOeVHPQiJUKNMm2syqrPO4Jz8K9cd3AdZ2Ijn24rGggfPLNYFeJFqG-/s686/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2014.56.42.png",
+        "maquinasCodificadoras": "-obd star x300\n-x100 pad\n-Zed full",
+        "videoLink": "https://www.youtube.com/watch?v=otOqISJk1TU"
+      },
+      "MALIBU LTZ 2_PDOT4 16V 171cv 4p": {
+        "Gasolina": {
+          "2013": {
+            "valueKeyCopy": "540",
+            "valueKeyAlarm": "950",
+            "valueKeyConfect": "1220",
+            "valueKeyConfectAlarm": "1560",
+            "valueCopyStore": "2710",
+            "laminasKeys": "Silca: b111;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;",
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937 id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: Por equipamento; Não usa senha;\n\nMáquina KD\nTipo: Série B ou Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc1ylVN_NW-ZSZE9sr3gwqUi5bytu_kk9dOnYdXbkez9grHQpHIpimLYP6XJjVL8saSKq-mB7CRgqeJSCc5wz5r4Eeu9AmXxO9LtKlo4Ul1StlcOMsW9MnGx-J8oDrDLqhyphenhyphen32hYvOeVHPQiJUKNMm2syqrPO4Jz8K9cd3AdZ2Ijn24rGggfPLNYFeJFqG-/s686/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2014.56.42.png",
+            "maquinasCodificadoras": "-obd star x300\n-x100 pad\n-Zed full",
+            "videoLink": "https://www.youtube.com/watch?v=otOqISJk1TU"
+          },
+          "2012": {
+            "valueKeyCopy": "320",
+            "valueKeyAlarm": "570",
+            "valueKeyConfect": "730",
+            "valueKeyConfectAlarm": "930",
+            "valueCopyStore": "1630",
+            "laminasKeys": "Silca: b111;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;",
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937 id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: Por equipamento; Não usa senha;\n\nMáquina KD\nTipo: Série B ou Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc1ylVN_NW-ZSZE9sr3gwqUi5bytu_kk9dOnYdXbkez9grHQpHIpimLYP6XJjVL8saSKq-mB7CRgqeJSCc5wz5r4Eeu9AmXxO9LtKlo4Ul1StlcOMsW9MnGx-J8oDrDLqhyphenhyphen32hYvOeVHPQiJUKNMm2syqrPO4Jz8K9cd3AdZ2Ijn24rGggfPLNYFeJFqG-/s686/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2014.56.42.png",
+            "maquinasCodificadoras": "-obd star x300\n-x100 pad\n-Zed full",
+            "videoLink": "https://www.youtube.com/watch?v=otOqISJk1TU"
+          },
+          "2011": {
+            "valueKeyCopy": "300",
+            "valueKeyAlarm": "520",
+            "valueKeyConfect": "670",
+            "valueKeyConfectAlarm": "860",
+            "valueCopyStore": "1490",
+            "laminasKeys": "Silca: b111;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;",
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937 id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: Por equipamento; Não usa senha;\n\nMáquina KD\nTipo: Série B ou Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc1ylVN_NW-ZSZE9sr3gwqUi5bytu_kk9dOnYdXbkez9grHQpHIpimLYP6XJjVL8saSKq-mB7CRgqeJSCc5wz5r4Eeu9AmXxO9LtKlo4Ul1StlcOMsW9MnGx-J8oDrDLqhyphenhyphen32hYvOeVHPQiJUKNMm2syqrPO4Jz8K9cd3AdZ2Ijn24rGggfPLNYFeJFqG-/s686/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2014.56.42.png",
+            "maquinasCodificadoras": "-obd star x300\n-x100 pad\n-Zed full",
+            "videoLink": "https://www.youtube.com/watch?v=otOqISJk1TU"
+          },
+          "2010": {
+            "valueKeyCopy": "270",
+            "valueKeyAlarm": "480",
+            "valueKeyConfect": "620",
+            "valueKeyConfectAlarm": "800",
+            "valueCopyStore": "1390",
+            "laminasKeys": "Silca: b111;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nNão usa senha;",
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937 id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: Por equipamento; Não usa senha;\n\nMáquina KD\nTipo: Série B ou Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc1ylVN_NW-ZSZE9sr3gwqUi5bytu_kk9dOnYdXbkez9grHQpHIpimLYP6XJjVL8saSKq-mB7CRgqeJSCc5wz5r4Eeu9AmXxO9LtKlo4Ul1StlcOMsW9MnGx-J8oDrDLqhyphenhyphen32hYvOeVHPQiJUKNMm2syqrPO4Jz8K9cd3AdZ2Ijn24rGggfPLNYFeJFqG-/s686/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2014.56.42.png",
+            "maquinasCodificadoras": "-obd star x300\n-x100 pad\n-Zed full",
+            "videoLink": "https://www.youtube.com/watch?v=otOqISJk1TU"
+          }
+        }
+      },
+      "Meriva 1_PDOT8/ CD 1_PDOT8 MPFI 16V 122cv 5p": {
         "Gasolina": {
           "2004": {
             "valueDataKeyChip": "ID: 40; pcf: 7935; Série: T16",
@@ -567,6 +823,80 @@
           }
         }
       },
+      "meriva2a12": {
+        "valueDataKeyChip": "ID: 40; pcf: 7935; Série: T16",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "laminasKeys": "Gold: 757; Silca: YM28;",
+        "transponderClone": "NÃO CLONA",
+        "transponderNomenclatura": "7935AA ID40",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4dC0hsDEAmtOYcT487Zlz3Ss_DikMdj11G8w0a8n4bilps5-AhnPg7dpMCjT__xDC_L8wWvdQ6acUxVl-U8eD1_vQwcFk60dvddCNiRqHlEmiJZz3CDRYQzAcRveHJzIS9WalLUCkC7xxPXuUWk4ekHIYS4BdCfIrKRucXNQoaWs5p2bdX630bvs-XFo/s912/Captura%20de%20Tela%202023-11-11%20a%CC%80s%2000.43.54.png",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "REF: 93316265\nHabilita por equipamento\nSenha:4 dígitos numéricos\n\nMaquina KD\nArquivo: CORSA VAUXHALL\nTipo:Serie b ou Multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\nSKP\n-SBB\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=H_bscoYCGOU&pp=ygUXbWVyaXZhIGNsb25lIGNoYXZlIDIwMTA%3D"
+      },
+      "montan11a13": {
+        "valueDataKeyChip": "ID: 46; pcf: 7936; Série: T19",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "laminasKeys": "Silca: hu100;",
+        "transponderClone": "NÃO CLONA",
+        "transponderNomenclatura": "7936AA ID40",
+        "telecomandoBatery": "",
+        "telecomandoImage": "",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "REF: 94701901\nHabilita por equipamento\nSenha:4 dígitos numéricos\n\nMaquina KD\nArquivo: SA 3Button CHEVELOT\nTipo:Serie b ou Multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=f9_6xUXSZdk&pp=ygUYbW9udGFuYSBjbG9uZSBjaGF2ZSAyMDA3"
+      },
+      "montan14a17": {
+        "valueDataKeyChip": "ID: 46; pcf: 7937; Série: T46",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "laminasKeys": "Silca: hu100;",
+        "transponderClone": "NÃO CLONA",
+        "transponderNomenclatura": "7937 ID46",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "REF: 13580512\nHabilita por equipamento\nProcedimento:Habilite 1º o comando e depois o transponder da canivete\nSenha:4 dígitos numéricos\n\nMaquina KD\nArquivo: Trail Blazer ID46 433\nTipo: Multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=f9_6xUXSZdk&pp=ygUYbW9udGFuYSBjbG9uZSBjaGF2ZSAyMDA3"
+      },
+      "montan18m": {
+        "valueDataKeyChip": "ID: 46; pcf: 7937; Série: T46",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "laminasKeys": "Silca: hu100;",
+        "transponderClone": "NÃO CLONA",
+        "transponderNomenclatura": "7937 ID46",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "REF: 13522778\nHabilita por equipamento\nProcedimento:Habilite 1º o comando e depois o transponder da canivete\nSenha:4 dígitos numéricos\n\nMaquina KD\nArquivo: Trail Blazer ID46 433\nTipo: Multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=f9_6xUXSZdk&pp=ygUYbW9udGFuYSBjbG9uZSBjaGF2ZSAyMDA3"
+      },
+      "montan4a8": {
+        "valueDataKeyChip": "ID: 40; pcf: 7935; Série: T16",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "laminasKeys": "Gold: 757; Silca: YM28;",
+        "transponderClone": "NÃO CLONA",
+        "transponderNomenclatura": "7935AA ID40",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4dC0hsDEAmtOYcT487Zlz3Ss_DikMdj11G8w0a8n4bilps5-AhnPg7dpMCjT__xDC_L8wWvdQ6acUxVl-U8eD1_vQwcFk60dvddCNiRqHlEmiJZz3CDRYQzAcRveHJzIS9WalLUCkC7xxPXuUWk4ekHIYS4BdCfIrKRucXNQoaWs5p2bdX630bvs-XFo/s912/Captura%20de%20Tela%202023-11-11%20a%CC%80s%2000.43.54.png",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "REF: 93316265 ou 93300431\nHabilita por equipamento\nSenha:4 dígitos numéricos\n\nMaquina KD\nArquivo: 93286048\nTipo:Serie b ou Multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=2ivm1ln2EY0&pp=ygUYbW9udGFuYSBjbG9uZSBjaGF2ZSAyMDAy"
+      },
+      "montan9e10": {
+        "valueDataKeyChip": "ID: 40; pcf: 7935; Série: T16",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "laminasKeys": "Gold: 757; Silca: YM28;",
+        "transponderClone": "NÃO CLONA",
+        "transponderNomenclatura": "7935AA ID40",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4dC0hsDEAmtOYcT487Zlz3Ss_DikMdj11G8w0a8n4bilps5-AhnPg7dpMCjT__xDC_L8wWvdQ6acUxVl-U8eD1_vQwcFk60dvddCNiRqHlEmiJZz3CDRYQzAcRveHJzIS9WalLUCkC7xxPXuUWk4ekHIYS4BdCfIrKRucXNQoaWs5p2bdX630bvs-XFo/s912/Captura%20de%20Tela%202023-11-11%20a%CC%80s%2000.43.54.png",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "REF: 94701901\nHabilita por equipamento\nSenha:4 dígitos numéricos\n\nMaquina KD\nArquivo: SA 3Button CHEVELOT\nTipo:Serie b ou Multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=2ivm1ln2EY0&pp=ygUYbW9udGFuYSBjbG9uZSBjaGF2ZSAyMDAy"
+      },
       "MONTANA  Sport 1_PDOT8 MPFI FlexPower 8V": {
         "Gasolina": {
           "2010": {
@@ -1027,7 +1357,8 @@
             "telecomandoProcedure": "REF: 94701901\nHabilita por equipamento\nSenha:4 dígitos numéricos\n\nMaquina KD\nArquivo: SA 3Button CHEVELOT\nTipo:Serie b ou Multifuncional",
             "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
             "videoLink": "https://www.youtube.com/watch?v=f9_6xUXSZdk&pp=ygUYbW9udGFuYSBjbG9uZSBjaGF2ZSAyMDA3"
-          }}
+          }
+        }
       },
       "MONTANA LT 1_PDOT2  Turbo Flex 12V 4p Mec_PDOT": {
         "Gasolina": {
@@ -1587,7 +1918,8 @@
             "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEhk6TMJiKqylqAUXuA_7I0ocPGKeM75XbtAg2VEQJGsFH3wVTvG-0i60kxmhoEtOr9E-RoWwDY1tLumXyxbO4F070NOjFJT1KTxuptUEfhk8UsTfL6pZdgSlLDRjpVohZ2mlqmML_8KyyReMtxL_WvTGJWiUn7YOXXT76Hjr9NpKejhQMVrduG5KQMM-jSw",
             "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
             "videoLink": "https://www.youtube.com/watch?v=sp1d67H2jgQ&pp=ygURQ09SU0EgY2xvbmUgY2hhVmU%3D"
-          }},
+          }
+        },
         "Ãu0081lcool": {
           "1995": {
             "valueDataKeyChip": "ID: 40; pcf: 7935; Série: T16;",
@@ -1598,7 +1930,8 @@
             "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEhk6TMJiKqylqAUXuA_7I0ocPGKeM75XbtAg2VEQJGsFH3wVTvG-0i60kxmhoEtOr9E-RoWwDY1tLumXyxbO4F070NOjFJT1KTxuptUEfhk8UsTfL6pZdgSlLDRjpVohZ2mlqmML_8KyyReMtxL_WvTGJWiUn7YOXXT76Hjr9NpKejhQMVrduG5KQMM-jSw",
             "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
             "videoLink": "https://www.youtube.com/watch?v=sp1d67H2jgQ&pp=ygURQ09SU0EgY2xvbmUgY2hhVmU%3D"
-          }}
+          }
+        }
       },
       "Omega GLS 2_PDOT2 / 2_PDOT0": {
         "Gasolina": {
@@ -1642,7 +1975,8 @@
             "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
             "videoLink": "https://www.youtube.com/watch?v=sp1d67H2jgQ&pp=ygURQ09SU0EgY2xvbmUgY2hhVmU%3D"
           }
-        }, "Ãu0081lcool": {
+        },
+        "Ãu0081lcool": {
           "1995": {
             "valueDataKeyChip": "ID: 40; pcf: 7935; Série: T16;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
@@ -1652,7 +1986,8 @@
             "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEhk6TMJiKqylqAUXuA_7I0ocPGKeM75XbtAg2VEQJGsFH3wVTvG-0i60kxmhoEtOr9E-RoWwDY1tLumXyxbO4F070NOjFJT1KTxuptUEfhk8UsTfL6pZdgSlLDRjpVohZ2mlqmML_8KyyReMtxL_WvTGJWiUn7YOXXT76Hjr9NpKejhQMVrduG5KQMM-jSw",
             "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
             "videoLink": "https://www.youtube.com/watch?v=sp1d67H2jgQ&pp=ygURQ09SU0EgY2xvbmUgY2hhVmU%3D"
-          }}
+          }
+        }
       },
       "Omega GLS 4_PDOT1": {
         "Gasolina": {
@@ -1686,8 +2021,17 @@
             "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
             "videoLink": "https://www.youtube.com/watch?v=sp1d67H2jgQ&pp=ygURQ09SU0EgY2xvbmUgY2hhVmU%3D"
           }
-
         }
+      },
+      "omg95a7": {
+        "valueDataKeyChip": "ID: 40; pcf: 7935; Série: T16;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos",
+        "laminasKeys": "Gold: 685; Silca: HU43;",
+        "transponderClone": "T20 -T5(Se o carro utilizar Imobiliz Opel1)",
+        "transponderNomenclatura": "7935AA ID40",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4dC0hsDEAmtOYcT487Zlz3Ss_DikMdj11G8w0a8n4bilps5-AhnPg7dpMCjT__xDC_L8wWvdQ6acUxVl-U8eD1_vQwcFk60dvddCNiRqHlEmiJZz3CDRYQzAcRveHJzIS9WalLUCkC7xxPXuUWk4ekHIYS4BdCfIrKRucXNQoaWs5p2bdX630bvs-XFo/s912/Captura%20de%20Tela%202023-11-11%20a%CC%80s%2000.43.54.png",
+        "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=sp1d67H2jgQ&pp=ygURQ09SU0EgY2xvbmUgY2hhVmU%3D"
       },
       "ONIX  Lollapalooza 1_PDOT0 F_PDOTPower 5p Mec_PDOT": {
         "Gasolina": {
@@ -2109,7 +2453,6 @@
             "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=fs8FkZ_AYzg&pp=ygUVb25peCBjbG9uZSBjaGF2ZSAyMDE1"
           }
-
         }
       },
       "ONIX HATCH LT 1_PDOT0 12V Flex 5p Mec_PDOT": {
@@ -2717,7 +3060,6 @@
             "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=fs8FkZ_AYzg&pp=ygUVb25peCBjbG9uZSBjaGF2ZSAyMDE1"
           }
-
         }
       },
       "ONIX HATCH LTZ 1_PDOT4 8V FlexPower 5p Aut_PDOT": {
@@ -3024,10 +3366,9 @@
             "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=fs8FkZ_AYzg&pp=ygUVb25peCBjbG9uZSBjaGF2ZSAyMDE1"
           }
-
         }
       },
-      "ONIX HATCH SELEÃ\u0087Ã\u0083O 1_PDOT0 8V Flex 5p Mec_PDOT": {
+      "ONIX HATCH SELEÃÃO 1_PDOT0 8V Flex 5p Mec_PDOT": {
         "Gasolina": {
           "2015": {
             "valueDataKeyChip": "ID: 46; pcf: 7937; Série: T46;",
@@ -3209,7 +3550,6 @@
             "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=fs8FkZ_AYzg&pp=ygUVb25peCBjbG9uZSBjaGF2ZSAyMDE1"
           }
-
         }
       },
       "ONIX SEDAN Plus LT 1_PDOT0 12V Flex 4p Mec_PDOT": {
@@ -3281,7 +3621,6 @@
             "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=fs8FkZ_AYzg&pp=ygUVb25peCBjbG9uZSBjaGF2ZSAyMDE1"
           }
-
         }
       },
       "ONIX SEDAN Plus LT 1_PDOT0 12V TB Flex Aut_PDOT": {
@@ -3565,6 +3904,2069 @@
             "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEhk6TMJiKqylqAUXuA_7I0ocPGKeM75XbtAg2VEQJGsFH3wVTvG-0i60kxmhoEtOr9E-RoWwDY1tLumXyxbO4F070NOjFJT1KTxuptUEfhk8UsTfL6pZdgSlLDRjpVohZ2mlqmML_8KyyReMtxL_WvTGJWiUn7YOXXT76Hjr9NpKejhQMVrduG5KQMM-jSw",
             "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=fs8FkZ_AYzg&pp=ygUVb25peCBjbG9uZSBjaGF2ZSAyMDE1"
+          }
+        }
+      },
+      "onix13a20": {
+        "valueDataKeyChip": "ID: 46; pcf: 7937; Série: T46;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "laminasKeys": "Silca: hu100;",
+        "transponderClone": "CN3 ou Super Chip VVDI\nO PLUS NÃO CLONA",
+        "transponderNomenclatura": "7937 id46",
+        "telecomandoFrequency": "434",
+        "telecomandoProcedure": "REF: 13580512\nHabilita por equipamento\nProcedimento:Ao habilitar o transponder o telecomando entra automático\nSenha:4 dígitos numéricos\n\nMaquina KD\nArquivo: Trail Blazer ID46 433\nTipo: Multifuncional",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4dC0hsDEAmtOYcT487Zlz3Ss_DikMdj11G8w0a8n4bilps5-AhnPg7dpMCjT__xDC_L8wWvdQ6acUxVl-U8eD1_vQwcFk60dvddCNiRqHlEmiJZz3CDRYQzAcRveHJzIS9WalLUCkC7xxPXuUWk4ekHIYS4BdCfIrKRucXNQoaWs5p2bdX630bvs-XFo/s912/Captura%20de%20Tela%202023-11-11%20a%CC%80s%2000.43.54.png",
+        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=fs8FkZ_AYzg&pp=ygUVb25peCBjbG9uZSBjaGF2ZSAyMDE1"
+      },
+      "onix21m": {
+        "valueDataKeyChip": "ID: 4A; pcf: 7939;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII e Conector FD CAN;\nSenha: 4 dígitos numéricos;\nDica: Somente chave virgem",
+        "laminasKeys": "Silca: hu100;",
+        "transponderClone": "NÃO CLONA",
+        "transponderNomenclatura": "PCF7939M AES (ID 4A)",
+        "telecomandoProcedure": "Habilita por equipamento\nProcedimento: É necessário usar o conector FD CAN entre o equipamento do veículo\nSenha:4 dígitos numéricos\n\nSmart Key\nFreq.: 433MHz\nHabilita por equipamento\nSenha: 4 dígitos",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4dC0hsDEAmtOYcT487Zlz3Ss_DikMdj11G8w0a8n4bilps5-AhnPg7dpMCjT__xDC_L8wWvdQ6acUxVl-U8eD1_vQwcFk60dvddCNiRqHlEmiJZz3CDRYQzAcRveHJzIS9WalLUCkC7xxPXuUWk4ekHIYS4BdCfIrKRucXNQoaWs5p2bdX630bvs-XFo/s912/Captura%20de%20Tela%202023-11-11%20a%CC%80s%2000.43.54.png",
+        "maquinasCodificadoras": "-obd Star X300\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=G-_HuqQziI4&pp=ygUVb25peCBjbG9uZSBjaGF2ZSBwbHVz"
+      },
+      "Silverado": {
+        "Gasolina": {
+          "1998": {
+            "valueKeyCopy": "70",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "260",
+            "valueKeyConfectAlarm": "340",
+            "valueCopyStore": "600",
+            "transponderNomenclatura": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1997": {
+            "valueKeyCopy": "60",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "230",
+            "valueKeyConfectAlarm": "300",
+            "valueCopyStore": "600",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          }
+        }
+      },
+      "Silverado 4_PDOT1": {
+        "Gasolina": {
+          "1999": {
+            "valueKeyCopy": "230",
+            "valueKeyAlarm": "410",
+            "valueKeyConfect": "530",
+            "valueKeyConfectAlarm": "680",
+            "valueCopyStore": "1180",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "130",
+            "valueKeyAlarm": "210",
+            "valueKeyConfect": "480",
+            "valueKeyConfectAlarm": "610",
+            "valueCopyStore": "1060",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1997": {
+            "valueKeyCopy": "120",
+            "valueKeyAlarm": "200",
+            "valueKeyConfect": "460",
+            "valueKeyConfectAlarm": "580",
+            "valueCopyStore": "1030",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          }
+        }
+      },
+      "Silverado 4_PDOT1 Diesel": {
+        "Diesel": {
+          "1999": {
+            "valueKeyCopy": "320",
+            "valueKeyAlarm": "560",
+            "valueKeyConfect": "730",
+            "valueKeyConfectAlarm": "930",
+            "valueCopyStore": "1620",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "220",
+            "valueKeyAlarm": "380",
+            "valueKeyConfect": "690",
+            "valueKeyConfectAlarm": "890",
+            "valueCopyStore": "1500",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1997": {
+            "valueKeyCopy": "170",
+            "valueKeyAlarm": "270",
+            "valueKeyConfect": "640",
+            "valueKeyConfectAlarm": "810",
+            "valueCopyStore": "1410",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          }
+        }
+      },
+      "Silverado 4_PDOT2 Turbo Diesel": {
+        "Diesel": {
+          "2001": {
+            "valueKeyCopy": "360",
+            "valueKeyAlarm": "630",
+            "valueKeyConfect": "820",
+            "valueKeyConfectAlarm": "1040",
+            "valueCopyStore": "1820",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "2000": {
+            "valueKeyCopy": "340",
+            "valueKeyAlarm": "600",
+            "valueKeyConfect": "770",
+            "valueKeyConfectAlarm": "990",
+            "valueCopyStore": "1720",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1999": {
+            "valueKeyCopy": "330",
+            "valueKeyAlarm": "580",
+            "valueKeyConfect": "750",
+            "valueKeyConfectAlarm": "960",
+            "valueCopyStore": "1650",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "200",
+            "valueKeyAlarm": "320",
+            "valueKeyConfect": "710",
+            "valueKeyConfectAlarm": "910",
+            "valueCopyStore": "1590",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1997": {
+            "valueKeyCopy": "190",
+            "valueKeyAlarm": "310",
+            "valueKeyConfect": "690",
+            "valueKeyConfectAlarm": "880",
+            "valueCopyStore": "1540",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          }
+        }
+      },
+      "Silverado Conquest 4_PDOT1 Diesel": {
+        "Diesel": {
+          "2000": {
+            "valueKeyCopy": "400",
+            "valueKeyAlarm": "520",
+            "valueKeyConfect": "670",
+            "valueKeyConfectAlarm": "860",
+            "valueCopyStore": "1490",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1999": {
+            "valueKeyCopy": "290",
+            "valueKeyAlarm": "500",
+            "valueKeyConfect": "650",
+            "valueKeyConfectAlarm": "830",
+            "valueCopyStore": "1450",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "160",
+            "valueKeyAlarm": "320",
+            "valueKeyConfect": "710",
+            "valueKeyConfectAlarm": "910",
+            "valueCopyStore": "1590",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          }
+        }
+      },
+      "Silverado Conquest 4_PDOT2 Diesel Turbo": {
+        "Diesel": {
+          "2000": {
+            "valueKeyCopy": "410",
+            "valueKeyAlarm": "720",
+            "valueKeyConfect": "930",
+            "valueKeyConfectAlarm": "1190",
+            "valueCopyStore": "2700",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1999": {
+            "valueKeyCopy": "390",
+            "valueKeyAlarm": "690",
+            "valueKeyConfect": "890",
+            "valueKeyConfectAlarm": "1130",
+            "valueCopyStore": "1980",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "220",
+            "valueKeyAlarm": "360",
+            "valueKeyConfect": "810",
+            "valueKeyConfectAlarm": "1030",
+            "valueCopyStore": "1800",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          }
+        }
+      },
+      "Silverado D20/ Rodeio 4_PDOT2 TB Diesel": {
+        "Diesel": {
+          "2002": {
+            "valueKeyCopy": "360",
+            "valueKeyAlarm": "640",
+            "valueKeyConfect": "820",
+            "valueKeyConfectAlarm": "1050",
+            "valueCopyStore": "1840",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "2001": {
+            "valueKeyCopy": "350",
+            "valueKeyAlarm": "620",
+            "valueKeyConfect": "800",
+            "valueKeyConfectAlarm": "1020",
+            "valueCopyStore": "1780",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "2000": {
+            "valueKeyCopy": "310",
+            "valueKeyAlarm": "550",
+            "valueKeyConfect": "700",
+            "valueKeyConfectAlarm": "910",
+            "valueCopyStore": "1580",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          }
+        }
+      },
+      "Silverado DLX 4_PDOT1": {
+        "Gasolina": {
+          "1999": {
+            "valueKeyCopy": "230",
+            "valueKeyAlarm": "410",
+            "valueKeyConfect": "530",
+            "valueKeyConfectAlarm": "680",
+            "valueCopyStore": "1180",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "130",
+            "valueKeyAlarm": "210",
+            "valueKeyConfect": "480",
+            "valueKeyConfectAlarm": "610",
+            "valueCopyStore": "1060",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1997": {
+            "valueKeyCopy": "120",
+            "valueKeyAlarm": "200",
+            "valueKeyConfect": "460",
+            "valueKeyConfectAlarm": "580",
+            "valueCopyStore": "1030",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          }
+        }
+      },
+      "Silverado DLX 4_PDOT2 Conquest HD Diesel": {
+        "Diesel": {
+          "2000": {
+            "valueKeyCopy": "410",
+            "valueKeyAlarm": "730",
+            "valueKeyConfect": "930",
+            "valueKeyConfectAlarm": "1190",
+            "valueCopyStore": "2080",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1999": {
+            "valueKeyCopy": "370",
+            "valueKeyAlarm": "690",
+            "valueKeyConfect": "890",
+            "valueKeyConfectAlarm": "1130",
+            "valueCopyStore": "1780",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          }
+        }
+      },
+      "Silverado DLX 4_PDOT2 Diesel": {
+        "Diesel": {
+          "2000": {
+            "valueKeyCopy": "350",
+            "valueKeyAlarm": "620",
+            "valueKeyConfect": "790",
+            "valueKeyConfectAlarm": "1010",
+            "valueCopyStore": "1770",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1999": {
+            "valueKeyCopy": "340",
+            "valueKeyAlarm": "600",
+            "valueKeyConfect": "760",
+            "valueKeyConfectAlarm": "990",
+            "valueCopyStore": "1710",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "200",
+            "valueKeyAlarm": "320",
+            "valueKeyConfect": "750",
+            "valueKeyConfectAlarm": "950",
+            "valueCopyStore": "1650",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1997": {
+            "valueKeyCopy": "190",
+            "valueKeyAlarm": "310",
+            "valueKeyConfect": "700",
+            "valueKeyConfectAlarm": "900",
+            "valueCopyStore": "1560",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          }
+        }
+      },
+      "Silverado G_PDOT Blazer DLX/ Std 4_PDOT2 Dies_PDOTTB": {
+        "Diesel": {
+          "2000": {
+            "valueKeyCopy": "380",
+            "valueKeyAlarm": "660",
+            "valueKeyConfect": "870",
+            "valueKeyConfectAlarm": "1110",
+            "valueCopyStore": "1930",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1999": {
+            "valueKeyCopy": "370",
+            "valueKeyAlarm": "650",
+            "valueKeyConfect": "830",
+            "valueKeyConfectAlarm": "1070",
+            "valueCopyStore": "1870",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          }
+        }
+      },
+      "Silverado Grand Blazer DLX 4_PDOT1 mpfi": {
+        "Diesel": {
+          "1999": {
+            "valueKeyCopy": "260",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "590",
+            "valueKeyConfectAlarm": "750",
+            "valueCopyStore": "1310",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          }
+        }
+      },
+      "Silverado Sport/ Fleet Side 5_PDOT7 CS": {
+        "Diesel": {
+          "1995": {
+            "valueKeyCopy": "150",
+            "valueKeyAlarm": "250",
+            "valueKeyConfect": "560",
+            "valueKeyConfectAlarm": "710",
+            "valueCopyStore": "1250",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1994": {
+            "valueKeyCopy": "140",
+            "valueKeyAlarm": "230",
+            "valueKeyConfect": "520",
+            "valueKeyConfectAlarm": "680",
+            "valueCopyStore": "1110",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1993": {
+            "valueKeyCopy": "130",
+            "valueKeyAlarm": "210",
+            "valueKeyConfect": "480",
+            "valueKeyConfectAlarm": "620",
+            "valueCopyStore": "1080",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1992": {
+            "valueKeyCopy": "100",
+            "valueKeyAlarm": "160",
+            "valueKeyConfect": "370",
+            "valueKeyConfectAlarm": "470",
+            "valueCopyStore": "810",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          }
+        }
+      },
+      "Silverado Sport/Fleet Side 6_PDOT5 Dies_PDOT CS": {
+        "Diesel": {
+          "1995": {
+            "valueKeyCopy": "160",
+            "valueKeyAlarm": "250",
+            "valueKeyConfect": "580",
+            "valueKeyConfectAlarm": "740",
+            "valueCopyStore": "1290",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1994": {
+            "valueKeyCopy": "140",
+            "valueKeyAlarm": "230",
+            "valueKeyConfect": "520",
+            "valueKeyConfectAlarm": "500",
+            "valueCopyStore": "1110",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1993": {
+            "valueKeyCopy": "130",
+            "valueKeyAlarm": "215",
+            "valueKeyConfect": "480",
+            "valueKeyConfectAlarm": "630",
+            "valueCopyStore": "1100",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          }
+        }
+      },
+      "Silverado Trop_PDOT SL/ Van T_PDOTDiesel (todas)": {
+        "Diesel": {
+          "2001": {
+            "valueKeyCopy": "370",
+            "valueKeyAlarm": "650",
+            "valueKeyConfect": "840",
+            "valueKeyConfectAlarm": "1070",
+            "valueCopyStore": "1870",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "2000": {
+            "valueKeyCopy": "350",
+            "valueKeyAlarm": "620",
+            "valueKeyConfect": "800",
+            "valueKeyConfectAlarm": "1020",
+            "valueCopyStore": "1780",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1999": {
+            "valueKeyCopy": "300",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "760",
+            "valueKeyConfectAlarm": "990",
+            "valueCopyStore": "1695",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "200",
+            "valueKeyAlarm": "330",
+            "valueKeyConfect": "750",
+            "valueKeyConfectAlarm": "960",
+            "valueCopyStore": "1670",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          }
+        }
+      },
+      "Silverado Tropical CD 4_PDOT1 Diesel": {
+        "Diesel": {
+          "1999": {
+            "valueKeyCopy": "250",
+            "valueKeyAlarm": "440",
+            "valueKeyConfect": "570",
+            "valueKeyConfectAlarm": "720",
+            "valueCopyStore": "1260",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "150",
+            "valueKeyAlarm": "240",
+            "valueKeyConfect": "550",
+            "valueKeyConfectAlarm": "700",
+            "valueCopyStore": "1230",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1997": {
+            "valueKeyCopy": "140",
+            "valueKeyAlarm": "230",
+            "valueKeyConfect": "520",
+            "valueKeyConfectAlarm": "670",
+            "valueCopyStore": "1160",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          }
+        }
+      },
+      "Silverado Tropical CD 4_PDOT1 MPFI": {
+        "Diesel": {
+          "1999": {
+            "valueKeyCopy": "170",
+            "valueKeyAlarm": "290",
+            "valueKeyConfect": "380",
+            "valueKeyConfectAlarm": "490",
+            "valueCopyStore": "850",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "100",
+            "valueKeyAlarm": "160",
+            "valueKeyConfect": "360",
+            "valueKeyConfectAlarm": "470",
+            "valueCopyStore": "810",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1997": {
+            "valueKeyCopy": "90",
+            "valueKeyAlarm": "150",
+            "valueKeyConfect": "350",
+            "valueKeyConfectAlarm": "440",
+            "valueCopyStore": "770",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          }
+        }
+      },
+      "Silverado Tropical CD 4_PDOT2 Diesel": {
+        "Diesel": {
+          "2001": {
+            "valueKeyCopy": "420",
+            "valueKeyAlarm": "750",
+            "valueKeyConfect": "960",
+            "valueKeyConfectAlarm": "1230",
+            "valueCopyStore": "2140",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "2000": {
+            "valueKeyCopy": "380",
+            "valueKeyAlarm": "670",
+            "valueKeyConfect": "870",
+            "valueKeyConfectAlarm": "1110",
+            "valueCopyStore": "1930",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1999": {
+            "valueKeyCopy": "360",
+            "valueKeyAlarm": "650",
+            "valueKeyConfect": "840",
+            "valueKeyConfectAlarm": "1080",
+            "valueCopyStore": "1880",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1998": {
+            "valueKeyCopy": "190",
+            "valueKeyAlarm": "310",
+            "valueKeyConfect": "700",
+            "valueKeyConfectAlarm": "890",
+            "valueCopyStore": "1550",
+            "laminaTextDica": "Sistema anti-roubo PassLock",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1997": {
+            "valueKeyCopy": "170",
+            "valueKeyAlarm": "280",
+            "valueKeyConfect": "640",
+            "valueKeyConfectAlarm": "820",
+            "valueCopyStore": "1430",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          }
+        }
+      },
+      "silverado93a95_99a1": {
+        "laminaTextDica": "Sistema anti-roubo PassLock",
+        "telecomandoFrequency": "315",
+        "telecomandoBatery": "CR 2032 3v",
+        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+        "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+      },
+      "silverado97": {
+        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+      },
+      "silverado98": {
+        "laminaTextDica": "Sistema anti-roubo PassLock",
+        "telecomandoFrequency": "315",
+        "telecomandoBatery": "CR 2032 3v",
+        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
+        "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+      },
+      "sonic": {
+        "laminasKeys": "Silca: hu100;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+        "laminaPalhetas": {
+          "portamalas": [
+            null
+          ],
+          "ignicao": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          "porta": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        "valueDataKeyChip": "ID: 46; PCF: 7937; ",
+        "transponderNomenclatura": "PCF7937ea id46 ",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+        "telecomandoFrequency": "434",
+        "telecomandoBatery": "CR 2032 3v",
+        "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+        "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+        "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+      },
+      "SONIC HB LT 1_PDOT6 16V FlexPower 5p Aut_PDOT": {
+        "Gasolina": {
+          "2014": {
+            "valueKeyCopy": "280",
+            "valueKeyAlarm": "490",
+            "valueKeyConfect": "630",
+            "valueKeyConfectAlarm": "810",
+            "valueCopyStore": "1410",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          },
+          "2013": {
+            "valueKeyCopy": "270",
+            "valueKeyAlarm": "470",
+            "valueKeyConfect": "600",
+            "valueKeyConfectAlarm": "770",
+            "valueCopyStore": "1340",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          }
+        }
+      },
+      "SONIC HB LT 1_PDOT6 16V FlexPower 5p Mec_PDOT": {
+        "Gasolina": {
+          "2014": {
+            "valueKeyCopy": "260",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "600",
+            "valueKeyConfectAlarm": "760",
+            "valueCopyStore": "1330",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          },
+          "2013": {
+            "valueKeyCopy": "240",
+            "valueKeyAlarm": "425",
+            "valueKeyConfect": "545",
+            "valueKeyConfectAlarm": "700",
+            "valueCopyStore": "1230",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          },
+          "2012": {
+            "valueKeyCopy": "240",
+            "valueKeyAlarm": "420",
+            "valueKeyConfect": "540",
+            "valueKeyConfectAlarm": "690",
+            "valueCopyStore": "1190",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          }
+        }
+      },
+      "SONIC HB LTZ 1_PDOT6 16V FlexPower 5p Aut_PDOT": {
+        "Gasolina": {
+          "2014": {
+            "2014": {
+              "valueKeyCopy": "290",
+              "valueKeyAlarm": "500",
+              "valueKeyConfect": "650",
+              "valueKeyConfectAlarm": "830",
+              "valueCopyStore": "1430",
+              "laminasKeys": "Silca: hu100;",
+              "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+              "laminaPalhetas": {
+                "portamalas": [
+                  null
+                ],
+                "ignicao": [
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true
+                ],
+                "porta": [
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true
+                ]
+              },
+              "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+              "transponderNomenclatura": "PCF7937ea id46 ",
+              "transponderClone": "cn6 ou super chip vvdi",
+              "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+              "telecomandoFrequency": "434",
+              "telecomandoBatery": "CR 2032 3v",
+              "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+              "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+              "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+              "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+            },
+            "2013": {
+              "valueKeyCopy": "270",
+              "valueKeyAlarm": "470",
+              "valueKeyConfect": "600",
+              "valueKeyConfectAlarm": "770",
+              "valueCopyStore": "1330",
+              "laminasKeys": "Silca: hu100;",
+              "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+              "laminaPalhetas": {
+                "portamalas": [
+                  null
+                ],
+                "ignicao": [
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true
+                ],
+                "porta": [
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true
+                ]
+              },
+              "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+              "transponderNomenclatura": "PCF7937ea id46 ",
+              "transponderClone": "cn6 ou super chip vvdi",
+              "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+              "telecomandoFrequency": "434",
+              "telecomandoBatery": "CR 2032 3v",
+              "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+              "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+              "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+              "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+            },
+            "2012": {
+              "valueKeyCopy": "250",
+              "valueKeyAlarm": "450",
+              "valueKeyConfect": "580",
+              "valueKeyConfectAlarm": "740",
+              "valueCopyStore": "1290",
+              "laminasKeys": "Silca: hu100;",
+              "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+              "laminaPalhetas": {
+                "portamalas": [
+                  null
+                ],
+                "ignicao": [
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true
+                ],
+                "porta": [
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true
+                ]
+              },
+              "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+              "transponderNomenclatura": "PCF7937ea id46 ",
+              "transponderClone": "cn6 ou super chip vvdi",
+              "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+              "telecomandoFrequency": "434",
+              "telecomandoBatery": "CR 2032 3v",
+              "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+              "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+              "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+              "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+            }
+          }
+        }
+      },
+      "SONIC HB LTZ 1_PDOT6 16V FlexPower 5p Mec_PDOT": {
+        "Gasolina": {
+          "2013": {
+            "valueKeyCopy": "260",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "580",
+            "valueKeyConfectAlarm": "750",
+            "valueCopyStore": "1300",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          },
+          "2012": {
+            "valueKeyCopy": "250",
+            "valueKeyAlarm": "430",
+            "valueKeyConfect": "560",
+            "valueKeyConfectAlarm": "710",
+            "valueCopyStore": "1250",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          }
+        }
+      },
+      "SONIC HB LTZ EFFECT 1_PDOT6 16V FlexP 5p Aut": {
+        "Gasolina": {
+          "2014": {
+            "valueKeyCopy": "300",
+            "valueKeyAlarm": "520",
+            "valueKeyConfect": "670",
+            "valueKeyConfectAlarm": "860",
+            "valueCopyStore": "1500",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          }
+        }
+      },
+      "SONIC Sed_PDOT LT 1_PDOT6 16V FlexPower 4p Aut_PDOT": {
+        "Gasolina": {
+          "2013": {
+            "valueKeyCopy": "260",
+            "valueKeyAlarm": "470",
+            "valueKeyConfect": "600",
+            "valueKeyConfectAlarm": "770",
+            "valueCopyStore": "1330",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          }
+        }
+      },
+      "SONIC Sed_PDOT LT 1_PDOT6 16V FlexPower 4p Mec_PDOT": {
+        "Gasolina": {
+          "2013": {
+            "valueKeyCopy": "230",
+            "valueKeyAlarm": "410",
+            "valueKeyConfect": "520",
+            "valueKeyConfectAlarm": "670",
+            "valueCopyStore": "1170",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          },
+          "2012": {
+            "valueKeyCopy": "210",
+            "valueKeyAlarm": "370",
+            "valueKeyConfect": "480",
+            "valueKeyConfectAlarm": "620",
+            "valueCopyStore": "1070",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          }
+        }
+      },
+      "SONIC Sed_PDOT LTZ 1_PDOT6 16V FlexPower 4p Aut_PDOT": {
+        "Gasolina": {
+          "2014": {
+            "valueKeyCopy": "290",
+            "valueKeyAlarm": "500",
+            "valueKeyConfect": "650",
+            "valueKeyConfectAlarm": "830",
+            "valueCopyStore": "1440",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          },
+          "2013": {
+            "valueKeyCopy": "270",
+            "valueKeyAlarm": "470",
+            "valueKeyConfect": "610",
+            "valueKeyConfectAlarm": "780",
+            "valueCopyStore": "1350",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          },
+          "2012": {
+            "valueKeyCopy": "260",
+            "valueKeyAlarm": "460",
+            "valueKeyConfect": "590",
+            "valueKeyConfectAlarm": "750",
+            "valueCopyStore": "1310",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          }
+        }
+      },
+      "SONIC Sed_PDOT LTZ 1_PDOT6 16V FlexPower 4p Mec_PDOT": {
+        "Gasolina": {
+          "2014": {
+            "valueKeyCopy": "280",
+            "valueKeyAlarm": "500",
+            "valueKeyConfect": "640",
+            "valueKeyConfectAlarm": "820",
+            "valueCopyStore": "1440",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          },
+          "2013": {
+            "valueKeyCopy": "260",
+            "valueKeyAlarm": "465",
+            "valueKeyConfect": "600",
+            "valueKeyConfectAlarm": "770",
+            "valueCopyStore": "1340",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          },
+          "2012": {
+            "valueKeyCopy": "250",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "580",
+            "valueKeyConfectAlarm": "750",
+            "valueCopyStore": "1290",
+            "laminasKeys": "Silca: hu100;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada boqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
+            "laminaPalhetas": {
+              "portamalas": [
+                null
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7937; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7937ea id46 ",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
+            "telecomandoFrequency": "434",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Habilitação: junto com o transponder;\nProcedimento: Ao habilitar o transponder o telecomando entra automático;\n\nMáquina KD\nArquivo: TrailBlazer Id46 433\nTipo: Multifuncional",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgz24M4gMHCT50ccWuyL45Yjd536OGK5bKxfVbbpirDrvWM2Q3LWLCkl8vlAogHTT9s_0q7Mi-Yq3nkW5RKV2AfPiZ_l8QKk2JCW8My2-5cjyfM9d5A5RLnFxw6wnpcQ99yTK_ce4oFHvQ7u5rQBg0ySQXH0V8DH6B5j1xXzQOsotM7PwHBizgpruwya35/s648/Captura%20de%20Tela%202023-09-27%20a%CC%80s%2000.51.13.png",
+            "maquinasCodificadoras": "-Fácil\n-obd star x300\n-x100 pad\n-Zed full\n-igold\n-OBDMap\n-rasther\n-skp\n-remap",
+            "videoLink": "https://www.youtube.com/watch?v=8dEpJKaRzRM"
+          }
+        }
+      },
+      "Suburban 5_PDOT7/6_PDOT5 V8/5_PDOT3 V8": {
+        "Gasolina": {
+          "2015": {
+            "valueKeyCopy": "1690",
+            "valueKeyAlarm": "2960",
+            "valueKeyConfect": "3810",
+            "valueKeyConfectAlarm": "4870",
+            "valueCopyStore": "8480",
+            "valueDataKeyChip": "ID: 46; PCF: 7952/7961; SÉRIE: -;",
+            "transponderNomenclatura": "PCF7961 id46",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKO01tNqFFFCmZd0K_uqEq89wSdVmK0Ca3Z5sq49Oj10dZXGiwUTXgEwI6S3LmU3S17QtPWzf46VXvkwd-2VmQM1fcyqOUaYwv-Qs9ebS5F8cQ36pG64xZHt1AMPVz5-rQqbU734O9RDmqfpO7TbNc9G-O4Vi85-YnGWNfTWI55xUyS-jBghPWFPJ5sd-/s604/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2014.25.45.png ",
+            "telecomandoFrequency": "433/433.92",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9WlBrnrVzcbZqtNm3-oQoqrk-WD7CuY2r4OVK-FO8ArIyFNC-w_3nHJqrqmkrHnY4pGXLEPyqfEVkP5KPU8PslZzz56PORcEtBR3LrdNjNUC_hoGzumJaJRk7eAxWIhJvHTUzheKpwj4p2r1oyCPv8D1jCbY1VPE-FqP9z0eWGMCpPvFaPgkZIQg6pmQT/s734/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2022.15.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=scHEq3zV16U&ab_channel=PYRAutomotive"
+          },
+          "2012": {
+            "valueKeyCopy": "1330",
+            "valueKeyAlarm": "2340",
+            "valueKeyConfect": "3000",
+            "valueKeyConfectAlarm": "3840",
+            "valueCopyStore": "6680",
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderNomenclatura": "PCF7936AS id46",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "telecomandoFrequency": "315/433",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqg5xRQx1PLTD_8Br-ZemHPNFHSKFF2A_1vdcJBs3yyRKRUhiAmFj-u1W7u4PyqStbT2Ck1BTF2TJEC6Hbjl2iKwCGYiBpeSZAmpXIZERZuOgdW1ENjcYF2zMrjyHMiLUiHpf6DMIfcgBPXO1hChUg2ZQj7NGXBcR4CrD-Ys3l1_bOYR8eYZ2qkKcsI2oz/s940/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2022.12.28.png",
+            "videoLink": "https://www.youtube.com/watch?v=scHEq3zV16U&ab_channel=PYRAutomotive"
+          },
+          "2011": {
+            "valueKeyCopy": "1290",
+            "valueKeyAlarm": "2260",
+            "valueKeyConfect": "2910",
+            "valueKeyConfectAlarm": "3720",
+            "valueCopyStore": "6470",
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            },
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderNomenclatura": "PCF7936AS id46",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "telecomandoFrequency": "315/433",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqg5xRQx1PLTD_8Br-ZemHPNFHSKFF2A_1vdcJBs3yyRKRUhiAmFj-u1W7u4PyqStbT2Ck1BTF2TJEC6Hbjl2iKwCGYiBpeSZAmpXIZERZuOgdW1ENjcYF2zMrjyHMiLUiHpf6DMIfcgBPXO1hChUg2ZQj7NGXBcR4CrD-Ys3l1_bOYR8eYZ2qkKcsI2oz/s940/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2022.12.28.png",
+            "videoLink": "https://www.youtube.com/watch?v=scHEq3zV16U&ab_channel=PYRAutomotive"
+          },
+          "2010": {
+            "valueKeyCopy": "1250",
+            "valueKeyAlarm": "2190",
+            "valueKeyConfect": "2810",
+            "valueKeyConfectAlarm": "3600",
+            "valueCopyStore": "6260",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderNomenclatura": "PCF7936AS id46",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "telecomandoFrequency": "315/433",
+            "telecomandoBatery": "CR 2032 3v",
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            },
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqg5xRQx1PLTD_8Br-ZemHPNFHSKFF2A_1vdcJBs3yyRKRUhiAmFj-u1W7u4PyqStbT2Ck1BTF2TJEC6Hbjl2iKwCGYiBpeSZAmpXIZERZuOgdW1ENjcYF2zMrjyHMiLUiHpf6DMIfcgBPXO1hChUg2ZQj7NGXBcR4CrD-Ys3l1_bOYR8eYZ2qkKcsI2oz/s940/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2022.12.28.png",
+            "videoLink": "https://www.youtube.com/watch?v=vYybvm-7hr4&ab_channel=PYRAutomotive"
+          },
+          "2009": {
+            "valueKeyCopy": "1160",
+            "valueKeyAlarm": "2030",
+            "valueKeyConfect": "2600",
+            "valueKeyConfectAlarm": "3330",
+            "valueCopyStore": "5800",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderNomenclatura": "PCF7936AS id46",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "telecomandoFrequency": "315/433",
+            "telecomandoBatery": "CR 2032 3v",
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            },
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqg5xRQx1PLTD_8Br-ZemHPNFHSKFF2A_1vdcJBs3yyRKRUhiAmFj-u1W7u4PyqStbT2Ck1BTF2TJEC6Hbjl2iKwCGYiBpeSZAmpXIZERZuOgdW1ENjcYF2zMrjyHMiLUiHpf6DMIfcgBPXO1hChUg2ZQj7NGXBcR4CrD-Ys3l1_bOYR8eYZ2qkKcsI2oz/s940/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2022.12.28.png",
+            "videoLink": "https://www.youtube.com/watch?v=vYybvm-7hr4&ab_channel=PYRAutomotive"
+          },
+          "2008": {
+            "valueKeyCopy": "1110",
+            "valueKeyAlarm": "1950",
+            "valueKeyConfect": "2500",
+            "valueKeyConfectAlarm": "3200",
+            "valueCopyStore": "5570",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderNomenclatura": "PCF7936AS id46",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "telecomandoFrequency": "315/433",
+            "telecomandoBatery": "CR 2032 3v",
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            },
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqg5xRQx1PLTD_8Br-ZemHPNFHSKFF2A_1vdcJBs3yyRKRUhiAmFj-u1W7u4PyqStbT2Ck1BTF2TJEC6Hbjl2iKwCGYiBpeSZAmpXIZERZuOgdW1ENjcYF2zMrjyHMiLUiHpf6DMIfcgBPXO1hChUg2ZQj7NGXBcR4CrD-Ys3l1_bOYR8eYZ2qkKcsI2oz/s940/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2022.12.28.png",
+            "videoLink": "https://www.youtube.com/watch?v=vYybvm-7hr4&ab_channel=PYRAutomotive"
+          },
+          "2007": {
+            "valueKeyCopy": "990",
+            "valueKeyAlarm": "1740",
+            "valueKeyConfect": "2230",
+            "valueKeyConfectAlarm": "2860",
+            "valueCopyStore": "4970",
+            "valueDataKeyChip": "ID: 46; PCF: 7936; SÉRIE: t19;",
+            "transponderNomenclatura": "PCF7936AS id46",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+            "telecomandoFrequency": "315/433",
+            "telecomandoBatery": "CR 2032 3v",
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            },
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqg5xRQx1PLTD_8Br-ZemHPNFHSKFF2A_1vdcJBs3yyRKRUhiAmFj-u1W7u4PyqStbT2Ck1BTF2TJEC6Hbjl2iKwCGYiBpeSZAmpXIZERZuOgdW1ENjcYF2zMrjyHMiLUiHpf6DMIfcgBPXO1hChUg2ZQj7NGXBcR4CrD-Ys3l1_bOYR8eYZ2qkKcsI2oz/s940/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2022.12.28.png",
+            "videoLink": "https://www.youtube.com/watch?v=vYybvm-7hr4&ab_channel=PYRAutomotive"
+          },
+          "2006": {
+            "valueKeyCopy": "740",
+            "valueKeyAlarm": "1300",
+            "valueKeyConfect": "1670",
+            "valueKeyConfectAlarm": "2140",
+            "valueCopyStore": "3720",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Sistema anti-furto PassLock",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "2005": {
+            "valueKeyCopy": "740",
+            "valueKeyAlarm": "1300",
+            "valueKeyConfect": "1670",
+            "valueKeyConfectAlarm": "2140",
+            "valueCopyStore": "3720",
+            "telecomandoFrequency": "315",
+            "telecomandoProcedure": "Sistema anti-furto PassLock",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
+            "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
+          },
+          "1997": {
+            "valueKeyCopy": "740",
+            "valueKeyAlarm": "1300",
+            "valueKeyConfect": "1670",
+            "valueKeyConfectAlarm": "2140",
+            "valueCopyStore": "3720",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s1158/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          },
+          "1996": {
+            "valueKeyCopy": "160",
+            "valueKeyAlarm": "250",
+            "valueKeyConfect": "580",
+            "valueKeyConfectAlarm": "740",
+            "valueCopyStore": "1280",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s1158/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          },
+          "1995": {
+            "valueKeyCopy": "140",
+            "valueKeyAlarm": "230",
+            "valueKeyConfect": "530",
+            "valueKeyConfectAlarm": "680",
+            "valueCopyStore": "1180",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s1158/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          },
+          "1994": {
+            "valueKeyCopy": "120",
+            "valueKeyAlarm": "200",
+            "valueKeyConfect": "460",
+            "valueKeyConfectAlarm": "560",
+            "valueCopyStore": "980",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s1158/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
+          },
+          "1993": {
+            "valueKeyCopy": "105",
+            "valueKeyAlarm": "180",
+            "valueKeyConfect": "400",
+            "valueKeyConfectAlarm": "520",
+            "valueCopyStore": "900",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s1158/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
           }
         }
       }
