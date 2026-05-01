@@ -1,0 +1,308 @@
+{
+  "items": [
+    {
+      "Rapide 6_PDOT0 V12 477cv": {
+        "Gasolina": {
+          "2011": {
+            "valueCopyStore": "19900",
+            "valueKeyAlarm": "7000",
+            "valueKeyCopy": "4000",
+            "valueKeyConfectAlarm": "11500",
+            "valueKeyConfect": "9000"
+          },
+          "2012": {
+            "valueCopyStore": "26700",
+            "valueKeyAlarm": "9400",
+            "valueKeyCopy": "5350",
+            "valueKeyConfectAlarm": "15400",
+            "valueKeyConfect": "12000"
+          }
+        }
+      },
+      "Vanquish V12 6_PDOT0 565cv": {
+        "Gasolina": {
+          "2016": {
+            "valueCopyStore": "65700",
+            "valueKeyAlarm": "23000",
+            "valueKeyCopy": "13200",
+            "valueKeyConfectAlarm": "37800",
+            "valueKeyConfect": "29550"
+          },
+          "2014": {
+            "valueCopyStore": "52100",
+            "valueKeyAlarm": "18300",
+            "valueKeyCopy": "10500",
+            "valueKeyConfectAlarm": "30000",
+            "valueKeyConfect": "23500"
+          }
+        }
+      },
+      "Vantage 6_PDOT0 V12 510cv": {
+        "Gasolina": {
+          "2012": {
+            "valueCopyStore": "18600",
+            "valueKeyAlarm": "6500",
+            "valueKeyCopy": "3750",
+            "valueKeyConfectAlarm": "10700",
+            "valueKeyConfect": "8350"
+          }
+        }
+      },
+      "Vantage S Coupe 4_PDOT7 V8 430cv": {
+        "Gasolina": {
+          "2012": {
+            "valueCopyStore": "14300",
+            "valueKeyAlarm": "5000",
+            "valueKeyCopy": "2860",
+            "valueKeyConfectAlarm": "8200",
+            "valueKeyConfect": "6440"
+          }
+        }
+      },
+      "Vantage CupÃª  4_PDOT0 V8 510cv": {
+        "Gasolina": {
+          "2022": {
+            "valueCopyStore": "60000",
+            "valueKeyAlarm": "22000",
+            "valueKeyCopy": "17500",
+            "valueKeyConfectAlarm": "33000",
+            "valueKeyConfect": "25500"
+          },
+          "2023": {
+            "valueCopyStore": "61000",
+            "valueKeyAlarm": "22900",
+            "valueKeyCopy": "19900",
+            "valueKeyConfectAlarm": "35000",
+            "valueKeyConfect": "29900"
+          },
+          "32000": {
+            "valueCopyStore": "62000",
+            "valueKeyAlarm": "23000",
+            "valueKeyCopy": "20000",
+            "valueKeyConfectAlarm": "36000",
+            "valueKeyConfect": "30000"
+          }
+        }
+      },
+      "DB9 Coupe 6_PDOT0 V12 510cv": {
+        "Gasolina": {
+          "2014": {
+            "valueCopyStore": "35000",
+            "valueKeyAlarm": "12250",
+            "valueKeyCopy": "7000",
+            "valueKeyConfectAlarm": "20130",
+            "valueKeyConfect": "15750"
+          },
+          "2016": {
+            "valueCopyStore": "48150",
+            "valueKeyAlarm": "16900",
+            "valueKeyCopy": "9650",
+            "valueKeyConfectAlarm": "27690",
+            "valueKeyConfect": "21670"
+          }
+        }
+      },
+      "DBX 4_PDOT0 V8 550cv": {
+        "Gasolina": {
+          "2022": {
+            "valueCopyStore": "65000",
+            "valueKeyAlarm": "33000",
+            "valueKeyCopy": "23000",
+            "valueKeyConfectAlarm": "52000",
+            "valueKeyConfect": "42000"
+          },
+          "32000": {
+            "valueCopyStore": "66000",
+            "valueKeyAlarm": "36000",
+            "valueKeyCopy": "26600",
+            "valueKeyConfectAlarm": "53000",
+            "valueKeyConfect": "45500"
+          },
+          "2023": {
+            "valueCopyStore": "65000",
+            "valueKeyAlarm": "36000",
+            "valueKeyCopy": "26660",
+            "valueKeyConfectAlarm": "53000",
+            "valueKeyConfect": "45000"
+          }
+        }
+      },
+      "Vantage S 6_PDOT0 V12 565cv": {
+        "Gasolina": {
+          "2016": {
+            "valueCopyStore": "38940",
+            "valueKeyAlarm": "13700",
+            "valueKeyCopy": "7800",
+            "valueKeyConfectAlarm": "22400",
+            "valueKeyConfect": "17550"
+          },
+          "2015": {
+            "valueCopyStore": "35200",
+            "valueKeyAlarm": "1230",
+            "valueKeyCopy": "7030",
+            "valueKeyConfectAlarm": "20240",
+            "valueKeyConfect": "15840"
+          }
+        }
+      },
+      "Rapide S 6_PDOT0 V12 550cv": {
+        "Gasolina": {
+          "2014": {
+            "valueCopyStore": "50680",
+            "valueKeyAlarm": "17700",
+            "valueKeyCopy": "10100",
+            "valueKeyConfectAlarm": "29200",
+            "valueKeyConfect": "22800"
+          },
+          "2016": {
+            "valueCopyStore": "50700",
+            "valueKeyAlarm": "17750",
+            "valueKeyCopy": "10200",
+            "valueKeyConfectAlarm": "29200",
+            "valueKeyConfect": "22800"
+          }
+        }
+      },
+      "DB9 Volante 6_PDOT0 V12 470cv": {
+        "Gasolina": {
+          "2011": {
+            "valueCopyStore": "17180",
+            "valueKeyAlarm": "6000",
+            "valueKeyCopy": "3500",
+            "valueKeyConfectAlarm": "9880",
+            "valueKeyConfect": "7730"
+          }
+        }
+      },
+      "Vantage Roadster 4_PDOT7 V8 420cv": {
+        "Gasolina": {
+          "2011": {
+            "valueCopyStore": "13150",
+            "valueKeyAlarm": "4600",
+            "valueKeyCopy": "2650",
+            "valueKeyConfectAlarm": "7550",
+            "valueKeyConfect": "5900"
+          },
+          "2010": {
+            "valueCopyStore": "12100",
+            "valueKeyAlarm": "4250",
+            "valueKeyCopy": "2450",
+            "valueKeyConfectAlarm": "6970",
+            "valueKeyConfect": "5450"
+          }
+        }
+      },
+      "Vantage CupÃª F1 Edition 4_PDOT0 V8 535cv": {
+        "Gasolina": {
+          "2022": {
+            "valueCopyStore": "60000",
+            "valueKeyAlarm": "24000",
+            "valueKeyCopy": "21000",
+            "valueKeyConfectAlarm": "36000",
+            "valueKeyConfect": "31400"
+          },
+          "32000": {
+            "valueCopyStore": "65000",
+            "valueKeyAlarm": "26000",
+            "valueKeyCopy": "23000",
+            "valueKeyConfectAlarm": "39000",
+            "valueKeyConfect": "33000"
+          },
+          "2023": {
+            "valueCopyStore": "61000",
+            "valueKeyAlarm": "25500",
+            "valueKeyCopy": "22700",
+            "valueKeyConfectAlarm": "37800",
+            "valueKeyConfect": "32500"
+          }
+        }
+      },
+      "Vantage Coupe 4_PDOT7 V8 425cv": {
+        "Gasolina": {
+          "2011": {
+            "valueCopyStore": "13000",
+            "valueKeyAlarm": "4580",
+            "valueKeyCopy": "2620",
+            "valueKeyConfectAlarm": "7550",
+            "valueKeyConfect": "5880"
+          },
+          "2016": {
+            "valueCopyStore": "24600",
+            "valueKeyAlarm": "8610",
+            "valueKeyCopy": "4900",
+            "valueKeyConfectAlarm": "14150",
+            "valueKeyConfect": "11000"
+          },
+          "2014": {
+            "valueCopyStore": "21000",
+            "valueKeyAlarm": "7320",
+            "valueKeyCopy": "4200",
+            "valueKeyConfectAlarm": "12000",
+            "valueKeyConfect": "9410"
+          },
+          "2012": {
+            "valueCopyStore": "13770",
+            "valueKeyAlarm": "4800",
+            "valueKeyCopy": "2700",
+            "valueKeyConfectAlarm": "7900",
+            "valueKeyConfect": "6200"
+          }
+        }
+      },
+      "DBX707 4_PDOT0 V8 707cv": {
+        "Gasolina": {
+          "2023": {
+            "valueCopyStore": "70000",
+            "valueKeyAlarm": "39000",
+            "valueKeyCopy": "29800",
+            "valueKeyConfectAlarm": "54000",
+            "valueKeyConfect": "49000"
+          },
+          "32000": {
+            "valueCopyStore": "70000",
+            "valueKeyAlarm": "40000",
+            "valueKeyCopy": "30000",
+            "valueKeyConfectAlarm": "55000",
+            "valueKeyConfect": "50000"
+          }
+        }
+      },
+      "Virage Coupe 6_PDOT0 V12 490cv": {
+        "Gasolina": {
+          "2012": {
+            "valueCopyStore": "19600",
+            "valueKeyAlarm": "6850",
+            "valueKeyCopy": "3900",
+            "valueKeyConfectAlarm": "11250",
+            "valueKeyConfect": "8820"
+          }
+        }
+      },
+      "DBS Coupe 5_PDOT2 V12 725cv": {
+        "Gasolina": {
+          "2022": {
+            "valueCopyStore": "65000",
+            "valueKeyAlarm": "34000",
+            "valueKeyCopy": "23000",
+            "valueKeyConfectAlarm": "62000",
+            "valueKeyConfect": "50000"
+          },
+          "2023": {
+            "valueCopyStore": "66000",
+            "valueKeyAlarm": "37000",
+            "valueKeyCopy": "25000",
+            "valueKeyConfectAlarm": "64000",
+            "valueKeyConfect": "53000"
+          },
+          "32000": {
+            "valueCopyStore": "70000",
+            "valueKeyAlarm": "40000",
+            "valueKeyCopy": "26000",
+            "valueKeyConfectAlarm": "65000",
+            "valueKeyConfect": "55000"
+          }
+        }
+      }
+    }
+  ]
+}

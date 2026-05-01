@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "gran": {
+        "laminasKeys": "Silca: sz21r",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 46; pcf: 7936; série: t46;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Habilita por procedimento\n1-Abrir porta do motorista e fechar as demais\n2-Ligue a ignição e aguarde 10 segundos\n3-desligue a ignição e retire a chave\n4-Feche e abra 3 vezes a porta do motorista\n5-Ligue a ignição e aguarde 10 segundos\n6- desligue a ignição e retire a chave\n7-As portas irão travar e destravar indicando que estão pronto para programar\n8-Aperte 'lock' do controle novo\n9-as portas irão e destravar\nno máx 2 controles\nMaquina KD\nArquivo: swift from 2008\nTipo: serie b ou multifuncional",
+        "maquinasCodificadoras": "-kd900\n-obd star x300\n-vvdi\n-100 pad\n-zed full",
+        "videoLink": "https://www.youtube.com/watch?v=gQ-M3e7eT1Q&pp=ygUicHJvZ3JhbWFyIGNoYXZlIHN1enVraSBncmFuIHZpdGFyYQ%3D%3D"
+      },
+      "jimmy917": {
+        "laminasKeys": "Silca: sz21r",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "4d+(65)dst 40bits",
+        "transponderClone": "CN5 ou Super Chip VVDI",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "ANTES DE INICIAR, VERIFIQUE SE AS TRAVAS ELÉTRICAS ESTÃO FUNCIONANDO PERFEITAMENTE AO TRAVAR E DESTRAVAR PELO CILINDRO DE PORTA DO LADO DO MOTORISTA, SE NÃO ESTIVER, O PROCEDIMENTO NÃO DARÁ CERTO.\n1-ABAIXE O VIDRO DO MOTORISTA, RETIRE A CHAVE DO CONTATO E FIQUE COM ELA EM MÃOS, ABRA O CAPÔ, FECHE TODAS AS PORTAS E DEIXE-AS DESTRAVADAS\n2-DECONECTE O CABO NEGATIVO (-) DA BATERIA\n3-AGUARDE 30 SEGUNDOS4. CONECTE O CABO NEGATIVO (-) DA BATERIA\n5-EM ATÉ 60 SEGUNDOS, TRAVE E DESTRAVE A PORTA (PELO PINO DE TRAVA) 2X\n6-APERTE O BOTÃO \"LOCK\" DO CONTROLE 1X, AS PORTAS IRÃO TRAVAR E DESTRAVAR\nn7-TRAVE A PORTA (PELO PINO DE TRAVA) E DEIXE TRAVADA\n8-APERTE O BOTÃO \"LOCK\" DO CONTROLE 2X, AS PORTAS IRÃO DESTRAVAR E TRAVAR, SE FOR ADICIONAR MAIS DE UM CONTROLE PRECIONE O BOTÃO \"LOCK\" DO SEGUNDO CONTROLE 2X\n9-ABRA A PORTA\nPODE-SE HABILITAR NO MAXIMO DOIS CONTROLES, E AO HABLITAR UM CONTROLE, TODOS OS DEMAIS SERÃO APAGADOS\nMaquinas kd\nArq: 37182-81av1\ntipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-obd star x300\n-vvdi",
+        "videoLink": "https://www.youtube.com/watch?v=yoIy4g6vBuM&pp=ygUccHJvZ3JhbWFyIGNoYXZlIHN1enVraSBqaW1teQ%3D%3D"
+      },
+      "sx-4": {
+        "laminasKeys": "Silca: sz21r",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
+        "valueDataKeyChip": "id: 46; pcf: 7936; série: t46;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: calsonic ts002\nHabilita por procedimento\n1-Abrir porta do motorista e fechar as demais\n2-Ligue a ignição e aguarde 10 segundos\n3-desligue a ignição e retire a chave\n4-Feche e abra 3 vezes a porta do motorista\n5-Ligue a ignição e aguarde 10 segundos\n6- desligue a ignição e retire a chave\n7-As portas irão travar e destravar indicando que estão pronto para programar\n8-Aperte 'lock' do controle novo\n9-as portas irão e destravar\nno máx 2 controles\nMaquina KD\nArquivo: swift from 2008\nTipo: serie b ou multifuncional",
+        "maquinasCodificadoras": "-obd star x300\n-vvdi\n-100 pad\n-zed full",
+        "videoLink": "https://www.youtube.com/watch?v=3I_MnhNBwhE&pp=ygUbcHJvZ3JhbWFyIGNoYXZlIHN1enVraSBzeCA0"
+      }
+    }
+  ]
+}

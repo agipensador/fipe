@@ -1,0 +1,1900 @@
+{
+  "items": [
+    {
+      "compass1215": {
+        "valueDataKeyChip": "id: 46; pcf: 7936; série: t25;",
+        "laminaTextDica": "Habilita Por equipamento via OBDII\nSenha: 4 dígitos numéricos\nDica: Somente chave virgem",
+        "laminasKeys": "Gold: 932; Silca: cy24;",
+        "transponderClone": "cn6 ou super chip vvdi",
+        "transponderNomenclatura": "7936aa id46",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "ref: 04589318ac\nHabilita junto c/ o transponder\n Proced.: Ao habilitar o transponder, o telecomando entra automático\nNão usa senha",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-Zed full\n-X100 Pad\n-VVDI",
+        "videoLink": "https://www.youtube.com/watch?v=uzNj-I63cmQ&pp=ugMICgJwdBABGAHKBSFwcm9ncmFtYXIgY2hhdmUgamVlcCBjb21wYXNzIDIwMTM%3D"
+      },
+      "compass16m": {
+        "valueDataKeyChip": "pcf: 7938;",
+        "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+        "laminasKeys": "Gold: 834; Silca: sip22;",
+        "transponderClone": "Não clona",
+        "transponderNomenclatura": "pcf7938 128bits 4a",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+        "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+      },
+      "rngde": {
+        "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+        "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+        "laminasKeys": "Gold: 834; Silca: sip22;",
+        "transponderClone": "Não clona",
+        "transponderNomenclatura": "pcf7930M AES id4a",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+      },
+      "sprtg": {
+        "valueDataKeyChip": "id: 46; pcf: 7936; série: t19",
+        "laminaTextDica": "NÃO USA SENHA",
+        "laminasKeys": "Silca: HYN14R;",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 433-eu-sl-tp\nHabilita por equipamento\nNão usa senha\n\nMaquina KD\nArq: sportage 10-14\nTipo: Série B ou multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-igold\n-OBD Star X300\n-obdmap\n-rasther\n-remap/scanicar\n-skp\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=aZfh2Nzmor4&pp=ygUjcHJvZ3JhbWFyIGNoYXZlIGplZXAgc3Bvb3J0YWdlIDIwMTQ%3D"
+      },
+      "COMPASS Night Eagle 2_PDOT0 4x2 Flex 16V Aut": {
+        "Gasolina": {
+          "2018": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS Night Eagle 2_PDOT0 4x4 TB Dies_PDOT Aut": {
+        "Diesel": {
+          "2018": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS S 1_PDOT3 TB 4XE Aut_PDOT (HÃ­brido)": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2024": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2023": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2022": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS S 2_PDOT0 4x4 TB 16V Diesel Aut_PDOT": {
+        "Diesel": {
+          "2019": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2020": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2021": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS S T270 1_PDOT3 TB 4x2 Flex Aut_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2024": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2023": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2022": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS SPORT 2_PDOT0 16V 156cv 5p": {
+        "Gasolina": {
+          "2015": {
+            "valueDataKeyChip": "id: 46; pcf: 7936; série: t25;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII\nSenha: 4 dígitos numéricos\nDica: Somente chave virgem",
+            "laminasKeys": "Gold: 932; Silca: cy24;",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderNomenclatura": "7936aa id46",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "ref: 04589318ac\nHabilita junto c/ o transponder\n Proced.: Ao habilitar o transponder, o telecomando entra automático\nNão usa senha",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=uzNj-I63cmQ&pp=ugMICgJwdBABGAHKBSFwcm9ncmFtYXIgY2hhdmUgamVlcCBjb21wYXNzIDIwMTM%3D"
+          },
+          "2014": {
+            "valueDataKeyChip": "id: 46; pcf: 7936; série: t25;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII\nSenha: 4 dígitos numéricos\nDica: Somente chave virgem",
+            "laminasKeys": "Gold: 932; Silca: cy24;",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderNomenclatura": "7936aa id46",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "ref: 04589318ac\nHabilita junto c/ o transponder\n Proced.: Ao habilitar o transponder, o telecomando entra automático\nNão usa senha",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=uzNj-I63cmQ&pp=ugMICgJwdBABGAHKBSFwcm9ncmFtYXIgY2hhdmUgamVlcCBjb21wYXNzIDIwMTM%3D"
+          },
+          "2013": {
+            "valueDataKeyChip": "id: 46; pcf: 7936; série: t25;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII\nSenha: 4 dígitos numéricos\nDica: Somente chave virgem",
+            "laminasKeys": "Gold: 932; Silca: cy24;",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderNomenclatura": "7936aa id46",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "ref: 04589318ac\nHabilita junto c/ o transponder\n Proced.: Ao habilitar o transponder, o telecomando entra automático\nNão usa senha",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=uzNj-I63cmQ&pp=ugMICgJwdBABGAHKBSFwcm9ncmFtYXIgY2hhdmUgamVlcCBjb21wYXNzIDIwMTM%3D"
+          },
+          "2012": {
+            "valueDataKeyChip": "id: 46; pcf: 7936; série: t25;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII\nSenha: 4 dígitos numéricos\nDica: Somente chave virgem",
+            "laminasKeys": "Gold: 932; Silca: cy24;",
+            "transponderClone": "cn6 ou super chip vvdi",
+            "transponderNomenclatura": "7936aa id46",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "ref: 04589318ac\nHabilita junto c/ o transponder\n Proced.: Ao habilitar o transponder, o telecomando entra automático\nNão usa senha",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-obd star x300\n-obdmap\n-rasther\n-remap/scanicar\n-sbb\n-skp\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=uzNj-I63cmQ&pp=ugMICgJwdBABGAHKBSFwcm9ncmFtYXIgY2hhdmUgamVlcCBjb21wYXNzIDIwMTM%3D"
+          }
+        }
+      },
+      "COMPASS SPORT 2_PDOT0 4x2 Flex 16V Aut_PDOT": {
+        "Gasolina": {
+          "2017": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2018": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2019": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2020": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2021": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS SPORT 2_PDOT0 4x4 flex 16V Aut_PDOT": {
+        "Gasolina": {
+          "2018": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS SPORT T270 1_PDOT3 TB 4x2 Flex Aut_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2024": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2023": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2022": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS T270 80 Anos 1_PDOT3 TB 4x2 Flex Aut": {
+        "Gasolina": {
+          "2022": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS TD 350 80 Anos 2_PDOT0 4x4 Die_PDOT Aut_PDOT": {
+        "Diesel": {
+          "2022": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS TRAILHAWK 2_PDOT0 4x4 Dies_PDOT 16V Aut_PDOT": {
+        "Diesel": {
+          "2016": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2017": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2018": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2019": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2020": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2021": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS TRAILHAWK TD350 2_PDOT0 4x4 Die_PDOT Aut": {
+        "Diesel": {
+          "32000": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2024": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2023": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2022": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "Renegade 1_PDOT8 4x2 Flex 16V Mec_PDOT": {
+        "Gasolina": {
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2016": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade 75 Anos 1_PDOT8 4X2 Flex 16V Aut_PDOT": {
+        "Gasolina": {
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2016": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade 75 Anos 2_PDOT0 4X4 TB Diesel Aut_PDOT": {
+        "Diesel": {
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2016": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Custom 1_PDOT8 4x2 Flex 16V Mec_PDOT": {
+        "Gasolina": {
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Custom 2_PDOT0 4x4 TB Diesel Aut_PDOT": {
+        "Diesel": {
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Lim_PDOT Edit_PDOT 1_PDOT8 4x2 Flex 16V Aut": {
+        "Gasolina": {
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2016": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Limited 1_PDOT8 4x2 Flex 16V Aut_PDOT": {
+        "Gasolina": {
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2019": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2020": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2021": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Limited 2_PDOT0 4x4 TB Diesel Aut_PDOT": {
+        "Diesel": {
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Long_PDOT T270 1_PDOT3 TB 4x2 Flex Aut_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2023": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2024": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2022": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Longitude 1_PDOT8 4x2 Flex 16V Aut_PDOT": {
+        "Gasolina": {
+          "2015": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2016": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2019": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2020": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2021": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Longitude 2_PDOT0 4x4 TB Diesel Aut": {
+        "Gasolina": {
+          "2016": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2019": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2020": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2021": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Moab 2_PDOT0 4x4 TB Diesel Aut_PDOT": {
+        "Diesel": {
+          "2021": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Night Eagle 1_PDOT8 4x2  Flex Aut_PDOT": {
+        "Gasolina": {
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Night Eagle 2_PDOT0 4x4 TB Die_PDOT Aut": {
+        "Diesel": {
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade S T270 1_PDOT3 TB 4x4 Flex Aut_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2023": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2024": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2022": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Sport 1_PDOT8 4x2 Flex 16V Aut_PDOT": {
+        "Gasolina": {
+          "2016": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2019": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2020": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2021": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Sport 1_PDOT8 4x2 Flex 16V Mec_PDOT": {
+        "Gasolina": {
+          "2015": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2016": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2019": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Sport 2_PDOT0 4x4 TB Diesel Aut_PDOT": {
+        "Diesel": {
+          "2016": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Sport T270 1_PDOT3 TB 4x2 Flex Aut_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2023": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2024": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2022": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade STD 1_PDOT8 4x2 Flex 16v Aut_PDOT": {
+        "Gasolina": {
+          "2020": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2021": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Trailhawk 2_PDOT0 4x4 TB Diesel Aut": {
+        "Diesel": {
+          "2015": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2016": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2017": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2018": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2019": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2020": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2021": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Trailhawk T270 1_PDOT3 TB Flex Aut_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2023": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2024": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2022": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade Willys 2_PDOT0 4x4 TB Diesel Aut_PDOT": {
+        "Gasolina": {
+          "2019": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "Renegade T270 1_PDOT3 TB 4x2 Flex Aut_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2023": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2024": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          },
+          "2022": {
+            "valueDataKeyChip": "ID: 4a; pcf: 7939;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7930M AES id4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=9y87X95OcCY&pp=ygUicHJvZ3JhbWFyIGNoYXZlIGplZXAgcmVuZWdhZGUgMjAxNw%3D%3D"
+          }
+        }
+      },
+      "COMPASS LIMITED 2_PDOT0 4x2 Flex 16V Aut_PDOT": {
+        "Gasolina": {
+          "2016": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2017": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2018": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2019": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2020": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2021": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS LIMITED 2_PDOT0 4x4 Diesel 16V Aut_PDOT": {
+        "Diesel": {
+          "2018": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2019": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2020": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2021": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS LIMITED T270 1_PDOT3 TB 4x2 Flex Aut": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2024": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2023": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2022": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS LIMITED TD 350 2_PDOT0 4x4 Die_PDOT Aut_PDOT": {
+        "Diesel": {
+          "32000": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2024": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2023": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2022": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS LONG_PDOT T270 1_PDOT3 TB 4x2 Flex Aut_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2024": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2023": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2022": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS LONG_PDOT TD 350 2_PDOT0 4x4 Diesel Aut_PDOT": {
+        "Diesel": {
+          "32000": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2024": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2023": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2022": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "COMPASS LONGITUDE 2_PDOT0 4x2 Flex 16V Aut_PDOT": {
+        "Gasolina": {
+          "2017": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2018": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2019": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2020": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2021": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      },
+      "LONGITUDE 2_PDOT0 4x4 Dies_PDOT 16V Aut_PDOT": {
+        "Diesel": {
+          "2016": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2017": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2018": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2019": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2020": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          },
+          "2021": {
+            "valueDataKeyChip": "pcf: 7938;",
+            "laminaTextDica": "Habilita Por equipamento via OBDII(2019+ precisa o cabo FCA)\nSenha: 5 dígitos numéricos\nDica: Apresente a do cliente 1º, depois a cópia",
+            "laminasKeys": "Gold: 834; Silca: sip22;",
+            "transponderClone": "Não clona",
+            "transponderNomenclatura": "pcf7938 128bits 4a",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref: 7090769\nHabilita por equipamento\nSenha: 5 díg. numéricos\n\nsmart key:\nRef: m3n-4082130\nHabilita por equipamento\nSenha: 5 díg. numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-igold\n-obd star x300\n-Zed full\n-X100 Pad\n-VVDI",
+            "videoLink": "https://www.youtube.com/watch?v=7y7t3aEV03s&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIGplZXAgY29tcGFzcyAyMDEy"
+          }
+        }
+      }
+    }
+  ]
+}

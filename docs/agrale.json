@@ -1,0 +1,748 @@
+{
+  "items": [
+    {
+      "AM-825 Luxo 4_PDOT0 Diesel": {
+        "Diesel": {
+          "1996": {
+            "valueCopyStore": "740",
+            "valueKeyAlarm": "150",
+            "valueKeyCopy": "100",
+            "valueKeyConfectAlarm": "420",
+            "valueKeyConfect": "330"
+          },
+          "1998": {
+            "valueCopyStore": "1080",
+            "valueKeyAlarm": "220",
+            "valueKeyCopy": "140",
+            "valueKeyConfectAlarm": "620",
+            "valueKeyConfect": "490"
+          },
+          "1995": {
+            "valueCopyStore": "710",
+            "valueKeyAlarm": "150",
+            "valueKeyCopy": "90",
+            "valueKeyConfectAlarm": "410",
+            "valueKeyConfect": "320"
+          },
+          "1997": {
+            "valueCopyStore": "860",
+            "valueKeyAlarm": "180",
+            "valueKeyCopy": "110",
+            "valueKeyConfectAlarm": "500",
+            "valueKeyConfect": "390"
+          },
+          "1994": {
+            "valueCopyStore": "680",
+            "valueKeyAlarm": "140",
+            "valueKeyCopy": "85",
+            "valueKeyConfectAlarm": "380",
+            "valueKeyConfect": "300"
+          }
+        }
+      },
+      "AM-825 Super Luxo 4_PDOT0 Diesel": {
+        "Diesel": {
+          "1996": {
+            "valueCopyStore": "850",
+            "valueKeyAlarm": "170",
+            "valueKeyCopy": "110",
+            "valueKeyConfectAlarm": "490",
+            "valueKeyConfect": "380"
+          },
+          "1998": {
+            "valueCopyStore": "1080",
+            "valueKeyAlarm": "220",
+            "valueKeyCopy": "140",
+            "valueKeyConfectAlarm": "620",
+            "valueKeyConfect": "490"
+          },
+          "1997": {
+            "valueCopyStore": "900",
+            "valueKeyAlarm": "180",
+            "valueKeyCopy": "110",
+            "valueKeyConfectAlarm": "520",
+            "valueKeyConfect": "410"
+          },
+          "1995": {
+            "valueCopyStore": "780",
+            "valueKeyAlarm": "160",
+            "valueKeyCopy": "100",
+            "valueKeyConfectAlarm": "450",
+            "valueKeyConfect": "350"
+          },
+          "1994": {
+            "valueCopyStore": "760",
+            "valueKeyAlarm": "150",
+            "valueKeyCopy": "95",
+            "valueKeyConfectAlarm": "440",
+            "valueKeyConfect": "340"
+          }
+        }
+      },
+      "MARRUÃ AM 200 2_PDOT8  CD TDI Diesel": {
+        "Diesel": {
+          "2014": {
+            "valueCopyStore": "4350",
+            "valueKeyAlarm": "1530",
+            "valueKeyCopy": "870",
+            "valueKeyConfectAlarm": "2500",
+            "valueKeyConfect": "1960"
+          },
+          "2023": {
+            "valueCopyStore": "14500",
+            "valueKeyAlarm": "5000",
+            "valueKeyCopy": "3000",
+            "valueKeyConfectAlarm": "8200",
+            "valueKeyConfect": "6500"
+          },
+          "2016": {
+            "valueCopyStore": "5510",
+            "valueKeyAlarm": "1930",
+            "valueKeyCopy": "1100",
+            "valueKeyConfectAlarm": "3170",
+            "valueKeyConfect": "2480"
+          },
+          "2015": {
+            "valueCopyStore": "5000",
+            "valueKeyAlarm": "1740",
+            "valueKeyCopy": "990",
+            "valueKeyConfectAlarm": "2850",
+            "valueKeyConfect": "2230"
+          },
+          "2022": {
+            "valueCopyStore": "14000",
+            "valueKeyAlarm": "4820",
+            "valueKeyCopy": "3000",
+            "valueKeyConfectAlarm": "8000",
+            "valueKeyConfect": "6200"
+          },
+          "2018": {
+            "valueCopyStore": "7680",
+            "valueKeyAlarm": "2690",
+            "valueKeyCopy": "1540",
+            "valueKeyConfectAlarm": "4420",
+            "valueKeyConfect": "3460"
+          },
+          "2011": {
+            "valueCopyStore": "3200",
+            "valueKeyAlarm": "1120",
+            "valueKeyCopy": "640",
+            "valueKeyConfectAlarm": "1850",
+            "valueKeyConfect": "1440"
+          },
+          "2017": {
+            "valueCopyStore": "5900",
+            "valueKeyAlarm": "2060",
+            "valueKeyCopy": "1180",
+            "valueKeyConfectAlarm": "3400",
+            "valueKeyConfect": "2660"
+          },
+          "2008": {
+            "valueCopyStore": "2400",
+            "valueKeyAlarm": "850",
+            "valueKeyCopy": "490",
+            "valueKeyConfectAlarm": "1400",
+            "valueKeyConfect": "1090"
+          },
+          "2020": {
+            "valueCopyStore": "11650",
+            "valueKeyAlarm": "4070",
+            "valueKeyCopy": "2300",
+            "valueKeyConfectAlarm": "6700",
+            "valueKeyConfect": "5240"
+          },
+          "2010": {
+            "valueCopyStore": "2900",
+            "valueKeyAlarm": "1000",
+            "valueKeyCopy": "570",
+            "valueKeyConfectAlarm": "1650",
+            "valueKeyConfect": "1300"
+          },
+          "2009": {
+            "valueCopyStore": "2730",
+            "valueKeyAlarm": "950",
+            "valueKeyCopy": "550",
+            "valueKeyConfectAlarm": "1570",
+            "valueKeyConfect": "1230"
+          },
+          "2021": {
+            "valueCopyStore": "12300",
+            "valueKeyAlarm": "4300",
+            "valueKeyCopy": "2460",
+            "valueKeyConfectAlarm": "7060",
+            "valueKeyConfect": "5550"
+          },
+          "2012": {
+            "valueCopyStore": "3850",
+            "valueKeyAlarm": "1350",
+            "valueKeyCopy": "770",
+            "valueKeyConfectAlarm": "2200",
+            "valueKeyConfect": "1740"
+          },
+          "2019": {
+            "valueCopyStore": "9400",
+            "valueKeyAlarm": "3300",
+            "valueKeyCopy": "1880",
+            "valueKeyConfectAlarm": "5400",
+            "valueKeyConfect": "4230"
+          },
+          "32000": {
+            "valueCopyStore": "15150",
+            "valueKeyAlarm": "5320",
+            "valueKeyCopy": "3040",
+            "valueKeyConfectAlarm": "8730",
+            "valueKeyConfect": "6840"
+          },
+          "2013": {
+            "valueCopyStore": "3970",
+            "valueKeyAlarm": "1390",
+            "valueKeyCopy": "790",
+            "valueKeyConfectAlarm": "2280",
+            "valueKeyConfect": "1790"
+          }
+        }
+      },
+      "MARRUÃ AM 200 Escolar 2_PDOT8 TDI Diesel": {
+        "Diesel": {
+          "2021": {
+            "valueCopyStore": "14100",
+            "valueKeyAlarm": "4940",
+            "valueKeyCopy": "2820",
+            "valueKeyConfectAlarm": "8100",
+            "valueKeyConfect": "6300"
+          },
+          "2022": {
+            "valueCopyStore": "14500",
+            "valueKeyAlarm": "5200",
+            "valueKeyCopy": "2950",
+            "valueKeyConfectAlarm": "8800",
+            "valueKeyConfect": "6850"
+          },
+          "2023": {
+            "valueCopyStore": "15500",
+            "valueKeyAlarm": "5500",
+            "valueKeyCopy": "3200",
+            "valueKeyConfectAlarm": "9500",
+            "valueKeyConfect": "7400"
+          },
+          "32000": {
+            "valueCopyStore": "17090",
+            "valueKeyAlarm": "5980",
+            "valueKeyCopy": "3400",
+            "valueKeyConfectAlarm": "9830",
+            "valueKeyConfect": "7680"
+          }
+        }
+      },
+      "MARRUÃ AM 250 3_PDOT8 CD TDI Diesel (E6)": {
+        "Diesel": {
+          "32000": {
+            "valueCopyStore": "15300",
+            "valueKeyAlarm": "5450",
+            "valueKeyCopy": "3200",
+            "valueKeyConfectAlarm": "8850",
+            "valueKeyConfect": "6950"
+          },
+          "2023": {
+            "valueCopyStore": "15185",
+            "valueKeyAlarm": "5350",
+            "valueKeyCopy": "3050",
+            "valueKeyConfectAlarm": "8750",
+            "valueKeyConfect": "6850"
+          }
+        }
+      },
+      "MARRUÃ AM 100 2_PDOT8 CD TDI Diesel": {
+        "Diesel": {
+          "2008": {
+            "valueCopyStore": "1920",
+            "valueKeyAlarm": "670",
+            "valueKeyCopy": "380",
+            "valueKeyConfectAlarm": "1100",
+            "valueKeyConfect": "870"
+          },
+          "2007": {
+            "valueCopyStore": "1870",
+            "valueKeyAlarm": "650",
+            "valueKeyCopy": "370",
+            "valueKeyConfectAlarm": "1080",
+            "valueKeyConfect": "840"
+          },
+          "2010": {
+            "valueCopyStore": "2150",
+            "valueKeyAlarm": "750",
+            "valueKeyCopy": "430",
+            "valueKeyConfectAlarm": "1250",
+            "valueKeyConfect": "960"
+          },
+          "2009": {
+            "valueCopyStore": "2000",
+            "valueKeyAlarm": "700",
+            "valueKeyCopy": "400",
+            "valueKeyConfectAlarm": "1150",
+            "valueKeyConfect": "900"
+          },
+          "2014": {
+            "valueCopyStore": "4035",
+            "valueKeyAlarm": "1400",
+            "valueKeyCopy": "800",
+            "valueKeyConfectAlarm": "2330",
+            "valueKeyConfect": "1830"
+          },
+          "2012": {
+            "valueCopyStore": "3800",
+            "valueKeyAlarm": "1350",
+            "valueKeyCopy": "760",
+            "valueKeyConfectAlarm": "2200",
+            "valueKeyConfect": "1710"
+          },
+          "2015": {
+            "valueCopyStore": "4200",
+            "valueKeyAlarm": "1500",
+            "valueKeyCopy": "850",
+            "valueKeyConfectAlarm": "2400",
+            "valueKeyConfect": "1900"
+          },
+          "2011": {
+            "valueCopyStore": "3170",
+            "valueKeyAlarm": "1100",
+            "valueKeyCopy": "630",
+            "valueKeyConfectAlarm": "1820",
+            "valueKeyConfect": "1430"
+          },
+          "2013": {
+            "valueCopyStore": "3900",
+            "valueKeyAlarm": "1370",
+            "valueKeyCopy": "780",
+            "valueKeyConfectAlarm": "2250",
+            "valueKeyConfect": "1770"
+          }
+        }
+      },
+      "MARRUÃ AM 200 Escolar 2_PDOT8 TDI Diesel E6": {
+        "Diesel": {
+          "32000": {
+            "valueCopyStore": "17090",
+            "valueKeyAlarm": "5980",
+            "valueKeyCopy": "3400",
+            "valueKeyConfectAlarm": "9830",
+            "valueKeyConfect": "7680"
+          },
+          "2023": {
+            "valueCopyStore": "15500",
+            "valueKeyAlarm": "5500",
+            "valueKeyCopy": "3200",
+            "valueKeyConfectAlarm": "9500",
+            "valueKeyConfect": "7400"
+          }
+        }
+      },
+      "MARRUÃ AM 50 2_PDOT8 140cv TDI Diesel": {
+        "Diesel": {
+          "2011": {
+            "valueCopyStore": "2820",
+            "valueKeyAlarm": "990",
+            "valueKeyCopy": "560",
+            "valueKeyConfectAlarm": "1630",
+            "valueKeyConfect": "1270"
+          },
+          "2010": {
+            "valueCopyStore": "2370",
+            "valueKeyAlarm": "830",
+            "valueKeyCopy": "470",
+            "valueKeyConfectAlarm": "1360",
+            "valueKeyConfect": "1070"
+          },
+          "2009": {
+            "valueCopyStore": "2200",
+            "valueKeyAlarm": "770",
+            "valueKeyCopy": "440",
+            "valueKeyConfectAlarm": "1260",
+            "valueKeyConfect": "990"
+          },
+          "2008": {
+            "valueCopyStore": "2050",
+            "valueKeyAlarm": "720",
+            "valueKeyCopy": "410",
+            "valueKeyConfectAlarm": "1180",
+            "valueKeyConfect": "920"
+          }
+        }
+      },
+      "MARRUÃ AM 200 2_PDOT8 CS TDI Diesel": {
+        "Diesel": {
+          "2007": {
+            "valueCopyStore": "1790",
+            "valueKeyAlarm": "630",
+            "valueKeyCopy": "360",
+            "valueKeyConfectAlarm": "1030",
+            "valueKeyConfect": "800"
+          },
+          "2023": {
+            "valueCopyStore": "14700",
+            "valueKeyAlarm": "5000",
+            "valueKeyCopy": "2900",
+            "valueKeyConfectAlarm": "8000",
+            "valueKeyConfect": "6400"
+          },
+          "2014": {
+            "valueCopyStore": "3800",
+            "valueKeyAlarm": "1320",
+            "valueKeyCopy": "750",
+            "valueKeyConfectAlarm": "2170",
+            "valueKeyConfect": "1700"
+          },
+          "2016": {
+            "valueCopyStore": "5180",
+            "valueKeyAlarm": "1820",
+            "valueKeyCopy": "1040",
+            "valueKeyConfectAlarm": "2980",
+            "valueKeyConfect": "2340"
+          },
+          "2015": {
+            "valueCopyStore": "4000",
+            "valueKeyAlarm": "1400",
+            "valueKeyCopy": "800",
+            "valueKeyConfectAlarm": "2300",
+            "valueKeyConfect": "1800"
+          },
+          "2022": {
+            "valueCopyStore": "12500",
+            "valueKeyAlarm": "4500",
+            "valueKeyCopy": "2500",
+            "valueKeyConfectAlarm": "7500",
+            "valueKeyConfect": "5800"
+          },
+          "2018": {
+            "valueCopyStore": "7150",
+            "valueKeyAlarm": "2500",
+            "valueKeyCopy": "1430",
+            "valueKeyConfectAlarm": "4100",
+            "valueKeyConfect": "3220"
+          },
+          "2011": {
+            "valueCopyStore": "2900",
+            "valueKeyAlarm": "1020",
+            "valueKeyCopy": "580",
+            "valueKeyConfectAlarm": "1670",
+            "valueKeyConfect": "1300"
+          },
+          "2017": {
+            "valueCopyStore": "5480",
+            "valueKeyAlarm": "1920",
+            "valueKeyCopy": "1100",
+            "valueKeyConfectAlarm": "3150",
+            "valueKeyConfect": "2500"
+          },
+          "2008": {
+            "valueCopyStore": "1870",
+            "valueKeyAlarm": "650",
+            "valueKeyCopy": "370",
+            "valueKeyConfectAlarm": "1070",
+            "valueKeyConfect": "840"
+          },
+          "2020": {
+            "valueCopyStore": "10700",
+            "valueKeyAlarm": "3750",
+            "valueKeyCopy": "2150",
+            "valueKeyConfectAlarm": "6150",
+            "valueKeyConfect": "4800"
+          },
+          "2010": {
+            "valueCopyStore": "2060",
+            "valueKeyAlarm": "720",
+            "valueKeyCopy": "420",
+            "valueKeyConfectAlarm": "1200",
+            "valueKeyConfect": "930"
+          },
+          "2009": {
+            "valueCopyStore": "1950",
+            "valueKeyAlarm": "680",
+            "valueKeyCopy": "390",
+            "valueKeyConfectAlarm": "1120",
+            "valueKeyConfect": "870"
+          },
+          "2021": {
+            "valueCopyStore": "11700",
+            "valueKeyAlarm": "4080",
+            "valueKeyCopy": "2350",
+            "valueKeyConfectAlarm": "6690",
+            "valueKeyConfect": "5250"
+          },
+          "2012": {
+            "valueCopyStore": "3390",
+            "valueKeyAlarm": "1190",
+            "valueKeyCopy": "680",
+            "valueKeyConfectAlarm": "1950",
+            "valueKeyConfect": "1530"
+          },
+          "2019": {
+            "valueCopyStore": "8500",
+            "valueKeyAlarm": "2980",
+            "valueKeyCopy": "1700",
+            "valueKeyConfectAlarm": "4900",
+            "valueKeyConfect": "3830"
+          },
+          "32000": {
+            "valueCopyStore": "15200",
+            "valueKeyAlarm": "5330",
+            "valueKeyCopy": "3000",
+            "valueKeyConfectAlarm": "8730",
+            "valueKeyConfect": "6830"
+          },
+          "2013": {
+            "valueCopyStore": "3620",
+            "valueKeyAlarm": "1270",
+            "valueKeyCopy": "730",
+            "valueKeyConfectAlarm": "2080",
+            "valueKeyConfect": "1630"
+          }
+        }
+      },
+      "MARRUÃ AM 150 2_PDOT8  CS TDI Diesel": {
+        "Diesel": {
+          "2008": {
+            "valueCopyStore": "1800",
+            "valueKeyAlarm": "630",
+            "valueKeyCopy": "360",
+            "valueKeyConfectAlarm": "1050",
+            "valueKeyConfect": "810"
+          },
+          "2010": {
+            "valueCopyStore": "2030",
+            "valueKeyAlarm": "710",
+            "valueKeyCopy": "420",
+            "valueKeyConfectAlarm": "1170",
+            "valueKeyConfect": "920"
+          },
+          "2009": {
+            "valueCopyStore": "1880",
+            "valueKeyAlarm": "660",
+            "valueKeyCopy": "380",
+            "valueKeyConfectAlarm": "1090",
+            "valueKeyConfect": "850"
+          },
+          "2014": {
+            "valueCopyStore": "3800",
+            "valueKeyAlarm": "1350",
+            "valueKeyCopy": "770",
+            "valueKeyConfectAlarm": "2250",
+            "valueKeyConfect": "1740"
+          },
+          "2012": {
+            "valueCopyStore": "3400",
+            "valueKeyAlarm": "1210",
+            "valueKeyCopy": "690",
+            "valueKeyConfectAlarm": "1980",
+            "valueKeyConfect": "1550"
+          },
+          "2015": {
+            "valueCopyStore": "3600",
+            "valueKeyAlarm": "1430",
+            "valueKeyCopy": "800",
+            "valueKeyConfectAlarm": "2400",
+            "valueKeyConfect": "1850"
+          },
+          "2011": {
+            "valueCopyStore": "2940",
+            "valueKeyAlarm": "1020",
+            "valueKeyCopy": "590",
+            "valueKeyConfectAlarm": "1680",
+            "valueKeyConfect": "1300"
+          },
+          "2013": {
+            "valueCopyStore": "2950",
+            "valueKeyAlarm": "1290",
+            "valueKeyCopy": "750",
+            "valueKeyConfectAlarm": "2120",
+            "valueKeyConfect": "1650"
+          }
+        }
+      },
+      "MARRUÃ AM 200 Microbus 2_PDOT8 TDI Diesel": {
+        "Diesel": {
+          "2021": {
+            "valueCopyStore": "13990",
+            "valueKeyAlarm": "4900",
+            "valueKeyCopy": "2800",
+            "valueKeyConfectAlarm": "8040",
+            "valueKeyConfect": "6300"
+          },
+          "2022": {
+            "valueCopyStore": "14700",
+            "valueKeyAlarm": "5300",
+            "valueKeyCopy": "3000",
+            "valueKeyConfectAlarm": "8700",
+            "valueKeyConfect": "7000"
+          },
+          "32000": {
+            "valueCopyStore": "16910",
+            "valueKeyAlarm": "5920",
+            "valueKeyCopy": "3380",
+            "valueKeyConfectAlarm": "9730",
+            "valueKeyConfect": "7610"
+          },
+          "2023": {
+            "valueCopyStore": "15200",
+            "valueKeyAlarm": "5700",
+            "valueKeyCopy": "3100",
+            "valueKeyConfectAlarm": "9200",
+            "valueKeyConfect": "7400"
+          }
+        }
+      },
+      "MARRUÃ AM 100 2_PDOT8  CS TDI Diesel": {
+        "Diesel": {
+          "2008": {
+            "valueCopyStore": "1700",
+            "valueKeyAlarm": "580",
+            "valueKeyCopy": "330",
+            "valueKeyConfectAlarm": "950",
+            "valueKeyConfect": "750"
+          },
+          "2010": {
+            "valueCopyStore": "1950",
+            "valueKeyAlarm": "680",
+            "valueKeyCopy": "400",
+            "valueKeyConfectAlarm": "1130",
+            "valueKeyConfect": "880"
+          },
+          "2014": {
+            "valueCopyStore": "3800",
+            "valueKeyAlarm": "1350",
+            "valueKeyCopy": "760",
+            "valueKeyConfectAlarm": "2160",
+            "valueKeyConfect": "1700"
+          },
+          "2009": {
+            "valueCopyStore": "1700",
+            "valueKeyAlarm": "600",
+            "valueKeyCopy": "340",
+            "valueKeyConfectAlarm": "990",
+            "valueKeyConfect": "770"
+          },
+          "2012": {
+            "valueCopyStore": "3400",
+            "valueKeyAlarm": "1200",
+            "valueKeyCopy": "700",
+            "valueKeyConfectAlarm": "1950",
+            "valueKeyConfect": "1500"
+          },
+          "2015": {
+            "valueCopyStore": "4000",
+            "valueKeyAlarm": "1500",
+            "valueKeyCopy": "800",
+            "valueKeyConfectAlarm": "2400",
+            "valueKeyConfect": "1800"
+          },
+          "2011": {
+            "valueCopyStore": "2400",
+            "valueKeyAlarm": "850",
+            "valueKeyCopy": "480",
+            "valueKeyConfectAlarm": "1400",
+            "valueKeyConfect": "1100"
+          },
+          "2013": {
+            "valueCopyStore": "3700",
+            "valueKeyAlarm": "1300",
+            "valueKeyCopy": "740",
+            "valueKeyConfectAlarm": "2000",
+            "valueKeyConfect": "1650"
+          }
+        }
+      },
+      "MARRUÃ 2_PDOT8 12V 132cv TDI Diesel": {
+        "Diesel": {
+          "2006": {
+            "valueCopyStore": "1400",
+            "valueKeyAlarm": "600",
+            "valueKeyCopy": "380",
+            "valueKeyConfectAlarm": "1000",
+            "valueKeyConfect": "800"
+          },
+          "2005": {
+            "valueCopyStore": "1350",
+            "valueKeyAlarm": "550",
+            "valueKeyCopy": "350",
+            "valueKeyConfectAlarm": "900",
+            "valueKeyConfect": "700"
+          },
+          "2004": {
+            "valueCopyStore": "1300",
+            "valueKeyAlarm": "510",
+            "valueKeyCopy": "290",
+            "valueKeyConfectAlarm": "850",
+            "valueKeyConfect": "650"
+          },
+          "2007": {
+            "valueCopyStore": "1500",
+            "valueKeyAlarm": "640",
+            "valueKeyCopy": "400",
+            "valueKeyConfectAlarm": "1060",
+            "valueKeyConfect": "840"
+          }
+        }
+      },
+      "MARRUÃ AM 150 2_PDOT8 CD TDI Diesel": {
+        "Diesel": {
+          "2008": {
+            "valueCopyStore": "2050",
+            "valueKeyAlarm": "720",
+            "valueKeyCopy": "400",
+            "valueKeyConfectAlarm": "1170",
+            "valueKeyConfect": "920"
+          },
+          "2010": {
+            "valueCopyStore": "2590",
+            "valueKeyAlarm": "900",
+            "valueKeyCopy": "520",
+            "valueKeyConfectAlarm": "1500",
+            "valueKeyConfect": "1160"
+          },
+          "2009": {
+            "valueCopyStore": "2130",
+            "valueKeyAlarm": "750",
+            "valueKeyCopy": "430",
+            "valueKeyConfectAlarm": "1230",
+            "valueKeyConfect": "960"
+          },
+          "2014": {
+            "valueCopyStore": "4100",
+            "valueKeyAlarm": "1440",
+            "valueKeyCopy": "820",
+            "valueKeyConfectAlarm": "2360",
+            "valueKeyConfect": "1850"
+          },
+          "2012": {
+            "valueCopyStore": "3840",
+            "valueKeyAlarm": "1340",
+            "valueKeyCopy": "770",
+            "valueKeyConfectAlarm": "2200",
+            "valueKeyConfect": "1730"
+          },
+          "2015": {
+            "valueCopyStore": "4950",
+            "valueKeyAlarm": "1750",
+            "valueKeyCopy": "990",
+            "valueKeyConfectAlarm": "2850",
+            "valueKeyConfect": "2220"
+          },
+          "2011": {
+            "valueCopyStore": "3100",
+            "valueKeyAlarm": "1100",
+            "valueKeyCopy": "630",
+            "valueKeyConfectAlarm": "1810",
+            "valueKeyConfect": "1400"
+          },
+          "2013": {
+            "valueCopyStore": "3970",
+            "valueKeyAlarm": "1400",
+            "valueKeyCopy": "800",
+            "valueKeyConfectAlarm": "2280",
+            "valueKeyConfect": "1790"
+          }
+        }
+      }
+    }
+  ]
+}

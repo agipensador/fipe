@@ -1,0 +1,585 @@
+{
+  "items": [
+    {
+      "Hi-Topic Van 2_PDOT7 Diesel (furgÃ£o)": {
+        "Diesel": {
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "60",
+            "valueKeyConfectAlarm": "280",
+            "valueKeyConfect": "220"
+          },
+          "1995": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "55",
+            "valueKeyConfectAlarm": "250",
+            "valueKeyConfect": "200"
+          },
+          "1996": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "60",
+            "valueKeyConfectAlarm": "270",
+            "valueKeyConfect": "210"
+          },
+          "1994": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "45",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "160"
+          }
+        }
+      },
+      "Hi-Topic SLX/SDX/DLX Full Diesel": {
+        "Diesel": {
+          "1993": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "50",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "170"
+          },
+          "1996": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "65",
+            "valueKeyConfectAlarm": "290",
+            "valueKeyConfect": "220"
+          },
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "70",
+            "valueKeyConfectAlarm": "340",
+            "valueKeyConfect": "260"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "70",
+            "valueKeyConfectAlarm": "320",
+            "valueKeyConfect": "250"
+          },
+          "1995": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "60",
+            "valueKeyConfectAlarm": "260",
+            "valueKeyConfect": "210"
+          },
+          "1994": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "55",
+            "valueKeyConfectAlarm": "250",
+            "valueKeyConfect": "200"
+          }
+        }
+      },
+      "Topic Super Luxo Diesel": {
+        "Diesel": {
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "75",
+            "valueKeyConfectAlarm": "350",
+            "valueKeyConfect": "270"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "70",
+            "valueKeyConfectAlarm": "330",
+            "valueKeyConfect": "250"
+          },
+          "1999": {
+            "valueCopyStore": "670",
+            "valueKeyAlarm": "240",
+            "valueKeyCopy": "140",
+            "valueKeyConfectAlarm": "390",
+            "valueKeyConfect": "300"
+          },
+          "1996": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "70",
+            "valueKeyConfectAlarm": "310",
+            "valueKeyConfect": "250"
+          }
+        }
+      },
+      "Towner Pick-Up": {
+        "Gasolina": {
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1999": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "35",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          }
+        }
+      },
+      "Towner Glass Van": {
+        "Gasolina": {
+          "1993": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "110",
+            "valueKeyCopy": "25",
+            "valueKeyConfectAlarm": "200",
+            "valueKeyConfect": "130"
+          },
+          "1996": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "110",
+            "valueKeyCopy": "28",
+            "valueKeyConfectAlarm": "210",
+            "valueKeyConfect": "140"
+          },
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1995": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "28",
+            "valueKeyConfectAlarm": "210",
+            "valueKeyConfect": "140"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1994": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "110",
+            "valueKeyCopy": "25",
+            "valueKeyConfectAlarm": "205",
+            "valueKeyConfect": "140"
+          }
+        }
+      },
+      "Towner FurgÃ£o": {
+        "Gasolina": {
+          "1996": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "110",
+            "valueKeyCopy": "25",
+            "valueKeyConfectAlarm": "210",
+            "valueKeyConfect": "140"
+          },
+          "1999": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "40",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1995": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "110",
+            "valueKeyCopy": "25",
+            "valueKeyConfectAlarm": "210",
+            "valueKeyConfect": "140"
+          },
+          "1994": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "110",
+            "valueKeyCopy": "25",
+            "valueKeyConfectAlarm": "205",
+            "valueKeyConfect": "140"
+          }
+        }
+      },
+      "Hi-Topic STD Diesel": {
+        "Diesel": {
+          "1993": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "50",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "170"
+          },
+          "1996": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "60",
+            "valueKeyConfectAlarm": "280",
+            "valueKeyConfect": "220"
+          },
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "65",
+            "valueKeyConfectAlarm": "300",
+            "valueKeyConfect": "230"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "65",
+            "valueKeyConfectAlarm": "290",
+            "valueKeyConfect": "230"
+          },
+          "1995": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "60",
+            "valueKeyConfectAlarm": "270",
+            "valueKeyConfect": "210"
+          },
+          "1994": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "55",
+            "valueKeyConfectAlarm": "240",
+            "valueKeyConfect": "190"
+          }
+        }
+      },
+      "Towner Coach Full": {
+        "Gasolina": {
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1995": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1996": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          }
+        }
+      },
+      "Towner Luxo": {
+        "Gasolina": {
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1999": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "40",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          }
+        }
+      },
+      "Towner Truck": {
+        "Gasolina": {
+          "1993": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "110",
+            "valueKeyCopy": "25",
+            "valueKeyConfectAlarm": "210",
+            "valueKeyConfect": "140"
+          },
+          "1996": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1995": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "28",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1994": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "110",
+            "valueKeyCopy": "25",
+            "valueKeyConfectAlarm": "210",
+            "valueKeyConfect": "140"
+          }
+        }
+      },
+      "Jipe Rocsta GT 4x4 2_PDOT2 Diesel": {
+        "Diesel": {
+          "1995": {
+            "valueCopyStore": "780",
+            "valueKeyAlarm": "160",
+            "valueKeyCopy": "100",
+            "valueKeyConfectAlarm": "450",
+            "valueKeyConfect": "350"
+          },
+          "1994": {
+            "valueCopyStore": "730",
+            "valueKeyAlarm": "150",
+            "valueKeyCopy": "90",
+            "valueKeyConfectAlarm": "420",
+            "valueKeyConfect": "330"
+          }
+        }
+      },
+      "Topic Carga 2_PDOT7 Diesel (furgÃ£o)": {
+        "Diesel": {
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "70",
+            "valueKeyConfectAlarm": "320",
+            "valueKeyConfect": "250"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "65",
+            "valueKeyConfectAlarm": "300",
+            "valueKeyConfect": "230"
+          },
+          "1999": {
+            "valueCopyStore": "620",
+            "valueKeyAlarm": "220",
+            "valueKeyCopy": "130",
+            "valueKeyConfectAlarm": "360",
+            "valueKeyConfect": "280"
+          }
+        }
+      },
+      "Towner Super Luxo": {
+        "Gasolina": {
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1999": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "50",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          }
+        }
+      },
+      "Topic Luxo Diesel": {
+        "Diesel": {
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "70",
+            "valueKeyConfectAlarm": "330",
+            "valueKeyConfect": "260"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "65",
+            "valueKeyConfectAlarm": "320",
+            "valueKeyConfect": "250"
+          },
+          "1999": {
+            "valueCopyStore": "630",
+            "valueKeyAlarm": "220",
+            "valueKeyCopy": "130",
+            "valueKeyConfectAlarm": "360",
+            "valueKeyConfect": "290"
+          }
+        }
+      },
+      "Towner SDX / DLX/ STD": {
+        "Gasolina": {
+          "1993": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1996": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "35",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1995": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "35",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1994": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          }
+        }
+      },
+      "Towner Multiuso 5p": {
+        "Gasolina": {
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1999": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          }
+        }
+      },
+      "Towner Panel Van": {
+        "Gasolina": {
+          "1996": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "28",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1998": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1995": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "110",
+            "valueKeyCopy": "25",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "140"
+          },
+          "1997": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "120",
+            "valueKeyCopy": "30",
+            "valueKeyConfectAlarm": "220",
+            "valueKeyConfect": "150"
+          },
+          "1994": {
+            "valueCopyStore": "600",
+            "valueKeyAlarm": "110",
+            "valueKeyCopy": "25",
+            "valueKeyConfectAlarm": "210",
+            "valueKeyConfect": "140"
+          }
+        }
+      }
+    }
+  ]
+}

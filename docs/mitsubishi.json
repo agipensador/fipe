@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "asx1016": {
+        "valueDataKeyChip": "pcf: 7936; série: t39;",
+        "laminaTextDica": "Habilita por equipamento via obdii\nSenha: 8a62\n Dica: Quando for smart, para confecção é retirar o imobilizador para gerar o 1º transponder na bancada",
+        "laminasKeys": "silca: MIT11",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "transponderNomenclatura": "7936aa lock mit",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: g8d-576ma letra g\nHabilita por equipamento\nSenha: 8a62\n\nSmart Key\nRef:g8d-644m\nFreq: 433mhz\nsenha: 8a62\n\nMAQUINA KD\nArquivo: g8d-576-ma with g on shell\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-obdmap\n-remap/scanicar\n-Zed Full\n-Tango\n-TMpro\n-skp\n-x100 pad\n-obd star x300\n-rasther",
+        "videoLink": "https://www.youtube.com/watch?v=Ja1y62hUXng&pp=ygUkcHJvZ3JhbWFyIGNoYXZlIG1pdHN1YmlzaGkgYXN4ICAyMDEz"
+      },
+      "asx1719": {
+        "valueDataKeyChip": "pcf: 7936; série: t39;",
+        "laminaTextDica": "Habilita por equipamento via obdii\nSenha: 8a62\n Dica: Quando for smart, para confecção é retirar o imobilizador para gerar o 1º transponder na bancada",
+        "laminasKeys": "silca: MIT11",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "transponderNomenclatura": "7936aa lock mit",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: g8d-576ma letra g\nHabilita por equipamento\nSenha: 8a62\n\nSmart Key\nRef:g8d-644m\nFreq: 433mhz\nsenha: 8a62\n\nMAQUINA KD\nArquivo: g8d-576-ma with g on shell\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-igold\n-obdmap\n-remap/scanicar\n-Zed Full\n-TMpro\n-skp\n-x100 pad\n-obd star x300\n-rasther",
+        "videoLink": "https://www.youtube.com/watch?v=9PXyJx9jM8g&pp=ygUkcHJvZ3JhbWFyIGNoYXZlIG1pdHN1YmlzaGkgYXN4ICAyMDE5"
+      },
+      "eclps1822": {
+        "valueDataKeyChip": "pcf: 7938",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: 3373\nApós 3 tentativas erradas o carro bloqueia",
+        "laminasKeys": "SILCA: MIT11",
+        "transponderClone": "não clona",
+        "transponderNomenclatura": "pcf7938 128 bits 4a",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: 6370c134(j166e)\nHabilita por equipamento\nsenha: 3373\n\nSmart Key\nRef:ghr-m014\nFreq: 433mhz\nsenha: 3373",
+        "maquinasCodificadoras": "obd star x300",
+        "videoLink": "https://www.youtube.com/watch?v=tVuM88qekl8&pp=ugMICgJwdBABGAHKBS1wcm9ncmFtYXIgY2hhdmUgbWl0c3ViaXNoaSBlY2xpcHNlIGNyb3NzIDIwMTk%3D"
+      },
+      "l22022": {
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: 0707\nApós 3 tentativas erradas o carro bloqueia",
+        "laminasKeys": "SILCA: MIT11",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: j166e\nHabilita por equipamento\nsenha: 0707\n\nSmart Key\nRef:ghr-m004\nFreq: 433mhz\nhabilita por equipamento\nsenha: 0707\n\nMaquina kd\nArquivo: g8d571ma shell with d\nTipo: série b ou multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-obdmap\n-remap/scanicar\n-Zed Full\n-vvdi\n-skp\n-x100 pad\n-obd star x300\n-rasther",
+        "videoLink": "https://www.youtube.com/watch?v=IPIx_UpJ2q0&pp=ygUrcHJvZ3JhbWFyIGNoYXZlIG1pdHN1YmlzaGkgbDIwMCB0cml0b24gMjAyMg%3D%3D"
+      },
+      "outl1013": {
+        "valueDataKeyChip": "pcf: 7936; série: t39;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: 8a42\nSe for smart, para confecção é preciso retirar o imobilizador para gerar o 1º transponder na bancada",
+        "laminasKeys": "SILCA: MIT11",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "transponderNomenclatura": "7936aa lock mit",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: g8d-576ma letra g\nHabilita por procedimento\nSenha: 8a42\n\nSmart Key\nRef:g8d-644m\nFreq: 433mhz\nHabilita por equipamento\nsenha: 8a42\n\nMAQUINA KD\nArquivo: g8d-576-ma with g on shell\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-igold\n-obdmap\n-remap/scanicar\n-Zed Full\n-upa\n-TMpro\n-skp\n-x100 pad\n-obd star x300\n-rasther",
+        "videoLink": "https://www.youtube.com/watch?v=Ja1y62hUXng&pp=ygUpcHJvZ3JhbWFyIGNoYXZlIG1pdHN1YmlzaGkgb3V0bGFuZGVyIDIwMTE%3D"
+      },
+      "outl1419": {
+        "valueDataKeyChip": "pcf: 7936; série: t39;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: 00f4\nSe for smart, para confecção é preciso retirar o imobilizador para gerar o 1º transponder na bancada",
+        "laminasKeys": "SILCA: MIT11",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "transponderNomenclatura": "7936aa lock mit",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: g8d-576ma letra g\nHabilita por procedimento\nSenha: 00f4\n\nSmart Key\nRef:g8d-644m\nFreq: 433mhz\nHabilita por equipamento\nsenha: 00f4\n\nMAQUINA KD\nArquivo: g8d-576-ma with g on shell\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-igold(não clona alguns modelos)\n-x100 pad\n-obd star x300",
+        "videoLink": "https://www.youtube.com/watch?v=H_thdjA1pfc&pp=ygUpcHJvZ3JhbWFyIGNoYXZlIG1pdHN1YmlzaGkgb3V0bGFuZGVyIDIwMTY%3D"
+      },
+      "outl20m": {
+        "valueDataKeyChip": "pcf: 7936; série: t39;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: 00f4\nsomente chave virgem",
+        "laminasKeys": "SILCA: MIT11",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "transponderNomenclatura": "7936aa lock mit",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: g8d-576ma letra g\nHabilita por procedimento\nSenha: 00f4\n\nSmart Key\nRef:g8d-644m\nFreq: 433mhz\nHabilita por equipamento\nsenha: 00f4\n\nMAQUINA KD\nArquivo: g8d-576-ma with g on shell\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-igold(não clona alguns modelos)\n-x100 pad\n-obd star x300",
+        "videoLink": "https://www.youtube.com/watch?v=WWBC48ZkV3g&pp=ugMICgJwdBABGAHKBSlwcm9ncmFtYXIgY2hhdmUgbWl0c3ViaXNoaSBvdXRsYW5kZXIgMjAyMA%3D%3D"
+      },
+      "pjrdkr": {
+        "valueDataKeyChip": "pcf: 7936; série: t39;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nSenha: 940f ou 9415\nApós 3 tentativas erradas o carro bloqueia",
+        "laminasKeys": "Gold: 457; Silca: mit8;",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "transponderNomenclatura": "7936aa lock mit",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: g8d-571ma letra d\nHabilita por equipamento\n\nMAQUINA KD\nArquivo: g8d571ma shell with d\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-obd star x300\n-skp\n-vvdi-x100 pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=JcCz0z5Nwyg&pp=ygUscHJvZ3JhbWFyIGNoYXZlIG1pdHN1YmlzaGkgcGFqZXJvIGRha2FyIDIwMTM%3D"
+      },
+      "pjrfl1416": {
+        "valueDataKeyChip": "pcf: 7936; série: t39;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nSenha: 1803(gasolina) ou d135(diesel)",
+        "laminaslaminaPalhetasKeys": "Gold: 457; Silca: mit8;",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "transponderNomenclatura": "7936aa lock mit",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: g8d-571ma letra d\nHabilita por procedimento\nProcedimento:  1-Insira a chave na ignição sem ligar(OFF)\n2-Faça um jumper entre as posições 1e4 do conector obdii\n3-Pressione rapidamente o pisca alerta por 6 vezes\n4-As portas irão travar e destravar, indicando que o carro está pronto para programar\n5-Em menos de 10 segundos aperte 3vezes o 'LOCK' do controle, se o controle for aceito as portas irão travar e destravar\n6-Para mais controles refaça de o passo 5 em menos de 1 minuto(máx 4 controles)\n7-Ao final retire o jump\n8-Retire a chave do contato\n9-teste os controles\n\nMAQUINA KD\nArquivo: g8d571ma shell with d\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-obd star x300\n-skp\n-vvdi-x100 pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=LQRslzsb8W4&pp=ygUrcHJvZ3JhbWFyIGNoYXZlIG1pdHN1YmlzaGkgcGFqZXJvIGZ1bGwgMjAxMw%3D%3D"
+      },
+      "pjrfl1720": {
+        "valueDataKeyChip": "pcf: 7936; série: t39;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nSenha: 5176\nApós 3 tentativas erradas o carro bloqueia. Para desbloquear deixe o contato ligado por 40 minutos",
+        "laminaslaminaPalhetasKeys": "Gold: 457; Silca: mit8;",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "transponderNomenclatura": "7936aa lock mit",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: g8d-635ma letra d\nHabilita por procedimento\nProcedimento:  1-Insira a chave na ignição sem ligar(OFF)\n2-Faça um jumper entre as posições 1e4 do conector obdii\n3-Pressione rapidamente o pisca alerta por 6 vezes\n4-As portas irão travar e destravar, indicando que o carro está pronto para programar\n5-Em menos de 10 segundos aperte 3vezes o 'LOCK' do controle, se o controle for aceito as portas irão travar e destravar\n6-Para mais controles refaça de o passo 5 em menos de 1 minuto(máx 4 controles)\n7-Ao final retire o jump\n8-Retire a chave do contato\n9-teste os controles\n\nMAQUINA KD\nArquivo: pajero v93 v97\nTipo: Série b ou multifuncional",
+        "maquinasCodificadoras": "-obd star x300\n-vvdi-x100 pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=LQRslzsb8W4&pp=ygUrcHJvZ3JhbWFyIGNoYXZlIG1pdHN1YmlzaGkgcGFqZXJvIGZ1bGwgMjAxMw%3D%3D"
+      }
+    }
+  ]
+}

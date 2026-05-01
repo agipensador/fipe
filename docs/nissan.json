@@ -1,0 +1,207 @@
+{
+  "items": [
+    {
+      "atm14": {
+        "valueDataKeyChip": "ID47 PCF7952",
+        "transponderNomenclatura": "PCF7952X ID47",
+        "telecomandoBatery": "CR 2032 3v",
+        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggZSmPU6IGIPTTygetErQwUwKhHIQfCu7g08MivozoR8zUSi5Vn1wpENq1E4NLRTS8rBjgrwNs_WyB1T00GxSOrbiLx9V5hJ8KQ3aAxOHgXg3Fuz4Q8w7iI0_T62UTIdR9MWZdoow5PM3JialBZ8WrX8QKTFMLVI2pa3KQBmDXdRLh4Eh7YD32phBj4DIx/s612/Captura%20de%20Tela%202023-11-14%20a%CC%80s%2000.31.41.png",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhk1tlylOLlEMK1nYoa3NbjbaEL3VQ8SOHSem7fqPJafbYNkGyaOq7Ub38qmQeJnOkw5F6M9DU_Ulb4YjbGHBD8ZUV0iu5mCBHnNzpzeCn6rW5QMpkujJnarzWPnrlPXFz01pfRosJK_8GPW3GCedEli0a8MpaGygDtRZ2AL4fJ4zoOwnLKJxL-4Yr-VEf/s488/Captura%20de%20Tela%202023-11-12%20a%CC%80s%2001.18.25.png",
+        "telecomandoFrequency": "315/433/433.92",
+        "videoLink": "https://www.youtube.com/watch?v=50k9VG3SFfo&pp=ygUZY2hhdmUgbmlzc2FuIGFsdGltYSAyMDE0IA%3D%3D"
+      },
+      "front6a13": {
+        "valueDataKeyChip": "id: 46; pcf: 7936; serie: t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4dígitos numéricos\nDica:Ler o OUTCODE de 5 dígitos alfanuméricos por OBDII e converter para ter a senha de 4 dígitos para habilitação",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "4d id60 crypto",
+        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_TTGG-_w5WR5bHdKQ4pYzWCicMHl98WUrr46tyhFxVJKQODucgg5eeyXL__E2CUAL6dLHbnKm-kktQA-3TQAE8BqekZn659j_hEnGUfbaqCNw7zWWMt_x2qTvobsz4kHEy3bPqsTiQ_pv7_IRvC_aBqznNUXR4JVpY1QRV5O_EdWJtUCm3qBNzCZyvH0c/s518/Captura%20de%20Tela%202023-11-14%20a%CC%80s%2001.20.00.png",
+        "telecomandoFrequency": "315",
+        "telecomandoProcedure": "Habilita por procedimento\nProcedimento: 1-Trave as portas pelo botão que está na porta\n2-Insira sem ligar, e retire a chave do contato 6vezes\n3-As portas irão destravar\n4-Ligue o contato\n5-Trave as portas pelo botão de travas da porta\n6-Aperte 'UNLOCK' no controle\n7-Repita os passos 5 e 6 para mais controles\n8-Desligue o contato\n9-Destrave a porta pelo botão da porta e abra a porta\n10-Ligue e desligue o contato\n11-Teste os controles \nNão usa senha",
+        "maquinasCodificadoras": "-iGold\n-Fácil\n-OBD Star X300\n-SKP\n-VVDI\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=ogLFFRozv34&pp=ygUaY2hhdmUgbmlzc2FuIEZST05USUVSIDIwMDk%3D"
+      },
+      "front14a19": {
+        "valueDataKeyChip": "id: 47",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4dígitos numéricos\nDica:Ler o OUTCODE de 5 dígitos alfanuméricos por OBDII e converter para ter a senha de 4 dígitos para habilitação",
+        "transponderNomenclatura": "4d id60 crypto",
+        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8IQPnPEmTg6lImN0-ZOGEHUvd64tUlPJCSvi7m4LHHL_4euMTw8BXj0B8e2Zgf3NMKKRf2WsBpRfhyqUiVoAjm-gTsoYSEAY32eVz5J6rQP82je8ieAGmizdR-d-g7OoV6j5drMRm7zWhqocFm5Fa-3n0fMyeR8GKR6CdqJIBkcY6DgrrrDx-r1dhPTiQ/s816/Captura%20de%20Tela%202023-11-14%20a%CC%80s%2001.43.46.png",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Habilita por procedimento\nProcedimento: 1-Trave as portas pelo botão que está na porta\n2-Insira sem ligar, e retire a chave do contato 6vezes\n3-As portas irão destravar\n4-Ligue o contato\n5-Trave as portas pelo botão de travas da porta\n6-Aperte 'UNLOCK' no controle\n7-Repita os passos 5 e 6 para mais controles\n8-Desligue o contato\n9-Destrave a porta pelo botão da porta e abra a porta\n10-Ligue e desligue o contato\n11-Teste os controles \nNão usa senha",
+        "videoLink": "https://www.youtube.com/watch?v=ogLFFRozv34&pp=ygUaY2hhdmUgbmlzc2FuIEZST05USUVSIDIwMDk%3D"
+      },
+      "kik16a21": {
+        "valueDataKeyChip": "pcf: 7938",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 20 dígitos numéricos\nDica:Ler o OUTCODE enviado pelo equipamento e solicitar o cálculo do INCODE para inserir no equipamento, para a habilitação da chave ou Smart Key",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderClone": "Não clona",
+        "transponderNomenclatura": "pcf7938 128 BITS 4A",
+        "telecomandoBatery": "CR 2032 3v",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv1c6LM_xV1bKXCo1DSdc_8B8zM97Ombk_5ocEi4jFfCmyEfj-3kXCEZRpbns3ZOEZ-85KTUm6hiQi-GTblFqCUKxCj9v90CeDpcOJiRchNXgaD7Yao0PaPTUFX8ylhhzF4YAWdk6tbBNHCQkZjB4sE-OTEaUyybP3mVvveFnXRhQpbNPpoBHznK2s40ln/s638/Captura%20de%20Tela%202023-11-14%20a%CC%80s%2010.58.18.png",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref:TWB1G767\nHabilita por equipamento\nNão usa senha\n\nSmart Key\nRef:KRSTXN1\nFrequência: 433\nHabilita por equipamento\nSenha: 20 dígitos alfanuméricos",
+        "maquinasCodificadoras": "-OBD Star X300\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=WP9_-n5ApbA&pp=ygUXY2hhdmUgbmlzc2FuIEtJQ0tTIDIwMjA%3D"
+      },
+      "kik22m": {
+        "telecomandoBatery": "CR 2032 3v",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv1c6LM_xV1bKXCo1DSdc_8B8zM97Ombk_5ocEi4jFfCmyEfj-3kXCEZRpbns3ZOEZ-85KTUm6hiQi-GTblFqCUKxCj9v90CeDpcOJiRchNXgaD7Yao0PaPTUFX8ylhhzF4YAWdk6tbBNHCQkZjB4sE-OTEaUyybP3mVvveFnXRhQpbNPpoBHznK2s40ln/s638/Captura%20de%20Tela%202023-11-14%20a%CC%80s%2010.58.18.png",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref:TWB1G767\nHabilita por equipamento\nNão usa senha\n\nSmart Key\nRef:KRSTXN1\nFrequência: 433\nHabilita por equipamento\nSenha: 20 dígitos alfanuméricos",
+        "maquinasCodificadoras": "-OBD Star X300\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=C53UvanoWlY&pp=ygUXY2hhdmUgbmlzc2FuIEtJQ0tTIDIwMjM%3D"
+      },
+      "leaf17m": {
+        "valueDataKeyChip": "id 4a PCF 7953/ NCF29A1M",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+        "transponderNomenclatura": "PCF7953M ID4A",
+        "videoLink": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png"
+      },
+      "livn7a14": {
+        "valueDataKeyChip": "id: 46 pcf:7936; série:t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 12 dígitos alfanuméricos\nDica: Solicitar na autorizada o OUTCODE. Se inserir os dados do OUTCODE errado o carro bloqueia e será preciso retirar a BC para desbloqueio",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "7936AA ID46",
+        "telecomandoBatery": "CR 2032 3v",
+        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_TTGG-_w5WR5bHdKQ4pYzWCicMHl98WUrr46tyhFxVJKQODucgg5eeyXL__E2CUAL6dLHbnKm-kktQA-3TQAE8BqekZn659j_hEnGUfbaqCNw7zWWMt_x2qTvobsz4kHEy3bPqsTiQ_pv7_IRvC_aBqznNUXR4JVpY1QRV5O_EdWJtUCm3qBNzCZyvH0c/s518/Captura%20de%20Tela%202023-11-14%20a%CC%80s%2001.20.00.png",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoFrequency": "315",
+        "telecomandoProcedure": "Ref: CWTWB1U751\nHabilita por equipamento\nNão possui senha",
+        "maquinasCodificadoras": "-Fácil\n-OBDMap\n-Remap/Scanicar",
+        "videoLink": "https://www.youtube.com/watch?v=j_XsDCFN3Ik&pp=ygUcY2hhdmUgbmlzc2FuIExJVklOQSAxLjYgMjAyMA%3D%3D"
+      },
+      "livn15m": {
+        "valueDataKeyChip": "id: 46 pcf:7936; série:t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: dígitos alfanuméricos\nDica: Solicitar na autorizada o OUTCODE",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderNomenclatura": "7936AA ID46",
+        "telecomandoBatery": "CR 2032 3v",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoFrequency": "315/433",
+        "maquinasCodificadoras": "-Fácil\n-OBDMap\n-Remap/Scanicar",
+        "videoLink": "https://www.youtube.com/watch?v=j_XsDCFN3Ik&pp=ygUcY2hhdmUgbmlzc2FuIExJVklOQSAxLjYgMjAyMA%3D%3D"
+      },
+      "livn18_7a14": {
+        "valueDataKeyChip": "id: 46 pcf:7936; série:t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4dígitos numéricos\nDica:Ler o OUTCODE de 5 dígitos alfanuméricos por OBDII e converter para ter a senha de 4 dígitos para habilitação",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "7936AA ID46",
+        "telecomandoBatery": "CR 2032 3v",
+        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_TTGG-_w5WR5bHdKQ4pYzWCicMHl98WUrr46tyhFxVJKQODucgg5eeyXL__E2CUAL6dLHbnKm-kktQA-3TQAE8BqekZn659j_hEnGUfbaqCNw7zWWMt_x2qTvobsz4kHEy3bPqsTiQ_pv7_IRvC_aBqznNUXR4JVpY1QRV5O_EdWJtUCm3qBNzCZyvH0c/s518/Captura%20de%20Tela%202023-11-14%20a%CC%80s%2001.20.00.png",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoFrequency": "315/433",
+        "telecomandoProcedure": "Habilita por equipamento\nNão possui senha",
+        "maquinasCodificadoras": "-Fácil\n-IGold\n-OBD Star X300\n-OBDMap\n-Rasther\n-Remap/Scanicar\n-SKP\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=j_XsDCFN3Ik&pp=ygUcY2hhdmUgbmlzc2FuIExJVklOQSAxLjYgMjAyMA%3D%3D"
+      },
+      "livn18_15m": {
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: dígitos alfanuméricos\nDica: Ler o OUTCODE de 5 dígitos alfanuméricos por OBDII e converter para ter a senha de 4 dígitos para habilitação",
+        "valueDataKeyChip": "id: 46 pcf:7936; série:t19;",
+        "telecomandoBatery": "CR 2032 3v",
+        "telecomandoFrequency": "315/433",
+        "transponderNomenclatura": "7936AA ID46",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoProcedure": "Habilita por equipamento\nNão possui senha",
+        "maquinasCodificadoras": "-Fácil\n-IGold\n-OBD Star X300\n-OBDMap\n-Rasther\n-Remap/Scanicar\n-SKP\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=j_XsDCFN3Ik&pp=ygUcY2hhdmUgbmlzc2FuIExJVklOQSAxLjYgMjAyMA%3D%3D"
+      },
+      "march11a14": {
+        "valueDataKeyChip": "id: 46 pcf:7936; série:t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 12 dígitos alfanuméricos\nDica: Inserir o OUTCODE de 12 dígitos que está colada dentro do porta luvas. Se inserir os dados da etiqueta errado, o carro bloqueia e será preciso retirar a BC para desbloqueio",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "7936AA ID46",
+        "telecomandoBatery": "CR 2032 3v",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoFrequency": "315",
+        "telecomandoProcedure": "Ref: CWTWB1U751\nHabilita por procedimento\n*Antes de iniciar o procedimento, verifique se o 'Auto Destravar' está acionado. Se estiver faça primeiro o procedimento abaixo:\n1-Ligue o contato(Painel acesso)\n2-Aperte e mantenha pressionado o botão 'Destravar' na porta, até as setas piscarem 1vez\nApós gravar os controles repita o processo acima até as setas piscarem 2 vezes\n\n1-Feche e tranque as portas pelo botão da porta\n2-Insira e tire a chave do contato 6 vezes SEM LIGAR\n3-As portas irão destravar\n4-Insira a chave no contato e ligue(painel aceso)\n5-Tranque as portas pelo botão de trancar na porta\n6-Aperte LOCK no controle. Para mais controles, aperte LOCK nos demais\n7-Tire a chave do contota\n8-Abra e feche a porta\nNão possui senha\n\nMáquina KD\nArquivo: Altima 2003 TIDDA KBRASTUS15\nTipo: Série b ou Multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-OBDMap\n-Remap/Scanicar",
+        "videoLink": "https://www.youtube.com/watch?v=3oS6a3y72d4&pp=ygUbY2hhdmUgbmlzc2FuIG1hcmNoIDEuMCAyMDEy"
+      },
+      "march15m": {
+        "valueDataKeyChip": "id: 46 pcf:7936; série:t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4dígitos numéricos\nDica:Ler o OUTCODE de 5 dígitos alfanuméricos por OBDII e converter para ter a senha de 4 dígitos para habilitação",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "7936AA ID46",
+        "telecomandoBatery": "CR 2032 3v",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoFrequency": "315",
+        "telecomandoProcedure": "Ref: CWTWB1U751\nHabilita por procedimento\n*Antes de iniciar o procedimento, verifique se o 'Auto Destravar' está acionado. Se estiver faça primeiro o procedimento abaixo:\n1-Ligue o contato(Painel acesso)\n2-Aperte e mantenha pressionado o botão 'Destravar' na porta, até as setas piscarem 1vez\nApós gravar os controles repita o processo acima até as setas piscarem 2 vezes\n\n1-Feche e tranque as portas pelo botão da porta\n2-Insira e tire a chave do contato 6 vezes SEM LIGAR\n3-As portas irão destravar\n4-Insira a chave no contato e ligue(painel aceso)\n5-Tranque as portas pelo botão de trancar na porta\n6-Aperte LOCK no controle. Para mais controles, aperte LOCK nos demais\n7-Tire a chave do contota\n8-Abra e feche a porta\nNão possui senha\n\nMáquina KD\nArquivo: Altima 2003 TIDDA KBRASTUS15\nTipo: Série b ou Multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-IGold\n-OBD Star X300\n-OBDMap\n-Rasther\n-Remap/Scanicar\n-SKP\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=qcgpAZyvnIw&pp=ygUbY2hhdmUgbmlzc2FuIG1hcmNoIDEuMCAyMDE2"
+      },
+      "marc1_6": {
+        "valueDataKeyChip": "id: 46 pcf:7936; série:t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4dígitos numéricos\nDica:Ler o OUTCODE de 5 dígitos alfanuméricos por OBDII e converter para ter a senha de 4 dígitos para habilitação",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "7936AA ID46",
+        "telecomandoBatery": "CR 2032 3v",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoFrequency": "315",
+        "telecomandoProcedure": "Ref: CWTWB1U751\nHabilita por procedimento\n*Antes de iniciar o procedimento, verifique se o 'Auto Destravar' está acionado. Se estiver faça primeiro o procedimento abaixo:\n1-Ligue o contato(Painel acesso)\n2-Aperte e mantenha pressionado o botão 'Destravar' na porta, até as setas piscarem 1vez\nApós gravar os controles repita o processo acima até as setas piscarem 2 vezes\n\n1-Feche e tranque as portas pelo botão da porta\n2-Insira e tire a chave do contato 6 vezes SEM LIGAR\n3-As portas irão destravar\n4-Insira a chave no contato e ligue(painel aceso)\n5-Tranque as portas pelo botão de trancar na porta\n6-Aperte LOCK no controle. Para mais controles, aperte LOCK nos demais\n7-Tire a chave do contota\n8-Abra e feche a porta\nNão possui senha\n\nMáquina KD\nArquivo: Altima 2003 TIDDA KBRASTUS15\nTipo: Série b ou Multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-IGold\n-OBD Star X300\n-OBDMap\n-Rasther\n-Remap/Scanicar\n-SKP\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=3oS6a3y72d4&pp=ygUbY2hhdmUgbmlzc2FuIG1hcmNoIDEuMCAyMDEy"
+      },
+      "sentr0a6": {
+        "valueDataKeyChip": "ID: 60",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4dígitos numéricos\nDica:Ler o OUTCODE de 5 dígitos alfanuméricos por OBDII e converter para ter a senha de 4 dígitos para habilitação",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "4d id60 crypto",
+        "telecomandoBatery": "ID 60",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png",
+        "telecomandoFrequency": "315"
+      },
+      "sentra7a14": {
+        "valueDataKeyChip": "id: 46 pcf:7936; série:t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4dígitos numéricos\nDica:Ler o OUTCODE de 5 dígitos alfanuméricos por OBDII e converter para ter a senha de 4 dígitos para habilitação",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "7936AA ID46",
+        "telecomandoBatery": "CR 2032 3v",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoFrequency": "315",
+        "telecomandoProcedure": "Ref: CWTWB1U751\nHabilita por procedimento\nNão usa senha\n\nSmart Key\nRef: TWB1U815\nFreq: 315MHz\nHabilita por equipamento\nSenha: 4 dígitos",
+        "maquinasCodificadoras": "-Fácil\n-IGold\n-OBD Star X300\n-OBDMap\n-Rasther\n-Remap/Scanicar\n-SKP\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=3oS6a3y72d4&pp=ygUbY2hhdmUgbmlzc2FuIG1hcmNoIDEuMCAyMDEy"
+      },
+      "tiida": {
+        "valueDataKeyChip": "id: 46 pcf:7936; série:t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4dígitos numéricos\nDica:Ler o OUTCODE de 5 dígitos alfanuméricos por OBDII e converter para ter a senha de 4 dígitos para habilitação",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "7936AA ID46",
+        "telecomandoBatery": "CR 2032 3v",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoProcedure": "Habilita por equipamento\nNão possui senha",
+        "maquinasCodificadoras": "-Fácil\n-IGold\n-OBD Star X300\n-OBDMap\n-Rasther\n-Remap/Scanicar\n-SKP\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=Xp4Gd9f1FCs&pp=ygUccHJvZ3JhbWFyIGNoYXZlIG5pc3NhbiB0aWlkYQ%3D%3D"
+      },
+      "vrs11a19": {
+        "valueDataKeyChip": "id: 46 pcf:7936; série:t19;",
+        "laminaTextDica": "Habilitação: Por equipamento via OBDII\nSenha: 4dígitos numéricos\nDica:Ler o OUTCODE de 5 dígitos alfanuméricos por OBDII e converter para ter a senha de 4 dígitos para habilitação",
+        "laminasKeys": "Gold: 937; Silca: NSN14;",
+        "laminaPalhetas": "",
+        "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "7936AA ID46",
+        "telecomandoBatery": "CR 2032 3v",
+        "telecomandoImage": "",
+        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1Ro554dHhk-0nioy3KkBK9ifJExcmEa0vd4n_HC3_y1YpZVFa8kdw9RMlZfEiDtyG9HBPok2-Oxaty_O4tUndYhiFrjbCt53JRIl8cnEwBp_Ak4FTP5faxWg4pyssnapII4nnAgbO2pF4CyLTGzoXwXYqaRWIxuB6FkxyJV-lXS0DYNbVr2_FogR6AL1/s830/Captura%20de%20Tela%202023-09-13%20a%CC%80s%2018.26.57.png",
+        "telecomandoFrequency": "315",
+        "telecomandoProcedure": "Ref: CWTWB1U751\nHabilita por procedimento\n*Antes de iniciar o procedimento, verifique se o 'Auto Destravar' está acionado. Se estiver faça primeiro o procedimento abaixo:\n1-Ligue o contato(Painel acesso)\n2-Aperte e mantenha pressionado o botão 'Destravar' na porta, até as setas piscarem 1vez\nApós gravar os controles repita o processo acima até as setas piscarem 2 vezes\n\n1-Feche e tranque as portas pelo botão da porta\n2-Insira e tire a chave do contato 6 vezes SEM LIGAR\n3-As portas irão destravar\n4-Insira a chave no contato e ligue(painel aceso)\n5-Tranque as portas pelo botão de trancar na porta\n6-Aperte LOCK no controle. Para mais controles, aperte LOCK nos demais\n7-Tire a chave do contota\n8-Abra e feche a porta\nNão possui senha\n\nMáquina KD\nArquivo: Altima 2003 TIDDA KBRASTUS15\nTipo: Série b ou Multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-IGold\n-OBD Star X300\n-OBDMap\n-Rasther\n-Remap/Scanicar\n-SKP\n-VVDI\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=3oS6a3y72d4&pp=ygUbY2hhdmUgbmlzc2FuIG1hcmNoIDEuMCAyMDEy"
+      },
+      "vrsa20m": {
+        "telecomandoProcedure": "Ref: CWTWB1U751\nHabilita por procedimento\n*Antes de iniciar o procedimento, verifique se o 'Auto Destravar' está acionado. Se estiver faça primeiro o procedimento abaixo:\n1-Ligue o contato(Painel acesso)\n2-Aperte e mantenha pressionado o botão 'Destravar' na porta, até as setas piscarem 1vez\nApós gravar os controles repita o processo acima até as setas piscarem 2 vezes\n\n1-Feche e tranque as portas pelo botão da porta\n2-Insira e tire a chave do contato 6 vezes SEM LIGAR\n3-As portas irão destravar\n4-Insira a chave no contato e ligue(painel aceso)\n5-Tranque as portas pelo botão de trancar na porta\n6-Aperte LOCK no controle. Para mais controles, aperte LOCK nos demais\n7-Tire a chave do contota\n8-Abra e feche a porta\nNão possui senha",
+        "videoLink": "https://www.youtube.com/watch?v=qcgpAZyvnIw&pp=ygUbY2hhdmUgbmlzc2FuIG1hcmNoIDEuMCAyMDE2"
+      }
+    }
+  ]
+}

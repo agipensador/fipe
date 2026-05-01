@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "a": {
+        "valueDataKeyChip": "Gold: 778; Silca: YM15;",
+        "laminaTextDica": "ID 13; Série: t40;",
+        "laminasKeys": "Habilita por equipamento via OBDII(Ou c/ adaptador do conector redondo p/ obdii) ou na bancada lendo a soic8\nNão usa senha\nDica:Alguns veículos tem o modulo bloqueado para realizar o serviço via obd, neste caso somente com o modulo PLD em bancada lendo diretamente a soic8",
+        "transponderClone": "t5 (t20)",
+        "transponderNomenclatura": "id13 megamos",
+        "telecomandoProcedure": "-Fácil\n-Faz+\n-obdmap\n-remap/scanicar",
+        "videoLink": "https://www.youtube.com/shorts/nHQG87yxEek"
+      },
+      "class99a5": {
+        "valueDataKeyChip": "pcf: 7935; série: t01;",
+        "laminaTextDica": "Habilita por equipamento via solda\nNão usa senha\nDica: Retirar o imobilizador e gerar o transponder na bancada",
+        "laminasKeys": "Gold: 871; Silca: hu64;",
+        "transponderClone": "não clona",
+        "telecomandoProcedure": "Ref.: Somente na autorizada.",
+        "maquinasCodificadoras": "-Remap/Scanicar\n-Tango\n-TMpro\n-upa\n-zed full",
+        "videoLink": "https://www.youtube.com/watch?v=xB0-ocsojzk&pp=ygUmcHJvZ3JhbWFyIGNoYXZlIG1lcmNlZGVzIGNsYXNzZSBhIDIwMDM%3D"
+      },
+      "gla1314": {
+        "valueDataKeyChip": "Infra red",
+        "laminaTextDica": "Habilita por equipamento via obdii ou na bancada\nsenha: 16 díg. alfanuméricos",
+        "laminasKeys": "Gold: 871; Silca: hu64;",
+        "transponderClone": "não clona",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: fbs 3\nhabilita por equipamento\nProcedimento: Este sistema não usa um transponder, a chave se comunica com o carro por infravermelho\nSenha: 16 díg. alfanuméricos\n\nSMART KEY\n:Ref: fbs 3\nFreq: 433MHZ\nhabilita por equipamento\nProcedimento: Este sistema não usa um transponder, a chave se comunica com o carro por infravermelho\nSenha: 16 díg. alfanuméricos",
+        "maquinasCodificadoras": "-Autel im 608/508\n-vvdi\n-zed full",
+        "videoLink": "https://www.youtube.com/watch?v=jkQ6wrovY-s&pp=ugMICgJwdBABGAHKBSZwcm9ncmFtYXIgY2hhdmUgbWVyY2VkZXMgZ2xhIDIwMCAgMjAxMw%3D%3D"
+      },
+      "gla1522": {
+        "valueDataKeyChip": "Infra red",
+        "laminaTextDica": "Habilitação: somente na autorizada\nDica:Chave somente pedindo na autorizada",
+        "laminasKeys": "Gold: 871; Silca: hu64;",
+        "transponderClone": "não clona",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: fbs 4\nhabilita por equipamento\nProcedimento: Somente solicitando a chave na autorizada e levando o carro para habilitar\nnão usa senha\n\nSMART KEY\n:Ref: fbs 4(só autorizado)\nFreq: 433MHZ\nhabilita por equipamento",
+        "maquinasCodificadoras": "Concessionária",
+        "videoLink": "https://www.youtube.com/watch?v=qnH5KTVJWhU&pp=ygUmcHJvZ3JhbWFyIGNoYXZlIG1lcmNlZGVzIGdsYSAyMDAgIDIwMTU%3D"
+      },
+      "spri1a10": {
+        "valueDataKeyChip": "id: t5; série: t20;",
+        "laminaTextDica": "Habilitação: Para cópia: Clonar; Para confecção: ler arquivo da Eeprom e gerar um transponder t5(t20)\nNão usa senha",
+        "laminasKeys": "Gold: 778; Silca: ym15;",
+        "transponderClone": "t5(t20)",
+        "transponderNomenclatura": "t5",
+        "maquinasCodificadoras": "-igold\n-obdmap\n-remap/scanicar\n-Zed Full\n-Tango\n-TMpro\n-ccdi",
+        "videoLink": "https://www.youtube.com/watch?v=9iytgPzcyWM&t=11s&pp=ygUncHJvZ3JhbWFyIGNoYXZlIG1lcmNlZGVzIHNwcmludGVyICAyMDEw"
+      },
+      "spri12m": {
+        "laminaTextDica": "Habilita por equipamento via OBDII ou na bancada\nSenha: 16 dígitos alfanuméricos",
+        "laminasKeys": "Gold: 871; Silca: hu64;",
+        "transponderClone": "não clona",
+        "transponderNomenclatura": "infra red",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: fbs 3\nhabilita por equipamento\nProcedimento: Este sistema não usa um transponder, a chave se comunica com o carro por infravermelho\nAo habilitar a chave, o controle entra automático\nSenha: 16 díg. alfanuméricos",
+        "maquinasCodificadoras": "-Autel im 608/508\nCGDI\n-vvdi\n-x100pad\n-zed full",
+        "videoLink": "https://www.youtube.com/watch?v=HVx3FkE4XHk&pp=ygUncHJvZ3JhbWFyIGNoYXZlIG1lcmNlZGVzIHNwcmludGVyICAyMDE1"
+      }
+    }
+  ]
+}

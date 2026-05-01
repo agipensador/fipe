@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "clio316": {
+        "valueDataKeyChip": "pcf: 7936; Série: t25;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: 6 díg. alfanuméricos\nPara carros acima de 2011 retirar a bc e ler a senha por pinça da eeprom 95040",
+        "laminasKeys": "Gold: 627; Silca: vac102;",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Habilita c/ o transponder\nao habilitar o transponder, o telecomando entra automático\nnão usa senha\n\nMaquina kd\nArquivo: clio iii(06-10)ntipo: multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-Faz+\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-SBB\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=p7gQkkId8vA&pp=ygUjcHJvZ3JhbWFyIGNoYXZlIHBldWdlb3QgaG9nZ2FyIDIwMTM%3D"
+      },
+      "clio96a2": {
+        "valueDataKeyChip": "pcf: 7930/7931; Série: t14;",
+        "laminaTextDica": "Habilitação: Para cópia: Clonar; Para confecção: ler arquivo da Eeprom e gerar um transponder t5(t20)\nNão usa senha",
+        "laminasKeys": "Gold: 537; Silca: ne72;",
+        "transponderClone": "t5(t20)",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Habilita por procedimento\nProcedimento: Após resetar o imobilizador e habilitar a chave, siga:\n1-Ao deixe o contato desligado\n2-Mantenha pressionado o botão de trancar do veículo próx ao cinzeiro, até as travas repicarem e a luz do imobilizador apagar\n\nMáximo 1 controle\nSenha: 4 dígitos",
+        "maquinasCodificadoras": "-Faz+\n-igold\n-obdMap\n-Remap/Scanicar\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=p7gQkkId8vA&pp=ygUjcHJvZ3JhbWFyIGNoYXZlIHBldWdlb3QgaG9nZ2FyIDIwMTM%3D"
+      },
+      "dust12a15": {
+        "valueDataKeyChip": "id: 46; pcf: 7936; Série: t25;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: 12 díg. alfanuméricos\nretirar a bc e ler a senha por pinça da eeprom 95040",
+        "laminasKeys": "Gold: 627; Silca: vac102;",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "laminaPalhetas": {
+          "portamalas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          "ignicao": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ],
+          "porta": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        "telecomandoProcedure": "Habilita c/ o transponder\nao habilitar o transponder, o telecomando entra automático\nnão usa senha\n\nMaquina kd\nArquivo: clio iii(06-10)ntipo: multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=oAknQs7KCVg&pp=ygUjcHJvZ3JhbWFyIGNoYXZlIHJlbmF1bHQgZHVzdGVyIDIwMTM%3D"
+      },
+      "dust16a211": {
+        "laminasKeys": "Gold: 627; Silca: vac102;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: não usa\nsomente chave virgem",
+        "valueDataKeyChip": "pcf: 7939; Série: t63;",
+        "transponderClone": "não clona",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Habilita c/ o transponder\nao habilitar o transponder, o telecomando entra automático\nnão usa senha\n\nMaquina kd\nArquivo: kwid india\ntipo: zb smart key",
+        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-Rasther\nSKP\n-obdMap\n-Remap/Scanicar\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=GxX6Bb7T8L0&pp=ygUjcHJvZ3JhbWFyIGNoYXZlIHJlbmF1bHQgZHVzdGVyIDIwMTk%3D"
+      },
+      "kwid": {
+        "laminasKeys": "Gold: 627; Silca: vac102;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: não usa\nsomente chave virgem",
+        "valueDataKeyChip": "pcf: 7939; Série: t63;",
+        "transponderClone": "não clona",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Ref: twe1g0003\nHabilita c/ o transponder\nao habilitar o transponder, o telecomando entra automático\nnão usa senha\n\nMaquina kd\nArquivo: kwid india\ntipo: zb smart key",
+        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-X100 Pad",
+        "videoLink": "https://www.youtube.com/watch?v=VU6buTiYyw4&pp=ygUhcHJvZ3JhbWFyIGNoYXZlIHJlbmF1bHQga3dpZCAyMDE5"
+      },
+      "logan14a22": {
+        "laminasKeys": "Gold: 627; Silca: vac102;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha:não usa\nSomente chave virgem",
+        "valueDataKeyChip": "pcf: 7939; Série: t63;",
+        "transponderClone": "não clona",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Habilita c/ o transponder\nao habilitar o transponder, o telecomando entra automático\nnão usa senha\n\nMaquina kd\nArquivo: kwid india\ntipo: zb smart key",
+        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=Hl-v8nsNn6U&pp=ygUicHJvZ3JhbWFyIGNoYXZlIHJlbmF1bHQgbG9nYW4gMjAxOQ%3D%3D"
+      },
+      "logan8a13": {
+        "laminasKeys": "Gold: 627; Silca: vac102;",
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: 12 díg. alfanuméricos\nPara carros acima de 2011 retirar a bc e ler a senha por pinça da eeprom 95040",
+        "valueDataKeyChip": "id: 46; pcf: 7936; Série: t25;",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "Habilita c/ o transponder\nao habilitar o transponder, o telecomando entra automático\nnão usa senha\n\nMaquina kd\nArquivo: clio iii(06-10)ntipo: multifuncional",
+        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad\n-Zed Full",
+        "videoLink": "https://www.youtube.com/watch?v=j9fFD0J7JEs&pp=ygUicHJvZ3JhbWFyIGNoYXZlIHJlbmF1bHQgbG9nYW4gMjAxMA%3D%3D"
+      },
+      "meg5a13": {
+        "laminaTextDica": "Habilita por equipamento via OBDII\nsenha: 12 díg. alfanuméricos",
+        "valueDataKeyChip": "pcf: 7947; série: t61;",
+        "transponderClone": "cn3 ou super chip vvdi",
+        "transponderNomenclatura": "7947AT CHIP EEPRON",
+        "telecomandoFrequency": "433",
+        "telecomandoProcedure": "REF: CHAVE CARTÃO\nHabilita c/ o transponder\nnão usa senha",
+        "maquinasCodificadoras": "-Autel IM -608/508\n-fácil\n-obdmap\n-remap/scanicar\n-obd star x300\n-Zed full\n-X100 Pad\n-igold",
+        "videoLink": "https://www.youtube.com/watch?v=3FXyF5JNMoM&pp=ygUecHJvZ3JhbWFyIGNoYXZlIHJlbmF1bHQgbWVnYW5l"
+      }
+    }
+  ]
+}
