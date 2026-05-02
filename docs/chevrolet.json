@@ -1600,7 +1600,7 @@
         }
       },
       "Astra Sedan Comfort 1_PDOT8 MPFI 8V 4p": {
-        "Ãlcool": {
+        "Gasolina": {
           "2005": {
             "valueDataKeyChip": "ID: 40; pcf: 7935; série: t16",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
@@ -1614,35 +1614,6 @@
             "videoLink": "https://www.youtube.com/watch?v=dMucoSZj-kI&pp=ygUXYXN0cmEgaGF0Y2ggdGVsZWNvbWFuZG8%3D"
           }
         }
-      },
-      "astra2a8": {
-        "valueDataKeyChip": "ID: 40; pcf: 7935; série: t16",
-        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
-        "laminasKeys": "Gold: 621; Silca hu46;",
-        "transponderClone": "não clona",
-        "transponderNomenclatura": "7935aa id40",
-        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4dC0hsDEAmtOYcT487Zlz3Ss_DikMdj11G8w0a8n4bilps5-AhnPg7dpMCjT__xDC_L8wWvdQ6acUxVl-U8eD1_vQwcFk60dvddCNiRqHlEmiJZz3CDRYQzAcRveHJzIS9WalLUCkC7xxPXuUWk4ekHIYS4BdCfIrKRucXNQoaWs5p2bdX630bvs-XFo/s912/Captura%20de%20Tela%202023-11-11%20a%CC%80s%2000.43.54.png",
-        "telecomandoFrequency": "433",
-        "telecomandoProcedure": "Ref: 93300431\nHabilita por equipamento\nSenha: 4 dígitos numéricos\n\nMáquina KD\nArquivo:93286048\nTipo:Série b Multifuncional",
-        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\nRasther\nX100 Pad\n-SBB\n-SBB",
-        "videoLink": "https://www.youtube.com/watch?v=dMucoSZj-kI&pp=ygUXYXN0cmEgaGF0Y2ggdGVsZWNvbWFuZG8%3D"
-      },
-      "astra9m": {
-        "valueDataKeyChip": "ID: 40; pcf: 7935; série: t16",
-        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
-        "laminasKeys": "Gold: 621; Silca hu46;",
-        "transponderClone": "não clona",
-        "transponderNomenclatura": "7935aa id40",
-        "telecomandoBatery": "CR 2032 3v",
-        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXwM3SE7gMnlBbffFoZ53MTdmc-qJ-Y9dktQtHjsKomWrtTBa5mD6kYdJCpYCZ5lFdDcEtAySexdLunR0zOqcRX_Nlz6Nob6_Sxmas-GEw0O4GIAdebpBK7K-0atXDdPIkU0WG2iDfyNtbZIzxM3BWnnxunRjNoT5amL8lcz1yfb4B0eymITuKctOwhyphenhyphenVK/s566/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2019.38.07.png",
-        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4dC0hsDEAmtOYcT487Zlz3Ss_DikMdj11G8w0a8n4bilps5-AhnPg7dpMCjT__xDC_L8wWvdQ6acUxVl-U8eD1_vQwcFk60dvddCNiRqHlEmiJZz3CDRYQzAcRveHJzIS9WalLUCkC7xxPXuUWk4ekHIYS4BdCfIrKRucXNQoaWs5p2bdX630bvs-XFo/s912/Captura%20de%20Tela%202023-11-11%20a%CC%80s%2000.43.54.png",
-        "telecomandoFrequency": "433",
-        "telecomandoProcedure": "Ref: 94701901\nHabilita por equipamento\nSenha: 4 dígitos numéricos",
-        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\nRasther\nX100 Pad\n-SBB\n-SBB",
-        "videoLink": "https://www.youtube.com/watch?v=dMucoSZj-kI&pp=ygUXYXN0cmEgaGF0Y2ggdGVsZWNvbWFuZG8%3D"
-      },
-      "astram1": {
-        "telecomandoProcedure": "Ref: 93276692\nHabilita por equipamento\nSenha: 4 dígitos numéricos\n\nMáquina KD\nArquivo:93286048\nTipo:Série b Multifuncional"
       },
       "bolt": {
         "valueDataKeyChip": "ID46 7952/7937",
