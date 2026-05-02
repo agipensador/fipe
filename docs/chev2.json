@@ -3907,29 +3907,6 @@
           }
         }
       },
-      "onix13a20": {
-        "valueDataKeyChip": "ID: 46; pcf: 7937; Série: T46;",
-        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
-        "laminasKeys": "Silca: hu100;",
-        "transponderClone": "CN3 ou Super Chip VVDI\nO PLUS NÃO CLONA",
-        "transponderNomenclatura": "7937 id46",
-        "telecomandoFrequency": "434",
-        "telecomandoProcedure": "REF: 13580512\nHabilita por equipamento\nProcedimento:Ao habilitar o transponder o telecomando entra automático\nSenha:4 dígitos numéricos\n\nMaquina KD\nArquivo: Trail Blazer ID46 433\nTipo: Multifuncional",
-        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4dC0hsDEAmtOYcT487Zlz3Ss_DikMdj11G8w0a8n4bilps5-AhnPg7dpMCjT__xDC_L8wWvdQ6acUxVl-U8eD1_vQwcFk60dvddCNiRqHlEmiJZz3CDRYQzAcRveHJzIS9WalLUCkC7xxPXuUWk4ekHIYS4BdCfIrKRucXNQoaWs5p2bdX630bvs-XFo/s912/Captura%20de%20Tela%202023-11-11%20a%CC%80s%2000.43.54.png",
-        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-Rasther\n-SKP\n-X100 Pad",
-        "videoLink": "https://www.youtube.com/watch?v=fs8FkZ_AYzg&pp=ygUVb25peCBjbG9uZSBjaGF2ZSAyMDE1"
-      },
-      "onix21m": {
-        "valueDataKeyChip": "ID: 4A; pcf: 7939;",
-        "laminaTextDica": "Habilitação: Por equipamento via OBDII e Conector FD CAN;\nSenha: 4 dígitos numéricos;\nDica: Somente chave virgem",
-        "laminasKeys": "Silca: hu100;",
-        "transponderClone": "NÃO CLONA",
-        "transponderNomenclatura": "PCF7939M AES (ID 4A)",
-        "telecomandoProcedure": "Habilita por equipamento\nProcedimento: É necessário usar o conector FD CAN entre o equipamento do veículo\nSenha:4 dígitos numéricos\n\nSmart Key\nFreq.: 433MHz\nHabilita por equipamento\nSenha: 4 dígitos",
-        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4dC0hsDEAmtOYcT487Zlz3Ss_DikMdj11G8w0a8n4bilps5-AhnPg7dpMCjT__xDC_L8wWvdQ6acUxVl-U8eD1_vQwcFk60dvddCNiRqHlEmiJZz3CDRYQzAcRveHJzIS9WalLUCkC7xxPXuUWk4ekHIYS4BdCfIrKRucXNQoaWs5p2bdX630bvs-XFo/s912/Captura%20de%20Tela%202023-11-11%20a%CC%80s%2000.43.54.png",
-        "maquinasCodificadoras": "-obd Star X300\n-X100 Pad",
-        "videoLink": "https://www.youtube.com/watch?v=G-_HuqQziI4&pp=ygUVb25peCBjbG9uZSBjaGF2ZSBwbHVz"
-      },
       "Silverado": {
         "Gasolina": {
           "1998": {
@@ -4637,23 +4614,6 @@
             "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
           }
         }
-      },
-      "silverado93a95_99a1": {
-        "laminaTextDica": "Sistema anti-roubo PassLock",
-        "telecomandoFrequency": "315",
-        "telecomandoBatery": "CR 2032 3v",
-        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjObMIoesFK3WjYfTS4nyMGPNlnzCSgx_a5LCvVC8dQRT5Qaypi5YWLDeLJOQFxJrN8YNxfo0BEYz9Hi4lIj0v0nJQxdo303upbYQuFImcLvKwAIme3nZdYZbvHySZ0qEjW-IYzjzYR9PSAaWoxvL0lqSd6gSZIsiT9EqwUSojDpiM01Jx9T4SVISu04VfH/s672/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.26.58.png",
-        "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
-      },
-      "silverado97": {
-        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rn9kcovauXV-ADOqdfyrcjD3ISF0xKzvxd05XW6WBJ1GOR1e2-3xRrKafk1Lssvvo2r8x3qEMS_dTM1oIIvymm8mc-UYu901ztjSjnLpVM71m4NMZeWm-4NINuGmhzm70iqprt4W7BazEmJsanu0PfIE0CEwXRZaoUVaLeeybxt-TfYWYuULLv4cnzEq/s320/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.21.05.png"
-      },
-      "silverado98": {
-        "laminaTextDica": "Sistema anti-roubo PassLock",
-        "telecomandoFrequency": "315",
-        "telecomandoBatery": "CR 2032 3v",
-        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2eG3kvMhcllxukKWVaEvxFV-exsXvgn13aeFzYC9R1pcZ3_FtaQUo5mnx0Naj5tYHHh1l2NMk5Gaw1xW-49U83FDgyak15bFk8Ov5JpfYsd7AarV5loih95D6bqhTRN1vH344M_NpJ-QSofPBvS3v18Se46U-x6FOH-UFoaRM-d64PzrhM-QHZzDgqHIv/s520/Captura%20de%20Tela%202023-10-19%20a%CC%80s%2014.30.30.png",
-        "videoLink": "https://www.youtube.com/watch?v=gW4haMuxeuo&ab_channel=PYRAutomotive"
       },
       "sonic": {
         "laminasKeys": "Silca: hu100;",

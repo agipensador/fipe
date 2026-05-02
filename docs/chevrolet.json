@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "agi14m": {
-        "valueDataKeyChip": "id:46; PCF:7937; série: t46",
-        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
-        "laminasKeys": "Silca: hu100;",
-        "transponderClone": "cn3 ou super chip vvdi",
-        "transponderNomenclatura": "7937 id46",
-        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXwM3SE7gMnlBbffFoZ53MTdmc-qJ-Y9dktQtHjsKomWrtTBa5mD6kYdJCpYCZ5lFdDcEtAySexdLunR0zOqcRX_Nlz6Nob6_Sxmas-GEw0O4GIAdebpBK7K-0atXDdPIkU0WG2iDfyNtbZIzxM3BWnnxunRjNoT5amL8lcz1yfb4B0eymITuKctOwhyphenhyphenVK/s566/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2019.38.07.png",
-        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
-        "telecomandoFrequency": "434",
-        "telecomandoBatery": "CR 2032 3v",
-        "telecomandoProcedure": "Ref: 13580512\nHabilita por equipamento\nProcedimento: 1º habilite o transponder d depois habilite o comando\nSenha: 4 dígitos numéricos",
-        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\nRasther\nX100 Pad",
-        "videoLink": "https://www.youtube.com/watch?v=So_M2kbPBF8&pp=ygUWYWdpbGUgdGVsZWNvbWFuZG8gMjAxNQ%3D%3D"
-      },
       "AGILE LT 1_PDOT4 MPFI 8V FlexPower 5p": {
         "Gasolina": {
           "2013": {
@@ -132,20 +118,6 @@
             "videoLink": "https://www.youtube.com/watch?v=So_M2kbPBF8&pp=ygUWYWdpbGUgdGVsZWNvbWFuZG8gMjAxNQ%3D%3D"
           }
         }
-      },
-      "agim13": {
-        "valueDataKeyChip": "id:46; PCF:7936; série: t19",
-        "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
-        "laminasKeys": "Silca: hu100;",
-        "transponderClone": "cn3 ou super chip vvdi",
-        "transponderNomenclatura": "7936AA ID46",
-        "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXwM3SE7gMnlBbffFoZ53MTdmc-qJ-Y9dktQtHjsKomWrtTBa5mD6kYdJCpYCZ5lFdDcEtAySexdLunR0zOqcRX_Nlz6Nob6_Sxmas-GEw0O4GIAdebpBK7K-0atXDdPIkU0WG2iDfyNtbZIzxM3BWnnxunRjNoT5amL8lcz1yfb4B0eymITuKctOwhyphenhyphenVK/s566/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2019.38.07.png",
-        "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ4d7yxLwxOXWRQjQhJxE5rpPDx8W_e0HziSY8HKc0ZreVZiY1HmwrwlEdseYDNkJUNnJGeOOSvPM-ZHqeL0LqP7GF93m66H328622quMIjKt0fgmLR08WHoaJP9oNXxNE00rytXihKcVjc4R3KUI8TpAYR5NfGq8fDBdf5pNhzXtmvtMEipxiuz8so5hv/s796/Captura%20de%20Tela%202023-10-17%20a%CC%80s%2022.11.41.png",
-        "telecomandoFrequency": "433",
-        "telecomandoBatery": "CR 2032 3v",
-        "telecomandoProcedure": "Ref: 94701901\nHabilita por equipamento\nSenha: 4 dígitos numéricos\n\nMáquina KD\nArquivo: SA 3Botoes\nTipo:Série b Multifuncional",
-        "maquinasCodificadoras": "-Fácil\n-Igold\n-obd Star X300\n-obdMap\n-Remap/Scanicar\n-UPA\nRasther\nX100 Pad\n-SBB",
-        "videoLink": "https://www.youtube.com/watch?v=6PWlfV-ZDRY&pp=ygUWYWdpbGUgdGVsZWNvbWFuZG8gMjAxMQ%3D%3D"
       },
       "Astra 2_PDOT0 8V/ CD 2_PDOT0 8V Hatchback 5p Aut": {
         "Gasolina": {

@@ -5857,6 +5857,32 @@
             "valueKeyConfectAlarm": "910",
             "valueCopyStore": "1580",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -5876,6 +5902,32 @@
             "valueKeyConfectAlarm": "940",
             "valueCopyStore": "1640",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -5895,6 +5947,32 @@
             "valueKeyConfectAlarm": "1010",
             "valueCopyStore": " 1770",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -5914,6 +5992,32 @@
             "valueKeyConfectAlarm": "1130",
             "valueCopyStore": " 1970",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -6093,6 +6197,32 @@
             "valueKeyConfectAlarm": "830",
             "valueCopyStore": "1440",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -6112,6 +6242,32 @@
             "valueKeyConfectAlarm": "880",
             "valueCopyStore": "1540",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -6131,6 +6287,32 @@
             "valueKeyConfectAlarm": "940",
             "valueCopyStore": " 1630",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -6150,6 +6332,32 @@
             "valueKeyConfectAlarm": "1010",
             "valueCopyStore": " 1750",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7550,6 +7758,32 @@
             "valueKeyConfectAlarm": "990",
             "valueCopyStore": " 1710",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7573,6 +7807,32 @@
             "valueKeyConfectAlarm": "880",
             "valueCopyStore": "1540",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7592,6 +7852,32 @@
             "valueKeyConfectAlarm": "950",
             "valueCopyStore": " 1670",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7611,6 +7897,32 @@
             "valueKeyConfectAlarm": "990",
             "valueCopyStore": " 1670",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7634,6 +7946,32 @@
             "valueKeyConfectAlarm": "920",
             "valueCopyStore": "1600",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7653,6 +7991,32 @@
             "valueKeyConfectAlarm": "9i0",
             "valueCopyStore": "1720",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7672,6 +8036,32 @@
             "valueKeyConfectAlarm": "1090",
             "valueCopyStore": " 1840",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7695,6 +8085,32 @@
             "valueKeyConfectAlarm": "940",
             "valueCopyStore": "1640",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7714,6 +8130,32 @@
             "valueKeyConfectAlarm": "990",
             "valueCopyStore": "1700",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7733,6 +8175,32 @@
             "valueKeyConfectAlarm": "1030",
             "valueCopyStore": " 1790",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7756,6 +8224,32 @@
             "valueKeyConfectAlarm": "1000",
             "valueCopyStore": "1760",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",
@@ -7775,6 +8269,32 @@
             "valueKeyConfectAlarm": "1130",
             "valueCopyStore": "2040",
             "telecomandoFrequency": "433",
+            "laminaPalhetas": {
+              "portamalas": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ]
+            },    
             "laminasKeys": "Gold: 627; Silca: vac102;",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII c/ senha\nSenha: 12 díg alfanuméricos\nDica: Retire a BC e leia a senha poor pinça da Eeprom 95040\n*Caso o cilindro do porta-malas for cromado então o sistema de lâmina é o de 2016",
             "transponderNomenclatura": "PCF7936AA ID46",

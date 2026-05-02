@@ -2086,34 +2086,26 @@
           }
         }
       },
-      "PALIO": {
-        "Gasolina": {
-
-        }
-      },
-      "palio_96_02": {
-        "laminasKeys": "Gold: 761; Silca: GT15;",
-        "valueDataKeyChip": "ID: T05; Série: t20",
-        "transponderClone": "t20 -t5",
-        "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjRt9zFRZtgxYr1ATTJvjEXImpgJJFOmCFEVsbfEIjdWgbKx1O6T71EQCRvPT6oCCxRGeJnqLUmSS02pKupm-g7TG5hMzz7d8SM4z2xWUv9nXNovBEwhijtJn_n4mFTwHhn-KXDS49bu1Rzy2Yr9G4P0BhSWe__b4V_G37yHFx7nUWkUx8wVrRLAEyovbAZ",
-        "telecomandoProcedure": "O Telecomando é automaticamente programado no momento da programação do transponder. O vídeo demonstra a explicação;",
-        "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
-        "maquinasCodificadoras": "-Faz+\n-Igold\n-obdMap\n-Rasther\n-Remap/Scanicar\n-Tango\n-TMPro\n-UPA",
-        "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D"
-      },
-      "palio_03_16": {
-        "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
-        "valueDataKeyChip": "ID: 48; Série: t42",
-        "transponderClone": "CN6 OU SUPER CHIP VVDI",
-        "telecomandoBatery": "433*",
-        "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEiV0qWmZRsgaw9kCeXrI5MSefOKtCcpfs-JPw_Ej0YZ2u5EnjgjbSAp0bf5lANyFA2aKqU1h7I3O8YuLeB-z7ZR2C6-ySL9v5701n4d23wVX9OJsyOwChRVQvtNSWWplFHjY2gxRfw5aDGP2if_84ArJ2zGHlzvRZ6NewdvVSWP7Wet5mEdfVEqs130Utkz",
-        "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
-        "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
-        "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-        "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
-      },
       "PULSE": {
         "Gasolina": {
+      }
+    },
+      "PULSE 1_PDOT0 Turbo 200  Flex Aut_PDOT": {
+        "Gasolina": {
+          "2026": {
+            "laminasKeys": "gold: 834; silca: sip22;",
+            "valueDataKeyChip": "pcf: 7939 serie:t59",
+            "laminaTextDica": "Habilitação: por equipamento via obdii e/ou cabo FCA;\nSenha: 5 dígitos numéricos;\nDica: A chave Smart tem que ser virgem\nCanivete somente pedindo para autorizada",
+            "transponderClone": "não clona",
+            "transponderNomenclatura": "7939ma 128bits(4a)",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEiDRirwwSP0kW6Z67TmYAfAxGvndGSamVgnTznYN6v7Bb5vm2G54ekV9vmRTXV3rmjr0Q9RNEu04ZC3d6Id2fR0nV1wyC4vLQFz2UVwdydPeD9wQP796FiA11hs9BPpqlv4YpEwpcrbkDYPFRUC18uJQAgYKCiAXZ8d0MgVcuU64PmTFtCpU_5a6JdJzCLH",
+            "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjJtrnHwbvHhiLLBlBaXAFZHyn-JlbVHJD43A0pVqf6cN29P30sSpL-fowK8xqrxVPTE99bYhOZ4wf6wAxpUaFXMd8Ji5ZrIcuhsMv9xnBLTmF5rBYXs7MrgIdqO5tYyPT-QLB281ofN-35qZcn4ZbpmSJ6FWUxWd6_qhJhqAkHNQuD6WJgyONA6Oy9M3d-",
+            "telecomandoFrequency": "433",
+            "telecomandoProcedure": "Ref:7089841\nHabilita por equipamento\nProcedimento: Ao habilitar o transponder, o telecomando entra automático\n-A chave tem que ser solicitada na autorizada através do chassi do veículo\nSenha: 5 dígitos numéricos\n\nSmart Key\nRef:100237400\nFrequência:433Mhz\nHabilita por equipamento\nSenha: 5 dígitos numéricos",
+            "maquinasCodificadoras": "-Autel IM -608/5008\n-Fácil\n-Igold\n-obd star x300\n-obdMap\n-x100 pad\n-Remap/Scanicar\n-X100 Pad",
+            "videoLink": "https://www.youtube.com/watch?v=hhJMFiWmCmk&pp=ygUecHJvZ3JhbWHDp8OjbyB0ZWxlY29tYW5kbyBhcmdv"
+          }
         }
       },
       "pulse18mais": {
