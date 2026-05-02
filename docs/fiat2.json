@@ -546,7 +546,7 @@
         }
       },
       "Palio 1_PDOT5 mpi 8V 4p": {
-        "Ã\u0081lcool": {
+        "Gasolina": {
           "2003": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
             "valueDataKeyChip": "ID: 48; Série: t42",
@@ -1246,6 +1246,48 @@
       },
       "Palio EDX 1_PDOT0 mpi 2p": {
         "Gasolina": {
+          "1999": {
+            "laminasKeys": "Gold: 761; Silca: GT15;",
+            "valueDataKeyChip": "ID: T05; Série: t20",
+            "transponderClone": "t20 -t5",
+            "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjRt9zFRZtgxYr1ATTJvjEXImpgJJFOmCFEVsbfEIjdWgbKx1O6T71EQCRvPT6oCCxRGeJnqLUmSS02pKupm-g7TG5hMzz7d8SM4z2xWUv9nXNovBEwhijtJn_n4mFTwHhn-KXDS49bu1Rzy2Yr9G4P0BhSWe__b4V_G37yHFx7nUWkUx8wVrRLAEyovbAZ",
+            "telecomandoProcedure": "O Telecomando é automaticamente programado no momento da programação do transponder. O vídeo demonstra a explicação;",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
+            "maquinasCodificadoras": "-Faz+\n-Igold\n-obdMap\n-Rasther\n-Remap/Scanicar\n-Tango\n-TMPro\n-UPA",
+            "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D"
+          },
+          "1998": {
+            "laminasKeys": "Gold: 761; Silca: GT15;",
+            "valueDataKeyChip": "ID: T05; Série: t20",
+            "transponderClone": "t20 -t5",
+            "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjRt9zFRZtgxYr1ATTJvjEXImpgJJFOmCFEVsbfEIjdWgbKx1O6T71EQCRvPT6oCCxRGeJnqLUmSS02pKupm-g7TG5hMzz7d8SM4z2xWUv9nXNovBEwhijtJn_n4mFTwHhn-KXDS49bu1Rzy2Yr9G4P0BhSWe__b4V_G37yHFx7nUWkUx8wVrRLAEyovbAZ",
+            "telecomandoProcedure": "O Telecomando é automaticamente programado no momento da programação do transponder. O vídeo demonstra a explicação;",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
+            "maquinasCodificadoras": "-Faz+\n-Igold\n-obdMap\n-Rasther\n-Remap/Scanicar\n-Tango\n-TMPro\n-UPA",
+            "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D"
+          },
+          "1997": {
+            "laminasKeys": "Gold: 761; Silca: GT15;",
+            "valueDataKeyChip": "ID: T05; Série: t20",
+            "transponderClone": "t20 -t5",
+            "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjRt9zFRZtgxYr1ATTJvjEXImpgJJFOmCFEVsbfEIjdWgbKx1O6T71EQCRvPT6oCCxRGeJnqLUmSS02pKupm-g7TG5hMzz7d8SM4z2xWUv9nXNovBEwhijtJn_n4mFTwHhn-KXDS49bu1Rzy2Yr9G4P0BhSWe__b4V_G37yHFx7nUWkUx8wVrRLAEyovbAZ",
+            "telecomandoProcedure": "O Telecomando é automaticamente programado no momento da programação do transponder. O vídeo demonstra a explicação;",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
+            "maquinasCodificadoras": "-Faz+\n-Igold\n-obdMap\n-Rasther\n-Remap/Scanicar\n-Tango\n-TMPro\n-UPA",
+            "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D"
+          },
+          "1996": {
+            "laminasKeys": "Gold: 761; Silca: GT15;",
+            "valueDataKeyChip": "ID: T05; Série: t20",
+            "transponderClone": "t20 -t5",
+            "transponderImage": "https://blogger.googleusercontent.com/img/a/AVvXsEjRt9zFRZtgxYr1ATTJvjEXImpgJJFOmCFEVsbfEIjdWgbKx1O6T71EQCRvPT6oCCxRGeJnqLUmSS02pKupm-g7TG5hMzz7d8SM4z2xWUv9nXNovBEwhijtJn_n4mFTwHhn-KXDS49bu1Rzy2Yr9G4P0BhSWe__b4V_G37yHFx7nUWkUx8wVrRLAEyovbAZ",
+            "telecomandoProcedure": "O Telecomando é automaticamente programado no momento da programação do transponder. O vídeo demonstra a explicação;",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
+            "maquinasCodificadoras": "-Faz+\n-Igold\n-obdMap\n-Rasther\n-Remap/Scanicar\n-Tango\n-TMPro\n-UPA",
+            "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D"
+          }
+        },
+        "Ãlcool": {
           "1999": {
             "laminasKeys": "Gold: 761; Silca: GT15;",
             "valueDataKeyChip": "ID: T05; Série: t20",
