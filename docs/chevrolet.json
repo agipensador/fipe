@@ -62,7 +62,7 @@
         }
       },
       "AGILE LTZ 1_PDOT4 MPFI 8V FlexPower 5p": {
-        "Gasolina": {
+        "gasolina Flex": {
           "2013": {
             "valueDataKeyChip": "id:46; PCF:7936; série: t19",
             "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia. Pra desbloquear deixe o contato ligado por 40 minutos;",
