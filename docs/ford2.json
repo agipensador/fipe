@@ -17601,8 +17601,9 @@
         "Diesel": {
           "2011": {
             "valueDataKeyChip": "id: 63",
-            "transponderNomenclatura": "4d id63 crypto 80 bits",
-            "videoLink": "https://www.youtube.com/watch?v=VJi5q6uZBsw&pp=ygUbcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdCAyMDE0"
+            "transponderNomenclatura": "4d id63 crypto 40 bits",
+            "videoLink": "https://www.youtube.com/watch?v=-nIb8bDOKgQ&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D",
+            "telecomandoProcedure": "APP FÁCIL*\n-TRANSPONDER UTILIZADO 4063+ ESTE TRANSPONDER DEDICA AO KIT, OU SEJA NÃO PODE SER REUTILIZADO EM OUTRO VEICULO\n-MINIMO 2 E NO MÁXIMOS 10 CHAVES SÃO PROGRAMADAS\n\n-O TELECOMANDO É PROGRAMADO AUTOMATICAMENTE JUNTO COMO TRANSPONDER\n-A OPÇÃO PROGRAMAR CHAVES APAGA TODAS AS CHAVES E REPROGRAMA A CHAVE DO CLIENTE OU PROGRAMA NOVAS CHAVES\n-O  BOTÃO ADICIONAR CHAVES ADICIONA CHAVES NO SISTEMA SEM APAGAR AS CHAVES JA PROGRAMADAS\n-A OPÇÃO LEITURA MOSTRA O CHASSIS DO CARRO, A QUANTIA DE CHAVES PROGRAMADASE SEA PARTIDA ESTÁ OU NÃO ESTÁ LIBERADA"
           },
           "2010": {
             "valueDataKeyChip": "id: 63",
@@ -17791,6 +17792,577 @@
             "transponderNomenclatura": "4d id63 crypto 40 bits",
             "telecomandoProcedure": "APP FÁCIL*\n-TRANSPONDER UTILIZADO 4063+ ESTE TRANSPONDER DEDICA AO KIT, OU SEJA NÃO PODE SER REUTILIZADO EM OUTRO VEICULO\n-MINIMO 2 E NO MÁXIMOS 10 CHAVES SÃO PROGRAMADAS\n\n-O TELECOMANDO É PROGRAMADO AUTOMATICAMENTE JUNTO COMO TRANSPONDER\n-A OPÇÃO PROGRAMAR CHAVES APAGA TODAS AS CHAVES E REPROGRAMA A CHAVE DO CLIENTE OU PROGRAMA NOVAS CHAVES\n-O  BOTÃO ADICIONAR CHAVES ADICIONA CHAVES NO SISTEMA SEM APAGAR AS CHAVES JA PROGRAMADAS\n-A OPÇÃO LEITURA MOSTRA O CHASSIS DO CARRO, A QUANTIA DE CHAVES PROGRAMADASE SEA PARTIDA ESTÁ OU NÃO ESTÁ LIBERADA",
             "videoLink": "https://www.youtube.com/watch?v=-nIb8bDOKgQ&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          }
+        }
+      },
+      "Mustang Dark Horse 5_PDOT0 V8 Aut_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          },
+          "2025": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          }
+        }
+      },
+      "Mustang GT Performance 5_PDOT0 V8 Aut_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          },
+          "2025": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          },
+          "2024": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          }
+        }
+      },
+      "Mustang GT Performance 5_PDOT0 V8 Mec_PDOT": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          },
+          "2025": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          }
+        }
+      },
+      "Mustang GT V8 Conversível": {
+        "Gasolina": {
+          "2015": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          },
+          "2012": {
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            }
+          },
+          "2011": {
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            }
+          },
+          "2010": {
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            }
+          },
+          "2009": {
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            }
+          },
+          "2008": {
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            }
+          },
+          "2007": {
+            "laminaPalhetas": {
+              "portamalas": [
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "ignicao": [
+                false,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "porta": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ]
+            }
+          },
+          "2000": {
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFP0jEdULatx79QzuPaVEacFBKjJB_D3pb5DM8xlvY4BIzG5XX8hY3FHKVLyQMcW4OSJ42GlOVImhc36k4DlngtAatHdoex_b2kMUKKhn0VV5d4MSPOcev75pFaex8BE_ITNvKEuXeuKppE6ShjRx8znjLSecWSNEuG8ori_Sg5R2inf8mx9b5ODVJyJm/s320/Captura%20de%20Tela%202023-10-23%20a%CC%80s%2002.20.43.png"
+          },
+          "1998": {
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFP0jEdULatx79QzuPaVEacFBKjJB_D3pb5DM8xlvY4BIzG5XX8hY3FHKVLyQMcW4OSJ42GlOVImhc36k4DlngtAatHdoex_b2kMUKKhn0VV5d4MSPOcev75pFaex8BE_ITNvKEuXeuKppE6ShjRx8znjLSecWSNEuG8ori_Sg5R2inf8mx9b5ODVJyJm/s320/Captura%20de%20Tela%202023-10-23%20a%CC%80s%2002.20.43.png"
+          },
+          "1995": {
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFP0jEdULatx79QzuPaVEacFBKjJB_D3pb5DM8xlvY4BIzG5XX8hY3FHKVLyQMcW4OSJ42GlOVImhc36k4DlngtAatHdoex_b2kMUKKhn0VV5d4MSPOcev75pFaex8BE_ITNvKEuXeuKppE6ShjRx8znjLSecWSNEuG8ori_Sg5R2inf8mx9b5ODVJyJm/s320/Captura%20de%20Tela%202023-10-23%20a%CC%80s%2002.20.43.png"
+          },
+          "1994": {
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFP0jEdULatx79QzuPaVEacFBKjJB_D3pb5DM8xlvY4BIzG5XX8hY3FHKVLyQMcW4OSJ42GlOVImhc36k4DlngtAatHdoex_b2kMUKKhn0VV5d4MSPOcev75pFaex8BE_ITNvKEuXeuKppE6ShjRx8znjLSecWSNEuG8ori_Sg5R2inf8mx9b5ODVJyJm/s320/Captura%20de%20Tela%202023-10-23%20a%CC%80s%2002.20.43.png"
+          }
+        }
+      },
+      "Mustang Mach-E GT Performance (Elétrico)": {
+        "Gasolina": {
+          "32000": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          },
+          "2025": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          },
+          "2024": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          },
+          "2023": {
+            "valueDataKeyChip": "ID: 49; PCF: 7953/7939; ",
+            "transponderNomenclatura": "Crypto 128-Bit / PCF7953 ID49",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoFrequency": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk09EfNdFVPRQ4DGmK8OftFdpCBOa_-_age7don-cCZygwWHdc23bFiU_Nwvfh9Pux0f5cWYI-Q5k6OK8Keuu_KfgB5rNBKYcJxpj4QCJ5_n2B0i7YP9cgXtIpOT46tcEPxK3AiWebLOpW9rXdCs0IkMKEC6OY_yH6C-j1SNNqNa_mNg2uTKXTUb9vfKfv/s438/Captura%20de%20Tela%202023-09-14%20a%CC%80s%2015.05.42.png",
+            "telecomandoBatery": "CR 2032 3v",
+            "telecomandoProcedure": "Ref: -DS7T-15K601-CM",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh6LRu7LrPy5KdgCVt1frGfpMRxEv9lBBXD1fCE8t-63V6e2U00YWx5yFJO-F6TGXRJv0loC-r9bP5o2qhfjMF5ohc24x6Z_ezl6FsywDc8Qj8A3Axu0gkcJ7HE-4csgs8tgSyXtNfbPRtsYEBH9fpvLnB8C2eS85PnnblM7rJfX8n_CXmIPLgqnshmipNE",
+            "videoLink": "https://www.youtube.com/watch?v=yd5i3Xw-OfM&pp=ugMICgJwdBABGAHKBRhURUxFQ09NQU5ETyBNVVNUQU5HIDIwMjA%3D"
+          }
+        }
+      },
+      "TRANSIT Chassi 350E 2_PDOT0 EcoBlue Diesel": {
+        "Diesel": {
+          "32000": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2026": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2025": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2024": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          }
+        }
+      },
+      "TRANSIT Chassi 470E 2_PDOT0 EcoBlue Diesel": {
+        "Diesel": {
+          "32000": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2026": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2025": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2024": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          }
+        }
+      },
+      "TRANSIT Furgão 2_PDOT0 Medio Turbo Aut_PDOT": {
+        "Diesel": {
+          "32000": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2026": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          }
+        }
+      },
+      "TRANSIT Furgão 2_PDOT0 Medio Turbo Diesel": {
+        "Diesel": {
+          "32000": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2026": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2025": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2024": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2023": {
+            "valueDataKeyChip": "PCF:7939/7945",
+            "transponderNomenclatura": "PCF7939FA/PCF7945F",
+            "videoLink": "https://www.youtube.com/watch?v=fLSQK4t1PAs&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          }
+        }
+      },
+      "TRANSIT Furgão 2_PDOT2 TDCI Longa Diesel": {
+        "Diesel": {
+          "2014": {
+            "valueDataKeyChip": "id: 63",
+            "transponderNomenclatura": "4d id63 crypto 80 bits",
+            "videoLink": "https://www.youtube.com/watch?v=VJi5q6uZBsw&pp=ygUbcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdCAyMDE0"
+          },
+          "2013": {
+            "valueDataKeyChip": "id: 63",
+            "transponderNomenclatura": "4d id63 crypto 40 bits",
+            "telecomandoProcedure": "APP FÁCIL*\n-TRANSPONDER UTILIZADO 4063+ ESTE TRANSPONDER DEDICA AO KIT, OU SEJA NÃO PODE SER REUTILIZADO EM OUTRO VEICULO\n-MINIMO 2 E NO MÁXIMOS 10 CHAVES SÃO PROGRAMADAS\n\n-O TELECOMANDO É PROGRAMADO AUTOMATICAMENTE JUNTO COMO TRANSPONDER\n-A OPÇÃO PROGRAMAR CHAVES APAGA TODAS AS CHAVES E REPROGRAMA A CHAVE DO CLIENTE OU PROGRAMA NOVAS CHAVES\n-O  BOTÃO ADICIONAR CHAVES ADICIONA CHAVES NO SISTEMA SEM APAGAR AS CHAVES JA PROGRAMADAS\n-A OPÇÃO LEITURA MOSTRA O CHASSIS DO CARRO, A QUANTIA DE CHAVES PROGRAMADASE SEA PARTIDA ESTÁ OU NÃO ESTÁ LIBERADA",
+            "videoLink": "https://www.youtube.com/watch?v=-nIb8bDOKgQ&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2012": {
+            "valueDataKeyChip": "id: 63",
+            "transponderNomenclatura": "4d id63 crypto 40 bits",
+            "telecomandoProcedure": "APP FÁCIL*\n-TRANSPONDER UTILIZADO 4063+ ESTE TRANSPONDER DEDICA AO KIT, OU SEJA NÃO PODE SER REUTILIZADO EM OUTRO VEICULO\n-MINIMO 2 E NO MÁXIMOS 10 CHAVES SÃO PROGRAMADAS\n\n-O TELECOMANDO É PROGRAMADO AUTOMATICAMENTE JUNTO COMO TRANSPONDER\n-A OPÇÃO PROGRAMAR CHAVES APAGA TODAS AS CHAVES E REPROGRAMA A CHAVE DO CLIENTE OU PROGRAMA NOVAS CHAVES\n-O  BOTÃO ADICIONAR CHAVES ADICIONA CHAVES NO SISTEMA SEM APAGAR AS CHAVES JA PROGRAMADAS\n-A OPÇÃO LEITURA MOSTRA O CHASSIS DO CARRO, A QUANTIA DE CHAVES PROGRAMADASE SEA PARTIDA ESTÁ OU NÃO ESTÁ LIBERADA",
+            "videoLink": "https://www.youtube.com/watch?v=-nIb8bDOKgQ&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          }
+        }
+      },
+      "TRANSIT Furgão 3550 2_PDOT4 TDCI Longo Dies.": {
+        "Diesel": {
+          "2011": {
+            "valueDataKeyChip": "id: 63",
+            "transponderNomenclatura": "4d id63 crypto 40 bits",
+            "telecomandoProcedure": "APP FÁCIL*\n-TRANSPONDER UTILIZADO 4063+ ESTE TRANSPONDER DEDICA AO KIT, OU SEJA NÃO PODE SER REUTILIZADO EM OUTRO VEICULO\n-MINIMO 2 E NO MÁXIMOS 10 CHAVES SÃO PROGRAMADAS\n\n-O TELECOMANDO É PROGRAMADO AUTOMATICAMENTE JUNTO COMO TRANSPONDER\n-A OPÇÃO PROGRAMAR CHAVES APAGA TODAS AS CHAVES E REPROGRAMA A CHAVE DO CLIENTE OU PROGRAMA NOVAS CHAVES\n-O  BOTÃO ADICIONAR CHAVES ADICIONA CHAVES NO SISTEMA SEM APAGAR AS CHAVES JA PROGRAMADAS\n-A OPÇÃO LEITURA MOSTRA O CHASSIS DO CARRO, A QUANTIA DE CHAVES PROGRAMADASE SEA PARTIDA ESTÁ OU NÃO ESTÁ LIBERADA",
+            "videoLink": "https://www.youtube.com/watch?v=-nIb8bDOKgQ&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2010": {
+            "valueDataKeyChip": "id: 63",
+            "transponderNomenclatura": "4d id63 crypto 40 bits",
+            "telecomandoProcedure": "APP FÁCIL*\n-TRANSPONDER UTILIZADO 4063+ ESTE TRANSPONDER DEDICA AO KIT, OU SEJA NÃO PODE SER REUTILIZADO EM OUTRO VEICULO\n-MINIMO 2 E NO MÁXIMOS 10 CHAVES SÃO PROGRAMADAS\n\n-O TELECOMANDO É PROGRAMADO AUTOMATICAMENTE JUNTO COMO TRANSPONDER\n-A OPÇÃO PROGRAMAR CHAVES APAGA TODAS AS CHAVES E REPROGRAMA A CHAVE DO CLIENTE OU PROGRAMA NOVAS CHAVES\n-O  BOTÃO ADICIONAR CHAVES ADICIONA CHAVES NO SISTEMA SEM APAGAR AS CHAVES JA PROGRAMADAS\n-A OPÇÃO LEITURA MOSTRA O CHASSIS DO CARRO, A QUANTIA DE CHAVES PROGRAMADASE SEA PARTIDA ESTÁ OU NÃO ESTÁ LIBERADA",
+            "videoLink": "https://www.youtube.com/watch?v=-nIb8bDOKgQ&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          },
+          "2009": {
+            "valueDataKeyChip": "id: 63",
+            "transponderNomenclatura": "4d id63 crypto 40 bits",
+            "telecomandoProcedure": "APP FÁCIL*\n-TRANSPONDER UTILIZADO 4063+ ESTE TRANSPONDER DEDICA AO KIT, OU SEJA NÃO PODE SER REUTILIZADO EM OUTRO VEICULO\n-MINIMO 2 E NO MÁXIMOS 10 CHAVES SÃO PROGRAMADAS\n\n-O TELECOMANDO É PROGRAMADO AUTOMATICAMENTE JUNTO COMO TRANSPONDER\n-A OPÇÃO PROGRAMAR CHAVES APAGA TODAS AS CHAVES E REPROGRAMA A CHAVE DO CLIENTE OU PROGRAMA NOVAS CHAVES\n-O  BOTÃO ADICIONAR CHAVES ADICIONA CHAVES NO SISTEMA SEM APAGAR AS CHAVES JA PROGRAMADAS\n-A OPÇÃO LEITURA MOSTRA O CHASSIS DO CARRO, A QUANTIA DE CHAVES PROGRAMADASE SEA PARTIDA ESTÁ OU NÃO ESTÁ LIBERADA",
+            "videoLink": "https://www.youtube.com/watch?v=-nIb8bDOKgQ&pp=ygUWcHJvZ3JhbWFyIGZvcmQgdHJhbnNpdA%3D%3D"
+          }
+        }
+      },
+      "Taurus GL 3_PDOT0 V6": {
+        "Gasolina": {
+          "1995": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          },
+          "1994": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          },
+          "1993": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          },
+          "1992": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          }
+        }
+      },
+      "Taurus GL SW 3_PDOT0 V6 24V": {
+        "Gasolina": {
+          "1995": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          },
+          "1994": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          },
+          "1993": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          },
+          "1991": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          }
+        }
+      },
+      "Taurus LX SW 3_PDOT0 V6 24V": {
+        "Gasolina": {
+          "1995": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          },
+          "1994": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          }
+        }
+      },
+      "Taurus SHO 3_PDOT0 V6": {
+        "Gasolina": {
+          "1993": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          },
+          "1992": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
+          },
+          "1991": {
+            "valueDataKeyChip": "id: 4c",
+            "transponderNomenclatura": "4C ID4C",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP2ySFskUlc0R483WgCZkZIRHDJKGbsOKgU1qq6IJ1giFpPrGsR2qsVryeywkkDVGEx8CvG8tFS6Dy47nU2rXCZBV8w2lA1SHCcxGjkQ6WJ9QB7u3yEohyt2kz-TRUIfQEIKNqbRnwD9AlzeVBVO80-0trBpyTT8afIG_FOofoR2gWaNMx9CkpivU2J_AA/s386/transponder_t05.png"
           }
         }
       }
