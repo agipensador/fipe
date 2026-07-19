@@ -1,0 +1,248 @@
+{
+  "items": [
+    {
+      "Ghost 6_PDOT7 V12 Aut_PDOT": {
+        "Gasolina": {
+          "2022": {
+            "valueCopyStore": "8100.00",
+            "valueKeyConfect": "3900.00",
+            "valueKeyConfectAlarm": "6300.00",
+            "valueKeyCopy": "1150.00",
+            "valueKeyAlarm": "4100.00"
+          }
+        }
+      },
+      "Cullinan 6_PDOT7 V12 Aut_PDOT": {
+        "Gasolina": {
+          "2021": {
+            "valueCopyStore": "6200.00",
+            "valueKeyConfect": "2900.00",
+            "valueKeyCopy": "800.00",
+            "valueKeyConfectAlarm": "4800.00",
+            "valueKeyAlarm": "3200.00"
+          }
+        }
+      },
+      "Phantom 6_PDOT7 V12 Aut_PDOT": {
+        "Gasolina": {
+          "2013": {
+            "valueKeyConfect": "2500.00",
+            "valueCopyStore": "5500.00",
+            "valueKeyAlarm": "2700.00",
+            "valueKeyCopy": "750.00",
+            "valueKeyConfectAlarm": "4200.00"
+          },
+          "2014": {
+            "valueKeyConfect": "2700.00",
+            "valueCopyStore": "5900.00",
+            "valueKeyAlarm": "2900.00",
+            "valueKeyCopy": "800.00",
+            "valueKeyConfectAlarm": "4500.00"
+          },
+          "2015": {
+            "valueCopyStore": "6300.00",
+            "valueKeyConfect": "2900.00",
+            "valueKeyConfectAlarm": "4800.00",
+            "valueKeyCopy": "850.00",
+            "valueKeyAlarm": "3100.00"
+          },
+          "2016": {
+            "valueKeyConfect": "3100.00",
+            "valueCopyStore": "6700.00",
+            "valueKeyAlarm": "3300.00",
+            "valueKeyCopy": "900.00",
+            "valueKeyConfectAlarm": "5100.00"
+          },
+          "2019": {
+            "valueCopyStore": "7900.00",
+            "valueKeyConfect": "3700.00",
+            "valueKeyConfectAlarm": "6000.00",
+            "valueKeyCopy": "1050.00",
+            "valueKeyAlarm": "3900.00"
+          }
+        }
+      },
+      "Dawn 6_PDOT6 V12 Aut_PDOT": {
+        "Gasolina": {
+          "2017": {
+            "valueKeyConfectAlarm": "4000.00",
+            "valueKeyCopy": "700.00",
+            "valueKeyAlarm": "2700.00",
+            "valueCopyStore": "5300.00",
+            "valueKeyConfect": "2400.00"
+          },
+          "2018": {
+            "valueCopyStore": "5700.00",
+            "valueKeyConfect": "2600.00",
+            "valueKeyCopy": "750.00",
+            "valueKeyConfectAlarm": "4300.00",
+            "valueKeyAlarm": "2900.00"
+          },
+          "2019": {
+            "valueKeyAlarm": "3100.00",
+            "valueKeyCopy": "800.00",
+            "valueKeyConfectAlarm": "4600.00",
+            "valueKeyConfect": "2800.00",
+            "valueCopyStore": "6100.00"
+          },
+          "2020": {
+            "valueKeyConfect": "3000.00",
+            "valueCopyStore": "6500.00",
+            "valueKeyAlarm": "3300.00",
+            "valueKeyConfectAlarm": "4900.00",
+            "valueKeyCopy": "850.00"
+          }
+        }
+      },
+      "Wraith 6_PDOT6 V12 Aut_PDOT": {
+        "Gasolina": {
+          "2014": {
+            "valueCopyStore": "5700.00",
+            "valueKeyConfect": "2600.00",
+            "valueKeyCopy": "750.00",
+            "valueKeyConfectAlarm": "4300.000",
+            "valueKeyAlarm": "2800.00"
+          },
+          "2015": {
+            "valueKeyAlarm": "3000.00",
+            "valueKeyConfectAlarm": "4600.00",
+            "valueKeyCopy": "800.00",
+            "valueKeyConfect": "2800.00",
+            "valueCopyStore": "6100.00"
+          },
+          "2016": {
+            "valueKeyConfectAlarm": "4900.00",
+            "valueKeyCopy": "850.00",
+            "valueKeyAlarm": "3200.00",
+            "valueCopyStore": "6500.00",
+            "valueKeyConfect": "3000.00"
+          },
+          "2017": {
+            "valueKeyConfect": "3200.00",
+            "valueCopyStore": "6900.00",
+            "valueKeyAlarm": "3400.00",
+            "valueKeyConfectAlarm": "5200.00",
+            "valueKeyCopy": "900.00"
+          },
+          "2018": {
+            "valueKeyCopy": "950.00",
+            "valueKeyConfectAlarm": "5500.00",
+            "valueKeyAlarm": "3600.00",
+            "valueCopyStore": "7300.00",
+            "valueKeyConfect": "3400.00"
+          },
+          "2019": {
+            "valueKeyCopy": "1000.00",
+            "valueKeyConfectAlarm": "5800.00",
+            "valueKeyAlarm": "3800.00",
+            "valueCopyStore": "7700.00",
+            "valueKeyConfect": "3600.00"
+          },
+          "2020": {
+            "valueKeyAlarm": "4000.00",
+            "valueKeyConfectAlarm": "6100.00",
+            "valueKeyCopy": "1050.00",
+            "valueKeyConfect": "3800.00",
+            "valueCopyStore": "8100.00"
+          }
+        }
+      },
+      "Ghost ll 6_PDOT6 V12 Aut_PDOT": {
+        "Gasolina": {
+          "2015": {
+            "valueKeyConfect": "2415.00",
+            "valueCopyStore": "5250.00",
+            "valueKeyAlarm": "2625.00",
+            "valueKeyCopy": "790.00",
+            "valueKeyConfectAlarm": "4200.00"
+          },
+          "2016": {
+            "valueKeyAlarm": "2835.00",
+            "valueKeyConfectAlarm": "4410.00",
+            "valueKeyCopy": "840.00",
+            "valueKeyConfect": "2625.00",
+            "valueCopyStore": "5565.00"
+          },
+          "2017": {
+            "valueKeyCopy": "895.00",
+            "valueKeyConfectAlarm": "4725.00",
+            "valueKeyAlarm": "3045.00",
+            "valueCopyStore": "5985.00",
+            "valueKeyConfect": "2835.00"
+          },
+          "2018": {
+            "valueKeyConfect": "3045.00",
+            "valueCopyStore": "6405.00",
+            "valueKeyAlarm": "3255.00",
+            "valueKeyCopy": "945.00",
+            "valueKeyConfectAlarm": "5040.00"
+          },
+          "2019": {
+            "valueCopyStore": "6825.00",
+            "valueKeyConfect": "3255.00",
+            "valueKeyConfectAlarm": "5355.00",
+            "valueKeyCopy": "1000.00",
+            "valueKeyAlarm": "3465.00"
+          }
+        }
+      },
+      "Cullinan Black Badge 6_PDOT7 V12 Aut_PDOT": {
+        "Gasolina": {
+          "2021": {
+            "valueKeyCopy": "900.00",
+            "valueKeyConfectAlarm": "5300.00",
+            "valueKeyAlarm": "3500.00",
+            "valueCopyStore": "6900.00",
+            "valueKeyConfect": "3200.00"
+          },
+          "2022": {
+            "valueKeyConfect": "3400.00",
+            "valueCopyStore": "7300.00",
+            "valueKeyAlarm": "3700.00",
+            "valueKeyConfectAlarm": "5600.00",
+            "valueKeyCopy": "950.00"
+          },
+          "2023": {
+            "valueKeyCopy": "1000.00",
+            "valueKeyConfectAlarm": "5900.00",
+            "valueKeyAlarm": "3900.00",
+            "valueCopyStore": "7700.00",
+            "valueKeyConfect": "3600.00"
+          },
+          "32000": {
+            "valueKeyCopy": "1250.00",
+            "valueKeyConfectAlarm": "7300.00",
+            "valueKeyAlarm": "4800.00",
+            "valueCopyStore": "9500.00",
+            "valueKeyConfect": "4500.00"
+          }
+        }
+      },
+      "Ghost 6_PDOT6 V12 Aut_PDOT": {
+        "Gasolina": {
+          "2011": {
+            "valueCopyStore": "4200.00",
+            "valueKeyConfect": "1900.00",
+            "valueKeyConfectAlarm": "3200.00",
+            "valueKeyCopy": "550.00",
+            "valueKeyAlarm": "2100.00"
+          },
+          "2012": {
+            "valueKeyAlarm": "2200.00",
+            "valueKeyConfectAlarm": "3400.00",
+            "valueKeyCopy": "600.00",
+            "valueKeyConfect": "2000.00",
+            "valueCopyStore": "4400.00"
+          },
+          "2013": {
+            "valueKeyConfect": "2100.00",
+            "valueCopyStore": "4600.00",
+            "valueKeyAlarm": "2300.00",
+            "valueKeyCopy": "650.00",
+            "valueKeyConfectAlarm": "3600.00"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -6,7 +6,13 @@
         "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 4 dígitos numéricos;\nDica: Após 3 tentativas com senha errada bloqueia",
         "valueDataKeyChip": "id: 46; pcf: 7936; série: t46;",
         "transponderClone": "CN3 ou Super Chip VVDI",
+        "transponderNomenclatura": "PCF7936AA",
+        "transponderCodigo": "7936AA ID46",
+        "keyLaminaTypeGold": "T19",
+        "laminaPinCode": "SIM",
         "telecomandoFrequency": "433",
+        "telecomandoBrands": "Calsonic TS002",
+        "telecomandoBatery": "CR2032",
         "telecomandoProcedure": "Habilita por procedimento\n1-Abrir porta do motorista e fechar as demais\n2-Ligue a ignição e aguarde 10 segundos\n3-desligue a ignição e retire a chave\n4-Feche e abra 3 vezes a porta do motorista\n5-Ligue a ignição e aguarde 10 segundos\n6- desligue a ignição e retire a chave\n7-As portas irão travar e destravar indicando que estão pronto para programar\n8-Aperte 'lock' do controle novo\n9-as portas irão e destravar\nno máx 2 controles\nMaquina KD\nArquivo: swift from 2008\nTipo: serie b ou multifuncional",
         "maquinasCodificadoras": "-kd900\n-obd star x300\n-vvdi\n-100 pad\n-zed full",
         "videoLink": "https://www.youtube.com/watch?v=gQ-M3e7eT1Q&pp=ygUicHJvZ3JhbWFyIGNoYXZlIHN1enVraSBncmFuIHZpdGFyYQ%3D%3D"

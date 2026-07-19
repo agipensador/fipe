@@ -1,0 +1,1170 @@
+{
+  "items": [
+    {
+      "J3 Brasil 1_PDOT4 16V 5p Mec_PDOT": {
+        "Gasolina": {
+          "2012": {
+            "valueCopyStore": "1100.00",
+            "valueKeyConfect": "400.00",
+            "valueKeyConfectAlarm": "800.00",
+            "valueKeyCopy": "100.00",
+            "valueKeyAlarm": "450.00"
+          }
+        }
+      },
+      "J3 1_PDOT4 16V 5p Mec_PDOT": {
+        "Gasolina": {
+          "2010": {
+            "valueCopyStore": "900.00",
+            "valueKeyConfect": "300.00",
+            "valueKeyCopy": "80.00",
+            "valueKeyConfectAlarm": "650.00",
+            "valueKeyAlarm": "350.00"
+          },
+          "2011": {
+            "valueKeyCopy": "90.00",
+            "valueKeyConfectAlarm": "700.00",
+            "valueKeyAlarm": "400.00",
+            "valueCopyStore": "1000.00",
+            "valueKeyConfect": "350.00"
+          },
+          "2012": {
+            "valueKeyAlarm": "450.00",
+            "valueKeyConfectAlarm": "800.00",
+            "valueKeyCopy": "100.00",
+            "valueKeyConfect": "400.00",
+            "valueCopyStore": "1100.00"
+          },
+          "2013": {
+            "valueKeyConfect": "450.00",
+            "valueCopyStore": "1200.00",
+            "valueKeyAlarm": "500.00",
+            "valueKeyCopy": "120.00",
+            "valueKeyConfectAlarm": "900.00"
+          },
+          "2014": {
+            "valueKeyAlarm": "550.00",
+            "valueKeyCopy": "140.00",
+            "valueKeyConfectAlarm": "1000.00",
+            "valueKeyConfect": "500.00",
+            "valueCopyStore": "1300.00"
+          },
+          "2015": {
+            "valueKeyCopy": "160.00",
+            "valueKeyConfectAlarm": "1100.00",
+            "valueKeyAlarm": "650.00",
+            "valueCopyStore": "1500.00",
+            "valueKeyConfect": "600.00"
+          }
+        }
+      },
+      "e-JS4 150CV 5p Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2022": {
+            "valueKeyConfect": "1600.00",
+            "valueCopyStore": "3200.00",
+            "valueKeyAlarm": "1800.00",
+            "valueKeyCopy": "380.00",
+            "valueKeyConfectAlarm": "2600.00"
+          },
+          "2023": {
+            "valueKeyAlarm": "2000.00",
+            "valueKeyConfectAlarm": "2800.00",
+            "valueKeyCopy": "400.00",
+            "valueKeyConfect": "1800.00",
+            "valueCopyStore": "3500.00"
+          },
+          "32000": {
+            "valueKeyCopy": "500.00",
+            "valueKeyConfectAlarm": "3600.00",
+            "valueKeyAlarm": "2700.00",
+            "valueCopyStore": "4500.00",
+            "valueKeyConfect": "2400.00"
+          }
+        }
+      },
+      "T50 PLUS 1_PDOT6 16V 5p Aut_PDOT": {
+        "Gasolina": {
+          "2021": {
+            "valueKeyAlarm": "1200.00",
+            "videoLink": "https://www.youtube.com/watch?v=0LDJAANGNH8",
+            "valueKeyCopy": "320.00",
+            "valueKeyConfectAlarm": "2000.00",
+            "valueKeyConfect": "1100.00",
+            "valueCopyStore": "2500.00"
+          },
+          "2022": {
+            "valueKeyConfect": "1200.00",
+            "valueCopyStore": "2700.00",
+            "videoLink": "https://www.youtube.com/watch?v=0LDJAANGNH8",
+            "valueKeyAlarm": "1300.00",
+            "valueKeyConfectAlarm": "2200.00",
+            "valueKeyCopy": "350.00"
+          }
+        }
+      },
+      "J6 2_PDOT0 JET Flex 5p Mec_PDOT": {
+        "Flex": {
+          "2015": {
+            "valueKeyConfect": "600.00",
+            "valueCopyStore": "1500.00",
+            "valueKeyAlarm": "650.00",
+            "valueKeyCopy": "160.00",
+            "valueKeyConfectAlarm": "1100.00"
+          },
+          "2016": {
+            "valueCopyStore": "1700.00",
+            "valueKeyConfect": "650.00",
+            "valueKeyCopy": "180.00",
+            "valueKeyConfectAlarm": "1300.00",
+            "valueKeyAlarm": "700.00"
+          }
+        }
+      },
+      "E-JS1 City Cargo Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2023": {
+            "valueKeyCopy": "300.00",
+            "valueKeyConfectAlarm": "1900.00",
+            "valueKeyAlarm": "1300.00",
+            "valueCopyStore": "2400.00",
+            "valueKeyConfect": "1100.00"
+          },
+          "2025": {
+            "valueCopyStore": "2800.00",
+            "valueKeyConfect": "1300.00",
+            "valueKeyCopy": "340.00",
+            "valueKeyConfectAlarm": "2100.00",
+            "valueKeyAlarm": "1500.00"
+          },
+          "32000": {
+            "valueCopyStore": "3200.00",
+            "valueKeyConfect": "1600.00",
+            "valueKeyConfectAlarm": "2500.00",
+            "valueKeyCopy": "380.00",
+            "valueKeyAlarm": "1800.00"
+          }
+        }
+      },
+      "J3 S turin 1_PDOT5 JET Flex 16V 4p Mec_PDOT": {
+        "Flex": {
+          "2014": {
+            "valueKeyAlarm": "550.00",
+            "valueKeyCopy": "140.00",
+            "valueKeyConfectAlarm": "1000.00",
+            "valueKeyConfect": "500.00",
+            "valueCopyStore": "1300.00"
+          },
+          "2015": {
+            "valueKeyConfect": "600.00",
+            "valueCopyStore": "1500.00",
+            "valueKeyAlarm": "650.00",
+            "valueKeyCopy": "160.00",
+            "valueKeyConfectAlarm": "1100.00"
+          }
+        }
+      },
+      "J2 1_PDOT4 JET Flex 16V 5p Mec": {
+        "Flex": {
+          "2015": {
+            "valueCopyStore": "1200.00",
+            "valueKeyConfect": "450.00",
+            "valueKeyConfectAlarm": "900.00",
+            "valueKeyCopy": "120.00",
+            "valueKeyAlarm": "500.00"
+          },
+          "2016": {
+            "valueKeyAlarm": "550.00",
+            "valueKeyCopy": "140.00",
+            "valueKeyConfectAlarm": "1000.00",
+            "valueKeyConfect": "500.00",
+            "valueCopyStore": "1300.00"
+          }
+        }
+      },
+      "J3 turin Sedan 1_PDOT4 16V 4p Mec_PDOT": {
+        "Gasolina": {
+          "2010": {
+            "valueKeyConfect": "300.00",
+            "valueCopyStore": "900.00",
+            "valueKeyAlarm": "350.00",
+            "valueKeyConfectAlarm": "650.00",
+            "valueKeyCopy": "80.00"
+          },
+          "2011": {
+            "valueCopyStore": "1000.00",
+            "valueKeyConfect": "350.00",
+            "valueKeyConfectAlarm": "700.00",
+            "valueKeyCopy": "90.00",
+            "valueKeyAlarm": "400.00"
+          },
+          "2012": {
+            "valueCopyStore": "1100.00",
+            "valueKeyConfect": "400.00",
+            "valueKeyCopy": "100.00",
+            "valueKeyConfectAlarm": "800.00",
+            "valueKeyAlarm": "450.00"
+          },
+          "2013": {
+            "valueKeyConfectAlarm": "900.00",
+            "valueKeyCopy": "120.00",
+            "valueKeyAlarm": "500.00",
+            "valueCopyStore": "1200.00",
+            "valueKeyConfect": "450.00"
+          },
+          "2014": {
+            "valueCopyStore": "1300.00",
+            "valueKeyConfect": "500.00",
+            "valueKeyConfectAlarm": "1000.00",
+            "valueKeyCopy": "140.00",
+            "valueKeyAlarm": "550.00"
+          },
+          "2015": {
+            "valueKeyCopy": "160.00",
+            "valueKeyConfectAlarm": "1100.00",
+            "valueKeyAlarm": "650.00",
+            "valueCopyStore": "1500.00",
+            "valueKeyConfect": "600.00"
+          }
+        }
+      },
+      "T6 2_PDOT0 JET Flex 5p Mec_PDOT": {
+        "Flex": {
+          "2014": {
+            "valueCopyStore": "1500.00",
+            "valueKeyConfect": "600.00",
+            "valueKeyCopy": "160.00",
+            "valueKeyConfectAlarm": "1100.00",
+            "valueKeyAlarm": "650.00"
+          },
+          "2015": {
+            "valueKeyCopy": "180.00",
+            "valueKeyConfectAlarm": "1300.00",
+            "valueKeyAlarm": "700.00",
+            "valueCopyStore": "1700.00",
+            "valueKeyConfect": "650.00"
+          },
+          "2016": {
+            "valueKeyConfect": "750.00",
+            "valueCopyStore": "1800.00",
+            "valueKeyAlarm": "800.00",
+            "valueKeyCopy": "200.00",
+            "valueKeyConfectAlarm": "1400.00"
+          }
+        }
+      },
+      "T8 2_PDOT0 16V 5p Mec_PDOT": {
+        "Gasolina": {
+          "2013": {
+            "valueKeyAlarm": "550.00",
+            "valueKeyCopy": "140.00",
+            "valueKeyConfectAlarm": "1000.00",
+            "valueKeyConfect": "500.00",
+            "valueCopyStore": "1300.00"
+          },
+          "2014": {
+            "valueKeyCopy": "160.00",
+            "valueKeyConfectAlarm": "1100.00",
+            "valueKeyAlarm": "650.00",
+            "valueCopyStore": "1500.00",
+            "valueKeyConfect": "600.00"
+          },
+          "2017": {
+            "valueKeyAlarm": "850.00",
+            "valueKeyConfectAlarm": "1500.00",
+            "valueKeyCopy": "220.00",
+            "valueKeyConfect": "800.00",
+            "valueCopyStore": "1900.00"
+          },
+          "2018": {
+            "valueKeyConfect": "850.00",
+            "valueCopyStore": "2000.00",
+            "valueKeyAlarm": "900.00",
+            "valueKeyCopy": "250.00",
+            "valueKeyConfectAlarm": "1600.00"
+          }
+        }
+      },
+      "iEV 330P CD 150cv Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2020": {
+            "valueKeyConfect": "1900.00",
+            "valueCopyStore": "3800.00",
+            "valueKeyAlarm": "2000.00",
+            "valueKeyConfectAlarm": "3000.00",
+            "valueKeyCopy": "420.00"
+          },
+          "2021": {
+            "valueKeyCopy": "450.00",
+            "valueKeyConfectAlarm": "3200.00",
+            "valueKeyAlarm": "2200.00",
+            "valueCopyStore": "4000.00",
+            "valueKeyConfect": "2000.00"
+          },
+          "2022": {
+            "valueKeyConfect": "2300.00",
+            "valueCopyStore": "4300.00",
+            "valueKeyAlarm": "2500.00",
+            "valueKeyConfectAlarm": "3500.00",
+            "valueKeyCopy": "500.00"
+          },
+          "2023": {
+            "valueKeyCopy": "550.00",
+            "valueKeyConfectAlarm": "3700.00",
+            "valueKeyAlarm": "2700.00",
+            "valueCopyStore": "4600.00",
+            "valueKeyConfect": "2500.00"
+          },
+          "2024": {
+            "valueCopyStore": "5000.00",
+            "valueKeyConfect": "2700.00",
+            "valueKeyConfectAlarm": "3900.00",
+            "valueKeyCopy": "600.00",
+            "valueKeyAlarm": "2900.00"
+          },
+          "2025": {
+            "valueKeyAlarm": "3100.00",
+            "valueKeyCopy": "650.00",
+            "valueKeyConfectAlarm": "4100.00",
+            "valueKeyConfect": "2900.00",
+            "valueCopyStore": "5300.00"
+          },
+          "32000": {
+            "valueKeyConfect": "3300.00",
+            "valueCopyStore": "5500.00",
+            "valueKeyAlarm": "3500.00",
+            "valueKeyConfectAlarm": "4500.00",
+            "valueKeyCopy": "750.00"
+          }
+        }
+      },
+      "J6 2_PDOT0 16V 5p Mec_PDOT": {
+        "Gasolina": {
+          "2010": {
+            "valueKeyConfectAlarm": "800.00",
+            "valueKeyCopy": "100.00",
+            "valueKeyAlarm": "450.00",
+            "valueCopyStore": "1100.00",
+            "valueKeyConfect": "400.00"
+          },
+          "2011": {
+            "valueKeyConfect": "450.00",
+            "valueCopyStore": "1200.00",
+            "valueKeyAlarm": "500.00",
+            "valueKeyConfectAlarm": "900.00",
+            "valueKeyCopy": "120.00"
+          },
+          "2012": {
+            "valueKeyConfect": "500.00",
+            "valueCopyStore": "1300.00",
+            "valueKeyAlarm": "550.00",
+            "valueKeyCopy": "140.00",
+            "valueKeyConfectAlarm": "1000.00"
+          },
+          "2013": {
+            "valueKeyAlarm": "650.00",
+            "valueKeyCopy": "160.00",
+            "valueKeyConfectAlarm": "1100.00",
+            "valueKeyConfect": "600.00",
+            "valueCopyStore": "1500.00"
+          },
+          "2014": {
+            "valueCopyStore": "1700.00",
+            "valueKeyConfect": "650.00",
+            "valueKeyCopy": "180.00",
+            "valueKeyConfectAlarm": "1300.00",
+            "valueKeyAlarm": "700.00"
+          }
+        }
+      },
+      "T60 PLUS 1_PDOT5 TURBO 16V 5p Aut_PDOT": {
+        "Gasolina": {
+          "2021": {
+            "valueKeyConfect": "1200.00",
+            "valueCopyStore": "2700.00",
+            "valueKeyAlarm": "1300.00",
+            "valueKeyCopy": "350.00",
+            "valueKeyConfectAlarm": "2200.00"
+          },
+          "2022": {
+            "valueCopyStore": "3000.00",
+            "valueKeyConfect": "1400.00",
+            "valueKeyCopy": "400.00",
+            "valueKeyConfectAlarm": "2500.00",
+            "valueKeyAlarm": "1500.00"
+          }
+        }
+      },
+      "iEV 20 68cv 5p Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2020": {
+            "valueKeyConfect": "950.00",
+            "valueCopyStore": "2100.00",
+            "valueKeyAlarm": "1100.00",
+            "valueKeyCopy": "250.00",
+            "valueKeyConfectAlarm": "1700.00"
+          },
+          "2021": {
+            "valueKeyConfect": "1000.00",
+            "valueCopyStore": "2300.00",
+            "valueKeyAlarm": "1200.00",
+            "valueKeyConfectAlarm": "1800.00",
+            "valueKeyCopy": "280.00"
+          },
+          "2022": {
+            "valueKeyConfect": "1100.00",
+            "valueCopyStore": "2500.00",
+            "valueKeyAlarm": "1300.00",
+            "valueKeyConfectAlarm": "1900.00",
+            "valueKeyCopy": "300.00"
+          }
+        }
+      },
+      "E-JV12 Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2025": {
+            "valueKeyAlarm": "3300.00",
+            "valueKeyConfectAlarm": "4300.00",
+            "valueKeyCopy": "700.00",
+            "valueKeyConfect": "3100.00",
+            "valueCopyStore": "5500.00"
+          },
+          "32000": {
+            "valueKeyConfectAlarm": "4800.00",
+            "valueKeyCopy": "800.00",
+            "valueKeyAlarm": "3800.00",
+            "valueCopyStore": "6000.00",
+            "valueKeyConfect": "3500.00"
+          }
+        }
+      },
+      "T5 1_PDOT5 JET Flex 16V 5p Mec_PDOT": {
+        "Flex": {
+          "2015": {
+            "valueKeyConfect": "650.00",
+            "valueCopyStore": "1700.00",
+            "valueKeyAlarm": "700.00",
+            "valueKeyCopy": "180.00",
+            "valueKeyConfectAlarm": "1300.00"
+          },
+          "2016": {
+            "valueKeyConfect": "750.00",
+            "valueCopyStore": "1800.00",
+            "valueKeyAlarm": "800.00",
+            "valueKeyConfectAlarm": "1400.00",
+            "valueKeyCopy": "200.00"
+          },
+          "2017": {
+            "valueKeyAlarm": "850.00",
+            "valueKeyConfectAlarm": "1500.00",
+            "valueKeyCopy": "220.00",
+            "valueKeyConfect": "800.00",
+            "valueCopyStore": "1900.00"
+          },
+          "2018": {
+            "valueKeyAlarm": "900.00",
+            "valueKeyConfectAlarm": "1600.00",
+            "valueKeyCopy": "250.00",
+            "valueKeyConfect": "850.00",
+            "valueCopyStore": "2000.00"
+          }
+        }
+      },
+      "E-JV7L Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2023": {
+            "valueCopyStore": "5200.00",
+            "valueKeyConfect": "2800.00",
+            "valueKeyCopy": "600.00",
+            "valueKeyConfectAlarm": "4000.00",
+            "valueKeyAlarm": "3000.00"
+          },
+          "2024": {
+            "valueCopyStore": "5500.00",
+            "valueKeyConfect": "3000.00",
+            "valueKeyCopy": "650.00",
+            "valueKeyConfectAlarm": "4200.00",
+            "valueKeyAlarm": "3200.00"
+          },
+          "2025": {
+            "valueCopyStore": "5800.00",
+            "valueKeyConfect": "3200.00",
+            "valueKeyConfectAlarm": "4500.00",
+            "valueKeyCopy": "700.00",
+            "valueKeyAlarm": "3400.00"
+          },
+          "32000": {
+            "valueKeyAlarm": "3900.00",
+            "valueKeyCopy": "800.00",
+            "valueKeyConfectAlarm": "5000.00",
+            "valueKeyConfect": "3600.00",
+            "valueCopyStore": "6300.00"
+          }
+        }
+      },
+      "T60 1_PDOT5 Turbo 16V Aut_PDOT": {
+        "Gasolina": {
+          "2019": {
+            "valueKeyConfectAlarm": "1800.00",
+            "valueKeyCopy": "280.00",
+            "valueKeyAlarm": "1000.00",
+            "valueCopyStore": "2200.00",
+            "valueKeyConfect": "950.00"
+          },
+          "2020": {
+            "valueKeyCopy": "320.00",
+            "valueKeyConfectAlarm": "2000.00",
+            "valueKeyAlarm": "1200.00",
+            "valueCopyStore": "2500.00",
+            "valueKeyConfect": "1100.00"
+          },
+          "2021": {
+            "valueKeyConfect": "1200.00",
+            "valueCopyStore": "2700.00",
+            "valueKeyAlarm": "1300.00",
+            "valueKeyCopy": "350.00",
+            "valueKeyConfectAlarm": "2200.00"
+          }
+        }
+      },
+      "J3 S 1_PDOT5 JET Flex 16V VVT 5p": {
+        "Flex": {
+          "2013": {
+            "valueKeyConfectAlarm": "900.00",
+            "valueKeyCopy": "120.00",
+            "valueKeyAlarm": "500.00",
+            "valueCopyStore": "1200.00",
+            "valueKeyConfect": "450.00"
+          },
+          "2014": {
+            "valueKeyConfect": "500.00",
+            "valueCopyStore": "1300.00",
+            "valueKeyAlarm": "550.00",
+            "valueKeyCopy": "140.00",
+            "valueKeyConfectAlarm": "1000.00"
+          },
+          "2015": {
+            "valueCopyStore": "1500.00",
+            "valueKeyConfect": "600.00",
+            "valueKeyCopy": "160.00",
+            "valueKeyConfectAlarm": "1100.00",
+            "valueKeyAlarm": "650.00"
+          }
+        }
+      },
+      "iEV 350T 150cv Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2022": {
+            "valueKeyConfectAlarm": "3500.00",
+            "valueKeyCopy": "500.00",
+            "valueKeyAlarm": "2500.00",
+            "valueCopyStore": "4300.00",
+            "valueKeyConfect": "2300.00"
+          },
+          "2023": {
+            "valueCopyStore": "4600.00",
+            "valueKeyConfect": "2500.00",
+            "valueKeyCopy": "550.00",
+            "valueKeyConfectAlarm": "3700.00",
+            "valueKeyAlarm": "2700.00"
+          }
+        }
+      },
+      "V260 2_PDOT0 16V Diesel": {
+        "Diesel": {
+          "2017": {
+            "valueCopyStore": "1900.00",
+            "valueKeyConfect": "800.00",
+            "valueKeyCopy": "220.00",
+            "valueKeyConfectAlarm": "1500.00",
+            "valueKeyAlarm": "850.00"
+          },
+          "2018": {
+            "valueKeyAlarm": "900.00",
+            "valueKeyCopy": "250.00",
+            "valueKeyConfectAlarm": "1600.00",
+            "valueKeyConfect": "850.00",
+            "valueCopyStore": "2000.00"
+          },
+          "2020": {
+            "valueKeyConfect": "1100.00",
+            "valueCopyStore": "2500.00",
+            "valueKeyAlarm": "1200.00",
+            "valueKeyCopy": "320.00",
+            "valueKeyConfectAlarm": "2000.00"
+          },
+          "2021": {
+            "valueKeyConfectAlarm": "2200.00",
+            "valueKeyCopy": "350.00",
+            "valueKeyAlarm": "1300.00",
+            "valueCopyStore": "2700.00",
+            "valueKeyConfect": "1200.00"
+          },
+          "2022": {
+            "valueKeyAlarm": "1500.00",
+            "valueKeyCopy": "400.00",
+            "valueKeyConfectAlarm": "2500.00",
+            "valueKeyConfect": "1400.00",
+            "valueCopyStore": "3000.00"
+          }
+        }
+      },
+      "E-J7 193cv 5p Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2022": {
+            "valueCopyStore": "2800.00",
+            "valueKeyConfect": "1500.00",
+            "valueKeyConfectAlarm": "2500.00",
+            "valueKeyCopy": "350.00",
+            "valueKeyAlarm": "1900.00"
+          },
+          "2023": {
+            "valueKeyConfectAlarm": "2500.00",
+            "valueKeyCopy": "350.00",
+            "valueKeyAlarm": "1900.00",
+            "valueCopyStore": "2800.00",
+            "valueKeyConfect": "1500.00"
+          },
+          "32000": {
+            "keyLaminaTypeGold": "3333",
+            "laminasKeys": "1111",
+            "telecomandoImage": "https://http2.mlstatic.com/D_NQ_NP_901688-MLB87902658699_072025-O.webp",
+            "valueKeyCopy": "350.00",
+            "telecomandoProcedure": "33333",
+            "valueCopyStore": "3800.00",
+            "valueKeyConfect": "1500.00",
+            "valueKeyConfectAlarm": "2500.00",
+            "videoLink": "https://www.youtube.com/watch?v=IC8xjXkiGWY",
+            "valueKeyAlarm": "1890.00"
+          }
+        }
+      },
+      "J2 1_PDOT4 16V 5p Mec_PDOT": {
+        "Gasolina": {
+          "2012": {
+            "valueKeyAlarm": "350.00",
+            "valueKeyConfectAlarm": "600.00",
+            "valueKeyCopy": "80.00",
+            "valueKeyConfect": "300.00",
+            "valueCopyStore": "900.00"
+          },
+          "2013": {
+            "valueKeyConfect": "350.00",
+            "valueCopyStore": "1000.00",
+            "valueKeyAlarm": "400.00",
+            "valueKeyCopy": "90.00",
+            "valueKeyConfectAlarm": "700.00"
+          },
+          "2014": {
+            "valueKeyConfect": "400.00",
+            "valueCopyStore": "1100.00",
+            "valueKeyAlarm": "450.00",
+            "valueKeyCopy": "100.00",
+            "valueKeyConfectAlarm": "800.00"
+          }
+        }
+      },
+      "T40 PLUS 1_PDOT5 JET Flex 16V 5p Mec_PDOT": {
+        "Flex": {
+          "2021": {
+            "valueCopyStore": "2200.00",
+            "valueKeyConfect": "950.00",
+            "valueKeyConfectAlarm": "1800.00",
+            "valueKeyCopy": "280.00",
+            "valueKeyAlarm": "1000.00"
+          },
+          "2022": {
+            "valueKeyAlarm": "1200.00",
+            "valueKeyConfectAlarm": "2000.00",
+            "valueKeyCopy": "320.00",
+            "valueKeyConfect": "1100.00",
+            "valueCopyStore": "2500.00"
+          }
+        }
+      },
+      "T40 PLUS 1_PDOT6 16V 5p Aut_PDOT": {
+        "Gasolina": {
+          "2021": {
+            "valueCopyStore": "2500.00",
+            "valueKeyConfect": "1100.00",
+            "valueKeyConfectAlarm": "2000.00",
+            "valueKeyCopy": "320.00",
+            "valueKeyAlarm": "1200.00"
+          }
+        }
+      },
+      "e-JS1 62cv 5p Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2022": {
+            "valueKeyAlarm": "1300.00",
+            "valueKeyConfectAlarm": "1900.00",
+            "valueKeyCopy": "280.00",
+            "valueKeyConfect": "1100.00",
+            "valueCopyStore": "2300.00"
+          },
+          "2023": {
+            "valueCopyStore": "2500.00",
+            "valueKeyConfect": "1200.00",
+            "valueKeyCopy": "300.00",
+            "valueKeyConfectAlarm": "2000.00",
+            "valueKeyAlarm": "1400.00"
+          },
+          "2024": {
+            "valueKeyConfectAlarm": "2100.00",
+            "valueKeyCopy": "320.00",
+            "valueKeyAlarm": "1500.00",
+            "valueCopyStore": "2700.00",
+            "valueKeyConfect": "1300.00"
+          },
+          "2025": {
+            "valueKeyConfectAlarm": "2200.00",
+            "valueKeyCopy": "320.00",
+            "valueKeyAlarm": "1500.00",
+            "valueCopyStore": "2800.00",
+            "valueKeyConfect": "1300.00"
+          },
+          "2026": {
+            "valueKeyConfect": "1500.00",
+            "valueCopyStore": "3000.00",
+            "valueKeyAlarm": "1700.00",
+            "valueKeyCopy": "350.00",
+            "valueKeyConfectAlarm": "2400.00"
+          },
+          "32000": {
+            "valueKeyAlarm": "1800.00",
+            "valueKeyCopy": "350.00",
+            "valueKeyConfectAlarm": "2500.00",
+            "valueKeyConfect": "1600.00",
+            "valueCopyStore": "3200.00"
+          }
+        }
+      },
+      "T 140 2_PDOT8 2p (diesel)": {
+        "Diesel": {
+          "2012": {
+            "valueCopyStore": "1200.00",
+            "valueKeyConfect": "450.00",
+            "valueKeyCopy": "120.00",
+            "valueKeyConfectAlarm": "900.00",
+            "valueKeyAlarm": "500.00"
+          },
+          "2013": {
+            "valueKeyConfect": "500.00",
+            "valueCopyStore": "1300.00",
+            "valueKeyAlarm": "550.00",
+            "valueKeyCopy": "140.00",
+            "valueKeyConfectAlarm": "1000.00"
+          },
+          "2014": {
+            "valueKeyAlarm": "650.00",
+            "valueKeyCopy": "160.00",
+            "valueKeyConfectAlarm": "1100.00",
+            "valueKeyConfect": "600.00",
+            "valueCopyStore": "1500.00"
+          }
+        }
+      },
+      "E-JV CC Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2025": {
+            "valueKeyAlarm": "3000.00",
+            "valueKeyConfectAlarm": "4000.00",
+            "valueKeyCopy": "600.00",
+            "valueKeyConfect": "2800.00",
+            "valueCopyStore": "5000.00"
+          },
+          "32000": {
+            "valueCopyStore": "5500.00",
+            "valueKeyConfect": "3200.00",
+            "valueKeyCopy": "700.00",
+            "valueKeyConfectAlarm": "4500.00",
+            "valueKeyAlarm": "3500.00"
+          }
+        }
+      },
+      "HUNTER HD 4X4 2_PDOT0 CTI Diesel Aut_PDOT": {
+        "Diesel": {
+          "2024": {
+            "valueKeyCopy": "600.00",
+            "valueKeyConfectAlarm": "3900.00",
+            "valueKeyAlarm": "2900.00",
+            "valueCopyStore": "5000.00",
+            "valueKeyConfect": "2700.00"
+          },
+          "2025": {
+            "valueCopyStore": "5300.00",
+            "valueKeyConfect": "2900.00",
+            "valueKeyCopy": "650.00",
+            "valueKeyConfectAlarm": "4100.00",
+            "valueKeyAlarm": "3100.00"
+          },
+          "2026": {
+            "valueKeyConfectAlarm": "4300.00",
+            "valueKeyCopy": "700.00",
+            "valueKeyAlarm": "3300.00",
+            "valueCopyStore": "5600.00",
+            "valueKeyConfect": "3100.00"
+          },
+          "32000": {
+            "valueKeyConfectAlarm": "4600.00",
+            "valueKeyCopy": "750.00",
+            "valueKeyAlarm": "3600.00",
+            "valueCopyStore": "6000.00",
+            "valueKeyConfect": "3300.00"
+          }
+        }
+      },
+      "T50 1_PDOT6 16V 5p Aut_PDOT": {
+        "Gasolina": {
+          "2017": {
+            "valueKeyConfect": "750.00",
+            "valueCopyStore": "1800.00",
+            "valueKeyAlarm": "800.00",
+            "valueKeyCopy": "200.00",
+            "valueKeyConfectAlarm": "1400.00"
+          },
+          "2018": {
+            "valueKeyCopy": "220.00",
+            "valueKeyConfectAlarm": "1500.00",
+            "valueKeyAlarm": "850.00",
+            "valueCopyStore": "1900.00",
+            "valueKeyConfect": "800.00"
+          },
+          "2019": {
+            "valueCopyStore": "2000.00",
+            "valueKeyConfect": "850.00",
+            "valueKeyConfectAlarm": "1600.00",
+            "valueKeyCopy": "250.00",
+            "valueKeyAlarm": "900.00"
+          },
+          "2020": {
+            "valueCopyStore": "2200.00",
+            "valueKeyConfect": "950.00",
+            "valueKeyCopy": "280.00",
+            "valueKeyConfectAlarm": "1800.00",
+            "valueKeyAlarm": "1000.00"
+          },
+          "2021": {
+            "valueKeyConfectAlarm": "2000.00",
+            "valueKeyCopy": "320.00",
+            "valueKeyAlarm": "1200.00",
+            "valueCopyStore": "2500.00",
+            "valueKeyConfect": "1100.00"
+          }
+        }
+      },
+      "iEV 750V 163cv 4p Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2022": {
+            "valueKeyAlarm": "2000.00",
+            "valueKeyConfectAlarm": "3000.00",
+            "valueKeyCopy": "420.00",
+            "valueKeyConfect": "1900.00",
+            "valueCopyStore": "3800.00"
+          }
+        }
+      },
+      "E-JV5_PDOT5 Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2023": {
+            "valueKeyConfectAlarm": "3400.00",
+            "valueKeyCopy": "480.00",
+            "valueKeyAlarm": "2500.00",
+            "valueCopyStore": "4200.00",
+            "valueKeyConfect": "2200.00"
+          },
+          "2025": {
+            "valueKeyCopy": "550.00",
+            "valueKeyConfectAlarm": "3800.00",
+            "valueKeyAlarm": "2900.00",
+            "valueCopyStore": "4800.00",
+            "valueKeyConfect": "2600.00"
+          },
+          "32000": {
+            "valueCopyStore": "5300.00",
+            "valueKeyConfect": "3000.00",
+            "valueKeyCopy": "650.00",
+            "valueKeyConfectAlarm": "4200.00",
+            "valueKeyAlarm": "3300.00"
+          }
+        }
+      },
+      "HUNTER 4WORK 4X4 2_PDOTO CTI Diessel Aut_PDOT": {
+        "Diesel": {
+          "2026": {
+            "valueKeyConfect": "3000.00",
+            "valueCopyStore": "5200.00",
+            "valueKeyAlarm": "3200.00",
+            "valueKeyConfectAlarm": "4300.00",
+            "valueKeyCopy": "650.00"
+          },
+          "32000": {
+            "valueCopyStore": "5500.00",
+            "valueKeyConfect": "3200.00",
+            "valueKeyCopy": "700.00",
+            "valueKeyConfectAlarm": "4600.00",
+            "valueKeyAlarm": "3500.00"
+          }
+        }
+      },
+      "e-JS1 Extreme 62cv 5p Aut_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2022": {
+            "valueKeyAlarm": "1400.00",
+            "valueKeyCopy": "300.00",
+            "valueKeyConfectAlarm": "2000.00",
+            "valueKeyConfect": "1200.00",
+            "valueCopyStore": "2500.00"
+          },
+          "2023": {
+            "valueKeyConfect": "1300.00",
+            "valueCopyStore": "2700.00",
+            "valueKeyAlarm": "1500.00",
+            "valueKeyConfectAlarm": "2100.00",
+            "valueKeyCopy": "320.00"
+          },
+          "2024": {
+            "valueKeyAlarm": "1700.00",
+            "valueKeyCopy": "340.00",
+            "valueKeyConfectAlarm": "2300.00",
+            "valueKeyConfect": "1500.00",
+            "valueCopyStore": "2900.00"
+          },
+          "2025": {
+            "valueCopyStore": "3000.00",
+            "valueKeyConfect": "1600.00",
+            "valueKeyConfectAlarm": "2500.00",
+            "valueKeyCopy": "360.00",
+            "valueKeyAlarm": "1800.00"
+          },
+          "32000": {
+            "valueKeyConfect": "1800.00",
+            "valueCopyStore": "3500.00",
+            "valueKeyAlarm": "2000.00",
+            "valueKeyCopy": "400.00",
+            "valueKeyConfectAlarm": "2900.00"
+          }
+        }
+      },
+      "T40 1_PDOT6 16V 5p Aut_PDOT": {
+        "Gasolina": {
+          "2019": {
+            "valueKeyAlarm": "900.00",
+            "valueKeyCopy": "250.00",
+            "valueKeyConfectAlarm": "1600.00",
+            "valueKeyConfect": "850.00",
+            "valueCopyStore": "2000.00"
+          },
+          "2020": {
+            "valueKeyCopy": "280.00",
+            "valueKeyConfectAlarm": "1800.00",
+            "valueKeyAlarm": "1000.00",
+            "valueCopyStore": "2200.00",
+            "valueKeyConfect": "950.00"
+          }
+        }
+      },
+      "iEV 40 115cv 5p_PDOT (Elétrico)": {
+        "Elétrico": {
+          "2020": {
+            "valueCopyStore": "2300.00",
+            "valueKeyConfect": "1000.00",
+            "valueKeyCopy": "280.00",
+            "valueKeyConfectAlarm": "1800.00",
+            "valueKeyAlarm": "1200.00"
+          },
+          "2021": {
+            "valueCopyStore": "2500.00",
+            "valueKeyConfect": "1100.00",
+            "valueKeyCopy": "300.00",
+            "valueKeyConfectAlarm": "1900.00",
+            "valueKeyAlarm": "1300.00"
+          },
+          "2022": {
+            "valueCopyStore": "2700.00",
+            "valueKeyConfect": "1300.00",
+            "valueKeyCopy": "320.00",
+            "valueKeyConfectAlarm": "2100.00",
+            "valueKeyAlarm": "1500.00"
+          }
+        }
+      },
+      "E-JT3_PDOT5 Aut_PDOT": {
+        "Elétrico": {
+          "2026": {
+            "valueKeyAlarm": "2900.00",
+            "valueKeyConfectAlarm": "3800.00",
+            "valueKeyCopy": "550.00",
+            "valueKeyConfect": "2600.00",
+            "valueCopyStore": "4800.00"
+          },
+          "32000": {
+            "valueKeyConfect": "2800.00",
+            "valueCopyStore": "5000.00",
+            "valueKeyAlarm": "3200.00",
+            "valueKeyConfectAlarm": "4000.00",
+            "valueKeyCopy": "600.00"
+          }
+        }
+      },
+      "J3 turin Sedan Brasil 1_PDOT4 16V 4p Mec_PDOT": {
+        "Gasolina": {
+          "2012": {
+            "valueKeyCopy": "100.00",
+            "valueKeyConfectAlarm": "800.00",
+            "valueKeyAlarm": "450.00",
+            "valueCopyStore": "1100.00",
+            "valueKeyConfect": "400.00"
+          }
+        }
+      },
+      "T5 1_PDOT5 JET Flex 16V 5p Aut_PDOT": {
+        "Flex": {
+          "2017": {
+            "valueCopyStore": "1900.00",
+            "valueKeyConfect": "800.00",
+            "valueKeyCopy": "220.00",
+            "valueKeyConfectAlarm": "1500.00",
+            "valueKeyAlarm": "850.00"
+          },
+          "2018": {
+            "valueKeyAlarm": "900.00",
+            "valueKeyCopy": "250.00",
+            "valueKeyConfectAlarm": "1600.00",
+            "valueKeyConfect": "850.00",
+            "valueCopyStore": "2000.00"
+          },
+          "2019": {
+            "valueKeyAlarm": "1000.00",
+            "valueKeyCopy": "280.00",
+            "valueKeyConfectAlarm": "1800.00",
+            "valueKeyConfect": "950.00",
+            "valueCopyStore": "2200.00"
+          }
+        }
+      },
+      "J5 Sedan 1_PDOT5 16V 4p Mec_PDOT": {
+        "Gasolina": {
+          "2010": {
+            "valueCopyStore": "1100.00",
+            "valueKeyConfect": "400.00",
+            "valueKeyConfectAlarm": "800.00",
+            "valueKeyCopy": "100.00",
+            "valueKeyAlarm": "450.00"
+          },
+          "2011": {
+            "valueKeyCopy": "120.00",
+            "valueKeyConfectAlarm": "900.00",
+            "valueKeyAlarm": "500.00",
+            "valueCopyStore": "1200.00",
+            "valueKeyConfect": "450.00"
+          },
+          "2012": {
+            "valueKeyConfect": "450.00",
+            "valueCopyStore": "1200.00",
+            "valueKeyAlarm": "500.00",
+            "valueKeyCopy": "120.00",
+            "valueKeyConfectAlarm": "900.00"
+          },
+          "2013": {
+            "valueKeyConfect": "500.00",
+            "valueCopyStore": "1300.00",
+            "valueKeyAlarm": "550.00",
+            "valueKeyConfectAlarm": "1000.00",
+            "valueKeyCopy": "140.00"
+          },
+          "2014": {
+            "valueCopyStore": "1500.00",
+            "valueKeyConfect": "600.00",
+            "valueKeyConfectAlarm": "1100.00",
+            "valueKeyCopy": "160.00",
+            "valueKeyAlarm": "650.00"
+          },
+          "2015": {
+            "valueCopyStore": "1700.00",
+            "valueKeyConfect": "650.00",
+            "valueKeyCopy": "180.00",
+            "valueKeyConfectAlarm": "1300.00",
+            "valueKeyAlarm": "700.00"
+          },
+          "2016": {
+            "valueKeyConfect": "750.00",
+            "valueCopyStore": "1800.00",
+            "valueKeyAlarm": "800.00",
+            "videoLink": "https://www.youtube.com/watch?v=T1ZySNAisQY",
+            "valueKeyCopy": "200.00",
+            "valueKeyConfectAlarm": "1400.00"
+          }
+        }
+      },
+      "T80 2_PDOT0 Turbo 16V 5p Aut_PDOT": {
+        "Gasolina": {
+          "2018": {
+            "valueKeyConfectAlarm": "1600.00",
+            "valueKeyCopy": "250.00",
+            "valueKeyAlarm": "900.00",
+            "valueCopyStore": "2000.00",
+            "valueKeyConfect": "850.00"
+          },
+          "2019": {
+            "valueKeyAlarm": "1000.00",
+            "valueKeyCopy": "280.00",
+            "valueKeyConfectAlarm": "1800.00",
+            "valueKeyConfect": "950.00",
+            "valueCopyStore": "2200.00"
+          },
+          "2020": {
+            "valueKeyConfect": "1100.00",
+            "valueCopyStore": "2500.00",
+            "valueKeyAlarm": "1200.00",
+            "valueKeyCopy": "320.00",
+            "valueKeyConfectAlarm": "2000.00"
+          }
+        }
+      },
+      "T40 1_PDOT5 JET Flex 16V 5p Mec_PDOT": {
+        "Flex": {
+          "2018": {
+            "valueCopyStore": "1800.00",
+            "valueKeyConfect": "750.00",
+            "valueKeyCopy": "200.00",
+            "valueKeyConfectAlarm": "1400.00",
+            "valueKeyAlarm": "800.00"
+          },
+          "2019": {
+            "valueCopyStore": "1900.00",
+            "valueKeyConfect": "800.00",
+            "valueKeyConfectAlarm": "1500.00",
+            "valueKeyCopy": "220.00",
+            "valueKeyAlarm": "850.00"
+          },
+          "2020": {
+            "valueKeyAlarm": "900.00",
+            "valueKeyCopy": "250.00",
+            "valueKeyConfectAlarm": "1600.00",
+            "valueKeyConfect": "850.00",
+            "valueCopyStore": "2000.00"
+          }
+        }
+      },
+      "HUNTER HDX 4X4 2_PDOT0 CTI Diesel Aut_PDOT": {
+        "Diesel": {
+          "2026": {
+            "valueCopyStore": "5900.00",
+            "valueKeyConfect": "3300.00",
+            "valueKeyConfectAlarm": "4500.00",
+            "valueKeyCopy": "750.00",
+            "valueKeyAlarm": "3500.00"
+          },
+          "32000": {
+            "valueCopyStore": "6200.00",
+            "valueKeyConfect": "3500.00",
+            "valueKeyCopy": "800.00",
+            "valueKeyConfectAlarm": "4800.00",
+            "valueKeyAlarm": "3800.00"
+          }
+        }
+      }
+    }
+  ]
+}

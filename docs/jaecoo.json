@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "7 Elite 1_PDOT5 TB 16v Aut 5p (Híbrido)": {
+        "Híbrido": {
+          "2027": {
+            "valueCopyStore": "4300.00",
+            "valueKeyConfect": "2200.00",
+            "valueKeyCopy": "650.00",
+            "valueKeyConfectAlarm": "3600.00",
+            "valueKeyAlarm": "2400.00"
+          },
+          "32000": {
+            "valueKeyAlarm": "2600.00",
+            "valueKeyConfectAlarm": "3900.00",
+            "valueKeyCopy": "700.00",
+            "valueKeyConfect": "2400.00",
+            "valueCopyStore": "4700.00"
+          }
+        }
+      },
+      "7 Prestige1_PDOT5 TB 16v Aut  (Híbrido)": {
+        "Híbrido": {
+          "2026": {
+            "valueCopyStore": "4900.00",
+            "valueKeyConfect": "2500.00",
+            "valueKeyConfectAlarm": "4100.00",
+            "valueKeyCopy": "750.00",
+            "valueKeyAlarm": "2700.00"
+          },
+          "32000": {
+            "valueKeyCopy": "800.00",
+            "valueKeyConfectAlarm": "4400.00",
+            "valueKeyAlarm": "2900.00",
+            "valueCopyStore": "5300.00",
+            "valueKeyConfect": "2700.00"
+          }
+        }
+      },
+      "7 Luxury 1_PDOT5 TB 16v Aut 5p (Híbrido)": {
+        "Híbrido": {
+          "2026": {
+            "valueKeyConfect": "2400.00",
+            "valueCopyStore": "4700.00",
+            "valueKeyAlarm": "2600.00",
+            "valueKeyCopy": "700.00",
+            "valueKeyConfectAlarm": "3900.00"
+          },
+          "32000": {
+            "valueCopyStore": "5000.00",
+            "valueKeyConfect": "2600.00",
+            "valueKeyConfectAlarm": "4200.00",
+            "valueKeyCopy": "750.00",
+            "valueKeyAlarm": "2800.00"
+          }
+        }
+      }
+    }
+  ]
+}
