@@ -105,7 +105,9 @@ def normalize_model(value: str) -> str:
 
 
 def is_construction_or_year(key: str) -> bool:
-    if re.fullmatch(r"\d{4}", key.strip()):
+    # ⚠️ "32000" também é ano (0 KM) — sem isto seria lido como o NOME de um
+    # combustível, e o nó inteiro viraria "chave inválida".
+    if re.fullmatch(r"\d{4}|32000", key.strip()):
         return True
     return normalize_fuel(key) in CONSTRUCTION_KEYS
 
@@ -212,6 +214,18 @@ def resolve_fuel_key(keys: list[str], requested: str, model: str | None = None) 
     return None
 
 
+# ⚠️ "32000" É ANO VÁLIDO — significa 0 KM.
+#
+# A base usa esse marcador há muito tempo, e o app o traduz na tela:
+# fipe_table_page.dart:75 e fipe_app_card.dart:131 fazem
+# .replaceAll('32000', '0 KM'). São ~25 mil ocorrências.
+#
+# A auditoria exigia 4 dígitos e reprovava todas — ou seja, NUNCA passaria,
+# nem antes do agente existir. Foi o que derrubou a primeira execução do
+# workflow em 25/09/2026, com o PR corretamente não sendo aberto.
+ANO_VALIDO = re.compile(r"\d{4}|32000")
+
+
 def validate_structure(root: dict) -> list[str]:
     issues = []
     for model, node in root.items():
@@ -228,7 +242,7 @@ def validate_structure(root: dict) -> list[str]:
                 issues.append(f"  modelo '{model}'/'{fuel}': anos não é objeto")
                 continue
             for year, data in years.items():
-                if not re.fullmatch(r"\d{4}", str(year).strip()):
+                if not ANO_VALIDO.fullmatch(str(year).strip()):
                     issues.append(
                         f"  modelo '{model}'/'{fuel}': ano inválido '{year}'"
                     )
@@ -267,7 +281,7 @@ def audit_file(path: Path) -> dict:
             resolved_model = resolve_model_key(list(root.keys()), model)
             resolved_fuel = resolve_fuel_key(fuel_keys, fuel, resolved_model)
             for year in years:
-                if not re.fullmatch(r"\d{4}", str(year).strip()):
+                if not ANO_VALIDO.fullmatch(str(year).strip()):
                     continue
                 if resolved_model and resolved_fuel:
                     lookup_ok += 1

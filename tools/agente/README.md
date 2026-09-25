@@ -409,3 +409,55 @@ andamos no mês" sem instrumentação extra.
 (não do `main`) justamente por isso: enquanto o PR espera revisão, o
 progresso se acumula nele. Partindo do `main`, o agente reprocessaria os
 mesmos veículos todo dia até o merge.
+
+---
+
+## 🔴 25/09/2026 — a primeira execução no GitHub, e o que ela revelou
+
+O workflow rodou. Resultado:
+
+    ✅ checkout · retomar · setup · relatório · coletar · resumo
+    ❌ Auditar (simula o app)
+    ⏭️ Abrir PR            <- corretamente NÃO aberto
+
+**O portão funcionou como projetado.** A coleta aconteceu, a auditoria
+reprovou, e nada chegou à base. A branch `agente/preenchimento-automatico`
+nem foi criada.
+
+### Mas a reprovação era um falso positivo
+
+O auditor exigia que todo ano fosse `d{4}`. A base usa **`"32000"` como
+marcador de 0 KM** — convenção antiga, que o próprio app traduz:
+
+    fipe_table_page.dart:75   .replaceAll('32000', '0 KM')
+    fipe_app_card.dart:131    .replaceAll('32000', '0 KM')
+
+São ~25 mil ocorrências. Ou seja: **o auditor nunca teria passado**, nem antes
+de o agente existir. Medido no commit anterior (`4bbd477`): 26.367
+problemas.
+
+⚠️ Isso diz algo sobre o `fipe_audit.py`: ele estava no repositório mas
+aparentemente nunca havia sido rodado contra a base inteira. Pô-lo como portão
+do workflow foi o que o exercitou pela primeira vez.
+
+- [x] `ANO_VALIDO` aceita `d{4}|32000`, nos três pontos de checagem
+
+### O que sobra é real: 1.727 nós no formato antigo
+
+Depois da correção, ainda restam problemas — e esses **não** são falso
+positivo:
+
+    audi.json    | A8 6.0 W12       | ano inválido: "Gasolina"
+    chev2.json   | malibu           | combustível inválido: "laminasKeys"
+
+É a lacuna estrutural já medida: em 16 marcas, o nível que deveria ser
+combustível guarda nome de campo. O runner já pula esses nós ao coletar, mas
+o auditor os vê e reprova.
+
+**Enquanto isso não for convertido, o portão barra todo PR.**
+
+- [ ] Converter os 1.727 nós para o formato atual (transformação de dados,
+      não coleta — o modelo e o ano estão lá; falta inferir o combustível)
+- [ ] Enquanto isso: o passo de auditoria compara com o **estado anterior** e
+      só reprova se o agente PIOROU a estrutura. Reprovar por defeito herdado
+      impede o agente de trabalhar sem proteger nada

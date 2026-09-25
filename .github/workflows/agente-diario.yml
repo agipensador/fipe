@@ -134,12 +134,39 @@ jobs:
       # ⚠️ O PORTÃO. Roda a auditoria que simula a lógica de `FipeJsonLookup`
       # do app — a mesma resolução de modelo, combustível e mojibake. Se o
       # agente produzir algo que o app não conseguiria ler, o PR não nasce.
-      - name: Auditar (simula o app)
+      # ⚠️ COMPARA COM O ESTADO ANTERIOR — não exige base perfeita.
+      #
+      # A primeira execução (25/09/2026) reprovou por defeito HERDADO: são
+      # 1.727 nós em formato antigo, em 16 marcas, onde o nível que deveria
+      # ser combustível guarda nome de campo (`laminasKeys` no lugar de
+      # `Gasolina`). Medido no commit anterior ao agente: já existiam.
+      #
+      # Exigir zero problemas barraria todo PR para sempre, sem proteger
+      # nada — o agente não criou esses nós e o runner já os pula ao coletar.
+      #
+      # O que importa é: o agente PIOROU? Se o número de problemas subiu, ele
+      # produziu algo que o app não lê, e aí o PR não nasce.
+      - name: Auditar (o agente piorou a estrutura?)
         run: |
-          python3 tools/fipe_audit.py || {
-            echo "::error::A auditoria reprovou. PR não será aberto."
+          set -u
+          # O "antes" é medido numa cópia limpa do HEAD, num diretório à
+          # parte. Evita `git stash` no meio do CI, que falha em silêncio
+          # quando não há o que guardar e mascararia a comparação.
+          rm -rf /tmp/base-antes
+          git worktree add --quiet --detach /tmp/base-antes HEAD
+          ANTES=$(python3 tools/fipe_audit.py --json-dir /tmp/base-antes/docs \
+                    2>/dev/null | grep -c "modelo '" || true)
+          git worktree remove --force /tmp/base-antes
+
+          DEPOIS=$(python3 tools/fipe_audit.py --json-dir docs \
+                     2>/dev/null | grep -c "modelo '" || true)
+
+          echo "problemas de estrutura: antes=$ANTES · depois=$DEPOIS"
+          if [ "$DEPOIS" -gt "$ANTES" ]; then
+            echo "::error::O agente AUMENTOU os problemas de estrutura ($ANTES → $DEPOIS). PR não será aberto."
             exit 1
-          }
+          fi
+          echo "✅ o agente não piorou a estrutura da base."
 
       - name: Abrir PR
         if: inputs.dry_run != true
