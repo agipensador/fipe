@@ -432,8 +432,8 @@
           }
         }
       },
-      "Ã\u008B-Jumpy Cargo 136cv (ElÃ©trico)": {
-        "ElÃ©trico": {
+      "Ã-Jumpy Cargo 136cv (ElÃ©trico)": {
+        "Elétrico": {
           "2022": {
             "valueKeyCopy": "",
             "valueKeyAlarm": "",
@@ -571,15 +571,16 @@
             "valueKeyConfect": "",
             "valueKeyConfectAlarm": "",
             "valueCopyStore": ""
-
           },
-          "1996": {            "valueKeyCopy": "",
+          "1996": {
+            "valueKeyCopy": "",
             "valueKeyAlarm": "",
             "valueKeyConfect": "",
             "valueKeyConfectAlarm": "",
             "valueCopyStore": ""
           },
-          "1997": {            "valueKeyCopy": "",
+          "1997": {
+            "valueKeyCopy": "",
             "valueKeyAlarm": "",
             "valueKeyConfect": "",
             "valueKeyConfectAlarm": "",
@@ -923,7 +924,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           }
         }
       },
@@ -1023,7 +1023,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           }
         }
       },
@@ -1104,7 +1103,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           }
         }
       },
@@ -1646,7 +1644,8 @@
             "valueKeyConfectAlarm": "",
             "valueCopyStore": ""
           },
-          "1998": {            "valueKeyCopy": "",
+          "1998": {
+            "valueKeyCopy": "",
             "valueKeyAlarm": "",
             "valueKeyConfect": "",
             "valueKeyConfectAlarm": "",
@@ -1813,7 +1812,8 @@
       },
       "Jumper 2_PDOT8 FurgÃ£o 35C Diesel": {
         "Diesel": {
-          "2000": {            "valueKeyCopy": "",
+          "2000": {
+            "valueKeyCopy": "",
             "valueKeyAlarm": "",
             "valueKeyConfect": "",
             "valueKeyConfectAlarm": "",
@@ -1823,7 +1823,8 @@
       },
       "Jumper 2_PDOT8 FurgÃ£o 35MH Diesel": {
         "Diesel": {
-          "2000": {            "valueKeyCopy": "",
+          "2000": {
+            "valueKeyCopy": "",
             "valueKeyAlarm": "",
             "valueKeyConfect": "",
             "valueKeyConfectAlarm": "",
@@ -1893,7 +1894,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           },
           "2023": {
             "valueKeyCopy": "",
@@ -1913,7 +1913,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           },
           "2024": {
             "valueKeyCopy": "",
@@ -1933,7 +1932,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           },
           "2025": {
             "valueKeyCopy": "",
@@ -1953,7 +1951,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           },
           "32000": {
             "valueKeyCopy": "",
@@ -1973,7 +1970,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           }
         }
       },
@@ -1997,7 +1993,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           },
           "2023": {
             "valueKeyCopy": "",
@@ -2017,7 +2012,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           },
           "2024": {
             "valueKeyCopy": "",
@@ -2037,7 +2031,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           },
           "2025": {
             "valueKeyCopy": "",
@@ -2057,7 +2050,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           },
           "32000": {
             "valueKeyCopy": "",
@@ -2077,7 +2069,6 @@
             "telecomandoBatery": "CR2032",
             "maquinasCodificadoras": "Fácil\nOBD Star X300\nX100 Pad",
             "videoLink": "https://www.youtube.com/watch?v=yK-6_0VxZbM&t=93s&pp=ygUXY2xvbmUgY2hhdmUganVtcGVyIDIwMjI%3D"
-
           }
         }
       },
@@ -2538,7 +2529,7 @@
           }
         }
       },
-      "Jumpy VITRÃ\u0089 1_PDOT6 Turbo Diesel": {
+      "Jumpy VITRÃ 1_PDOT6 Turbo Diesel": {
         "Diesel": {
           "2021": {
             "valueKeyCopy": "",
