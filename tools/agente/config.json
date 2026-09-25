@@ -1,0 +1,217 @@
+{
+  "_comentario": [
+    "Configuração do agente de preenchimento da base FIPE.",
+    "Os valores abaixo foram MEDIDOS sobre os 35 arquivos de docs/ em",
+    "10/09/2026 (3163 registros completos das marcas com cobertura 100%).",
+    "Não são estimativas — ver docs/AGENTE_ESPECIFICACAO.md no repo do app."
+  ],
+  "escopo": {
+    "_nota": "Preço E dado técnico são ambos prioritários (decisão de 15/09/2026).",
+    "campos_preco": [
+      "valueKeyCopy",
+      "valueKeyAlarm",
+      "valueKeyConfect",
+      "valueKeyConfectAlarm",
+      "valueCopyStore"
+    ],
+    "_campos_nota": [
+      "Espelha o formulário do site (22 campos), levantado em 22/09/2026 de",
+      "add_modelos_auto_screen.dart. O agente busca 21; só laminaPalhetas",
+      "fica de fora.",
+      "⚠️ Campo novo no formulário do site entra AQUI também, senão vira",
+      "lacuna silenciosa: o chaveiro preenche e o agente nunca busca."
+    ],
+    "campos_tecnicos": [
+      "laminasKeys",
+      "laminaTextDica",
+      "laminaPinCode",
+      "keyLaminaTypeGold",
+      "transponderClone",
+      "transponderCodigo",
+      "transponderNomenclatura",
+      "telecomandoFrequency",
+      "telecomandoBatery",
+      "telecomandoProcedure",
+      "telecomandoBrands",
+      "maquinasCodificadoras",
+      "valueDataKeyChip",
+      "videoLink",
+      "transponderImage",
+      "telecomandoImage"
+    ],
+    "_fora_do_agente_nota": [
+      "Sobrou UM. laminaPalhetas é mapa {ignicao,porta,portamalas} com 8 booleanos",
+      "cada — leitura FÍSICA da chave na bancada. Não existe publicado, e inventar",
+      "produz chave que não abre. Candidato natural ao preenchimento pelos",
+      "CHAVEIROS no app, com a votação que já existe.",
+      "",
+      "⚠️ transponderImage/telecomandoImage SAÍRAM desta lista em 22/09/2026.",
+      "Buscar por CÓDIGO DE PEÇA funciona (medido): \"transponder PCF7936AA foto\"",
+      "devolveu chip-t19.jpg e grot-vac102-typ1.jpg, ambas verificadas com HTTP",
+      "200 e content-type image/jpeg. O defeito estava na chave de busca (veículo),",
+      "não na busca."
+    ],
+    "campos_fora_do_agente": [
+      "laminaPalhetas"
+    ]
+  },
+  "precos": {
+    "_nota": [
+      "Praça NACIONAL (decisão de 15/09/2026).",
+      "valueCopyStore = o que a CONCESSIONÁRIA cobra — por isso é o maior de",
+      "todos e NÃO deve ser comparado com preço de chaveiro."
+    ],
+    "praca": "nacional",
+    "_faixa_nota": [
+      "⚠️ FAIXA ABSOLUTA É LARGA DE PROPÓSITO — recalibrada em 15/09/2026.",
+      "A primeira versão usava mediana 550 com fator 5x e reprovava 28,6%",
+      "da própria base: dado LEGÍTIMO. A distribuição real de valueKeyCopy",
+      "vai de R$20 (Audi A6 1995) a R$125.000 (Rolls-Royce), porque a base",
+      "cobre de carro popular antigo a superesportivo. Faixa estreita",
+      "descartaria justamente os extremos verdadeiros."
+    ],
+    "faixa_absoluta": {
+      "min": 20,
+      "max": 130000
+    },
+    "_razao_nota": [
+      "A RAZÃO entre campos é o filtro forte — medida sobre 5023 registros:",
+      "confec/copy tem mediana 2,27 e fica entre 2,0 e 5,0 em 98% dos casos.",
+      "Ela é estável onde o valor absoluto não é: uma chave de Rolls e uma de",
+      "Gol têm preços 100x diferentes, mas a MESMA proporção entre serviços.",
+      "É isso que pega o erro clássico do agente — capturar o preço do CARRO",
+      "em vez do preço da chave."
+    ],
+    "razao_confec_copy": {
+      "min": 0.5,
+      "max": 8
+    },
+    "_ordem_nota": "100% dos registros completos respeitam esta ordem.",
+    "ordem_obrigatoria": [
+      "valueKeyCopy",
+      "valueKeyAlarm",
+      "valueKeyConfectAlarm"
+    ],
+    "_progressao_nota": [
+      "⚠️ ISTO É O QUE TORNA O AGENTE VIÁVEL.",
+      "Medido sobre 1997 pares de anos consecutivos (audi, bmw, renault,",
+      "jac): o preço sobe em mediana +7,7% ao ano, e 79% dos pares ficam",
+      "entre 0% e +15%. A progressão é previsível.",
+      "Sem isto seriam 117 mil consultas (~8 anos a 40/dia). Consultando UM",
+      "ano por modelo e derivando os demais, caem para ~2 mil (~50 dias).",
+      "O valor derivado é marcado com _derivadoDe e NÃO substitui dado",
+      "coletado nem existente — é ponto de partida, não verdade.",
+      "",
+      "⚠️ LIMITE DE 2 ANOS, medido contra a base real (n=3500 comparações):",
+      "  1 ano  → erro mediano 3,9% | 94% dentro de ±15%",
+      "  2 anos → erro mediano 6,4% | 85% dentro de ±15%",
+      "  3 anos → erro mediano 8,3% | 74% dentro de ±15%  ← degrada demais",
+      "A 3 anos, 1 em cada 4 estimativas erra mais de 15% — para um preço que",
+      "o chaveiro usa em orçamento, isso é erro que custa dinheiro a ele."
+    ],
+    "progressao_anual": 1.077,
+    "derivar_anos_vizinhos": true,
+    "max_anos_derivados": 2,
+    "_derivar_so_preco": [
+      "⚠️ DERIVAÇÃO VALE SÓ PARA PREÇO.",
+      "Preço varia em rampa (inflação), então estimar o vizinho tem",
+      "significado. Dado técnico varia em DEGRAU: a lâmina ou é a mesma ou é",
+      "outra — não existe 'lâmina 7,7% maior'. Derivar lâmina, transponder ou",
+      "frequência produziria um valor que não corresponde a peça nenhuma."
+    ],
+    "campos_derivaveis": [
+      "valueKeyCopy",
+      "valueKeyAlarm",
+      "valueKeyConfect",
+      "valueKeyConfectAlarm",
+      "valueCopyStore"
+    ]
+  },
+  "confianca": {
+    "_nota": "Campo ausente é melhor que campo errado — o app trata ausência, não trata erro.",
+    "_limiar_nota": [
+      "⚠️ BAIXADO DE 2 PARA 1 em 22/09/2026 — decisão de produto: o agente",
+      "decide sozinho.",
+      "",
+      "O motivo veio da primeira execução real. O MESMO veículo (Jaecoo 7",
+      "Prestige) recebeu transponderNomenclatura direto no ano 32000 e teve o",
+      "campo barrado em 2026 — só muda o ano-modelo, e a diferença foi quantas",
+      "fontes a busca citou em cada consulta. Dos 24 campos que ficaram em",
+      "revisão, 12 eram dado técnico legítimo (ID 47, 433 MHz, iGOLD).",
+      "",
+      "O limiar de 2 penalizava justamente marca nova e de pouca cobertura web",
+      "— chinesas, importadas — que são as que mais precisam do agente, porque",
+      "o chaveiro não acha nada sobre elas em lugar nenhum.",
+      "",
+      "⚠️ O QUE SEGURA O ERRO NÃO É ESTE NÚMERO. São as regras de validação:",
+      "ordem cópia≤alarme≤confec+alarme, razão confec/copy entre 0,5 e 8,0,",
+      "verificação de existência de vídeo e imagem, e descarte total quando não",
+      "houve grounding. Essas continuam valendo e reprovam 0,40% da base.",
+      "",
+      "A correção futura do preço virá da COMUNIDADE — ver",
+      "docs/AGENTE_PROXIMOS_PASSOS.md, seção da correção colaborativa."
+    ],
+    "min_fontes_para_auto": 1,
+    "divergencia_maxima": 0.15
+  },
+  "execucao": {
+    "_nota": [
+      "NUNCA sobrescreve valor existente (decisão de 15/09/2026:",
+      "'somente o que falta'). Agrupar por modelo economiza cota: lâmina e",
+      "transponder não variam por ano, só o preço varia."
+    ],
+    "sobrescrever_existente": false,
+    "_cota_nota": [
+      "50 veículos/dia (decisão de 15/09/2026).",
+      "",
+      "⚠️ A UNIDADE É O ANO, NÃO O MODELO (correção de 17/09/2026).",
+      "Uma versão anterior agrupava por modelo para economizar consultas.",
+      "Está errado: o Fiat Palio usa 'Gold 761; Silca GT15' de 1996 a 2002 e",
+      "'Gold 761ou834; Silca GT15ouSIP22' de 2003 a 2017 — medido no",
+      "fiat2.json. Agrupar gravaria a lâmina errada em 7 ou 15 anos de uma",
+      "vez, e lâmina errada faz cortar a chave errada.",
+      "",
+      "97% dos anos consecutivos têm o mesmo valor técnico, o que sugere que",
+      "agrupar seria seguro. Não é: a mudança se concentra na troca de",
+      "geração, e é lá que o erro custa caro. A média esconde a exceção.",
+      "",
+      "Volume real: 14.644 consultas. A 50/dia, ~290 dias."
+    ],
+    "cota_diaria_cse": 100,
+    "veiculos_por_execucao": 50,
+    "ano_referencia": "ano-modelo",
+    "_sem_revisao_nota": [
+      "⚠️ NÃO HÁ REVISÃO AUTOMÁTICA DE PREÇO. Decisão de 23/09/2026.",
+      "",
+      "Uma versão anterior escalonava recoleta por idade do veículo (1/2/4 anos).",
+      "Foi REMOVIDA: o preço que já existe é o preço real, e fica como está.",
+      "O agente preenche o que FALTA e nunca mexe no que há.",
+      "",
+      "A atualização virá dos CHAVEIROS, numa versão futura do app — quem está",
+      "na bancada sabe o preço melhor que qualquer busca. Ver a seção de correção",
+      "colaborativa em docs/AGENTE_PROXIMOS_PASSOS.md (repo do app).",
+      "",
+      "Isso devolve 100% da capacidade ao preenchimento, que é o gargalo real:",
+      "65,7% dos registros não têm preço nenhum."
+    ]
+  },
+  "prioridade_marcas": {
+    "_nota": [
+      "Ordem de ataque. Medida em 10/09/2026: total de anos sem preço.",
+      "VW lidera com 28.502 combinações e ZERO preços."
+    ],
+    "ordem": [
+      "volkswagen",
+      "fiat2",
+      "fiat",
+      "toyota",
+      "nissan",
+      "mitsubishi",
+      "hyundai",
+      "peugeot",
+      "honda",
+      "chevrolet",
+      "jaecoo"
+    ]
+  }
+}

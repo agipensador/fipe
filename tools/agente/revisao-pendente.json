@@ -1,0 +1,68 @@
+[
+  {
+    "marca": "jaecoo",
+    "modelo": "7 Elite 1_PDOT5 TB 16v Aut 5p (Híbrido)",
+    "ano": "2027",
+    "campos": {
+      "transponderImage": "https://mbtecnologiaautomotiva.cdn.magazord.com.br/img/2025/04/produto/267/01-chip-transponder-honda-a-pcf-7938-xa-id-47-original.jpeg",
+      "telecomandoImage": "https://ae-pic-a1.aliexpress-media.com/kf/Sb0680617ffc040efad140d65a7f3b153E.jpg"
+    }
+  },
+  {
+    "marca": "jaecoo",
+    "modelo": "7 Elite 1_PDOT5 TB 16v Aut 5p (Híbrido)",
+    "ano": "32000",
+    "campos": {
+      "telecomandoProcedure": "Programação de chave Smart Key via diagnóstico/OBD (permitindo apagar chaves, adicionar chave nova e adicionar chave antiga) utilizando a senha obtida na concessionária.",
+      "maquinasCodificadoras": "IGOLD",
+      "videoLink": "https://www.youtube.com/watch?v=qB_SndMOSDg",
+      "transponderImage": "https://mbtecnologiaautomotiva.cdn.magazord.com.br/img/2025/04/produto/267/01-chip-transponder-honda-a-pcf-7938-xa-id-47-original.jpeg",
+      "telecomandoImage": "https://ae-pic-a1.aliexpress-media.com/kf/Sacd3a199364f4ed9a07ed79fe00c5ca6L.jpg_480x480q75.jpg"
+    }
+  },
+  {
+    "marca": "jaecoo",
+    "modelo": "7 Prestige1_PDOT5 TB 16v Aut  (Híbrido)",
+    "ano": "2026",
+    "campos": {
+      "laminaPinCode": "SIM",
+      "transponderClone": "Não encontrado procedimento de clonagem direta (a gravação é via diagnósticos Smart Key).",
+      "transponderNomenclatura": "ID 47",
+      "transponderCodigo": "ID 47",
+      "telecomandoFrequency": "433 MHz",
+      "telecomandoProcedure": "Programação via porta de diagnóstico (OBD) no sistema Smart Key. O procedimento permite adicionar chave nova, adicionar chave antiga ou apagar chaves cadastradas, exigindo a inserção da senha fornecida pela concessionária.",
+      "maquinasCodificadoras": "iGOLD",
+      "transponderImage": "https://mbtecnologiaautomotiva.cdn.magazord.com.br/img/2025/04/produto/267/01-chip-transponder-honda-a-pcf-7938-xa-id-47-original.jpeg",
+      "telecomandoImage": "https://ae-pic-a1.aliexpress-media.com/kf/Sb0680617ffc040efad140d65a7f3b153E.jpg"
+    }
+  },
+  {
+    "marca": "jaecoo",
+    "modelo": "7 Prestige1_PDOT5 TB 16v Aut  (Híbrido)",
+    "ano": "32000",
+    "campos": {
+      "valueKeyAlarm": "1000",
+      "maquinasCodificadoras": "IGOLD",
+      "transponderImage": "https://abkeys.com/cdn/shop/products/3722_main2-Genuine-Honda-Transponder-Key-HITAG3-PCF7938XA-HON66-ABKEYS.COM.jpg",
+      "telecomandoImage": "https://keyshop-online.com/cdn/shop/files/HyundaiID47PCF7938XA_1200x.jpg"
+    }
+  },
+  {
+    "marca": "jaecoo",
+    "modelo": "7 Luxury 1_PDOT5 TB 16v Aut 5p (Híbrido)",
+    "ano": "2026",
+    "campos": {
+      "transponderImage": "https://mbtecnologiaautomotiva.cdn.magazord.com.br/img/2025/04/produto/267/01-chip-transponder-honda-a-pcf-7938-xa-id-47-original.jpeg",
+      "telecomandoImage": "https://ae-pic-a1.aliexpress-media.com/kf/Sb0680617ffc040efad140d65a7f3b153E.jpg"
+    }
+  },
+  {
+    "marca": "jaecoo",
+    "modelo": "7 Luxury 1_PDOT5 TB 16v Aut 5p (Híbrido)",
+    "ano": "32000",
+    "campos": {
+      "transponderImage": "https://a-static.mlcdn.com.br/420x420/crossborder/appmockups/000000000/44bf42b43bbbb2d8107e43f84000ab67.jpg",
+      "telecomandoImage": "https://mbtecnologiaautomotiva.cdn.magazord.com.br/img/2025/04/produto/267/01-chip-transponder-honda-a-pcf-7938-xa-id-47-original.jpeg"
+    }
+  }
+]

@@ -1,0 +1,181 @@
+# Agente de preenchimento da base FIPE — execução diária.
+#
+# ─────────────────────────────────────────────────────────────────────────────
+# ⚠️ ABRE PULL REQUEST, NUNCA COMMITA NO `main`
+#
+# O app lê estes JSONs direto do raw.githubusercontent.com, **a cada
+# consulta e sem cache**. Um erro publicado aqui chega aos 10 mil usuários em
+# segundos, e não há rollback por versão do app — não adianta publicar
+# correção na Play, porque o dado não vem do binário.
+#
+# O PR é o único ponto onde um erro em escala ainda é reversível. Por isso a
+# automação vai até onde o erro é desfazível, e a última palavra é de uma
+# pessoa. Mesmo princípio do `_DESTINO` da esteira do app: a automação entrega
+# pronto e parado.
+#
+# ─────────────────────────────────────────────────────────────────────────────
+# SEGREDOS NECESSÁRIOS (Settings → Secrets and variables → Actions)
+#
+#   AUTOFILL_URL          https://southamerica-east1-app-do-chaveiro
+#                         .cloudfunctions.net/catalogAutoFillHints
+#   AGENTE_EMAIL          agente-catalogo@inforizz.com
+#   AGENTE_SENHA          a senha desse usuário
+#   FIREBASE_WEB_API_KEY  Console → Configurações do projeto → Chave da Web
+#
+# ⚠️ São e-mail+senha, não um token pronto: ID token do Firebase expira em 1
+# hora. Um token fixo funcionaria hoje e falharia amanhã, em silêncio — o pior
+# modo de falhar para algo que roda sozinho às 6 da manhã.
+#
+# Sem eles o agente sai com aviso e código 0 — não falha o workflow, porque
+# configuração ausente não é defeito do código.
+
+name: Agente FIPE (diário)
+
+on:
+  schedule:
+    # 09:00 UTC = 06:00 em Brasília. Roda antes do expediente, então o PR já
+    # está esperando quando alguém abre o repositório.
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Só simular (não grava)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  preencher:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Precisa do histórico para conseguir trocar de branch abaixo.
+          fetch-depth: 0
+
+      # ⚠️ PARTE DA BRANCH DO AGENTE, NÃO DO `main`.
+      #
+      # O PR fica aberto esperando revisão humana. Se o agente partisse do
+      # `main` todo dia, o `estado.json` só avançaria no merge — e enquanto o
+      # PR esperasse 5 dias, ele reprocessaria os MESMOS veículos 5 vezes,
+      # gastando 250 consultas para não avançar nada.
+      #
+      # Partindo da própria branch, o progresso se acumula no PR e o merge
+      # traz tudo de uma vez.
+      - name: Retomar de onde o agente parou
+        run: |
+          if git ls-remote --exit-code --heads origin \
+               agente/preenchimento-automatico >/dev/null 2>&1; then
+            git checkout agente/preenchimento-automatico
+            echo "retomando da branch do agente"
+          else
+            echo "primeira execução — partindo do main"
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: O que falta hoje
+        run: node tools/agente/agente.mjs --relatorio
+
+      - name: Coletar e preencher
+        env:
+          AUTOFILL_URL: ${{ secrets.AUTOFILL_URL }}
+          # O agente troca e-mail+senha por um ID token a cada execução: token
+          # do Firebase expira em 1 hora, então guardar um pronto falharia no
+          # dia seguinte, em silêncio. Ver tools/agente/CLAIM.md.
+          AGENTE_EMAIL: ${{ secrets.AGENTE_EMAIL }}
+          AGENTE_SENHA: ${{ secrets.AGENTE_SENHA }}
+          FIREBASE_WEB_API_KEY: ${{ secrets.FIREBASE_WEB_API_KEY }}
+        run: |
+          if [ -z "$AUTOFILL_URL" ]; then
+            echo "::warning::AUTOFILL_URL não configurada — nada a fazer."
+            exit 0
+          fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node tools/agente/agente.mjs --dry-run
+          else
+            node tools/agente/agente.mjs --executar
+          fi
+
+      # ⚠️ O PAINEL. Sai na aba Actions, sem precisar abrir log nenhum.
+      #
+      # É o que responde "está funcionando?" num relance. Sem isto, saber se
+      # o agente avançou exigiria ler a saída inteira da execução — e o que
+      # dá trabalho de conferir não é conferido.
+      - name: Resumo da execução
+        if: always()
+        run: |
+          {
+            echo "## Agente FIPE — $(date -u '+%d/%m/%Y %H:%M UTC')"
+            echo ""
+            if [ -f tools/agente/estado.json ]; then
+              echo '```json'
+              cat tools/agente/estado.json
+              echo '```'
+            else
+              echo "⚠️ Sem \`estado.json\` — o agente não chegou a gravar."
+            fi
+            echo ""
+            if [ -f tools/agente/ultimo-relatorio.md ]; then
+              cat tools/agente/ultimo-relatorio.md
+            fi
+            echo ""
+            echo "### O que ainda falta"
+            echo '```'
+            node tools/agente/agente.mjs --relatorio 2>&1 | tail -20
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # ⚠️ O PORTÃO. Roda a auditoria que simula a lógica de `FipeJsonLookup`
+      # do app — a mesma resolução de modelo, combustível e mojibake. Se o
+      # agente produzir algo que o app não conseguiria ler, o PR não nasce.
+      - name: Auditar (simula o app)
+        run: |
+          python3 tools/fipe_audit.py || {
+            echo "::error::A auditoria reprovou. PR não será aberto."
+            exit 1
+          }
+
+      - name: Abrir PR
+        if: inputs.dry_run != true
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: agente/preenchimento-automatico
+          # Um PR só, atualizado a cada dia, em vez de um por execução —
+          # senão viram 365 PRs por ano e ninguém revisa nenhum.
+          title: 'Agente: preenchimento automático da base'
+          commit-message: 'dados: preenchimento automático do agente'
+          # ⚠️ O `estado.json` PRECISA entrar no commit.
+          #
+          # É o checkpoint: sem ele, cada execução recomeçaria do primeiro
+          # veículo da primeira marca, gastando a cota inteira reprocessando
+          # o que já foi feito — e o agente nunca chegaria ao fim da fila.
+          #
+          # O runner do GitHub é descartado ao terminar; o único jeito de o
+          # progresso sobreviver até amanhã é estar versionado.
+          add-paths: |
+            docs/*.json
+            tools/agente/estado.json
+            tools/agente/ultimo-relatorio.md
+            tools/agente/revisao-pendente.json
+          body: |
+            Preenchimento automático gerado pelo agente.
+
+            **O que revisar antes de aprovar:**
+
+            - Campos marcados com `_derivadoDe` são **estimativa por
+              progressão anual**, não medição. Erro mediano de 3,9% a 1 ano
+              e 6,4% a 2 anos (medido contra a base real).
+            - `tools/agente/revisao-pendente.json` lista o que veio de
+              **fonte única** e não entrou — precisa de olho humano.
+            - `tools/agente/ultimo-relatorio.md` traz o resumo da execução.
+
+            ⚠️ O app lê estes arquivos direto do GitHub, **sem cache**: o
+            merge chega aos usuários em segundos, sem passar por atualização
+            do aplicativo.
+          labels: automated, dados

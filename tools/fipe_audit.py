@@ -27,6 +27,11 @@ CONSTRUCTION_KEYS = {
     "transponderimage", "telecomandobatery", "telecomandofrequency",
     "telecomandoprocedure", "telecomandoimage", "telecomandobrands",
     "maquinascodificadoras", "videolink",
+    # Metadado gravado pelo agente a partir de 22/09/2026: a data em que o
+    # preço foi coletado. Precisa estar aqui para não ser confundido com um
+    # nó de combustível — o auditor usa esta lista para distinguir campo de
+    # estrutura. O app ignora (lê campos nomeados, não itera).
+    "precoatualizadoem",
 }
 
 MOJIBAKE = [
