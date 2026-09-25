@@ -77,14 +77,14 @@
             "valueKeyConfectAlarm": "4250",
             "valueKeyConfect": "3300"
           },
-          "2000": {
+          "1999": {
             "valueCopyStore": "10160",
             "valueKeyAlarm": "3560",
             "valueKeyCopy": "2040",
             "valueKeyConfectAlarm": "5850",
             "valueKeyConfect": "4580"
           },
-          "1999": {
+          "2000": {
             "valueCopyStore": "10160",
             "valueKeyAlarm": "3560",
             "valueKeyCopy": "2040",
@@ -107,7 +107,19 @@
             "valueKeyAlarm": "170",
             "valueKeyCopy": "100",
             "valueKeyConfectAlarm": "310",
-            "valueKeyConfect": "250"
+            "valueKeyConfect": "250",
+            "keyLaminaTypeGold": "Gold: 683;  Silca: HU66;",
+            "telecomandoBrands": "8P0 837 220 G",
+            "transponderClone": "CN6 ou SUPER CHIP VVDI",
+            "transponderCodigo": "ID48 CAN TP23",
+            "transponderImage": "https://http2.mlstatic.com/D_NQ_NP_711499-MLB86678332545_062025-O.webp",
+            "telecomandoFrequency": "315",
+            "telecomandoBatery": "CR2032",
+            "telecomandoProcedure": "Procedimento:\nInformação não encontrada\n\nNotas:\nEm caso de confecção é preciso retirar o painel para adicionar a primeira chave",
+            "telecomandoImage": "https://ae-pic-a1.aliexpress-media.com/kf/S514460634d554b1d84d20ebcbc6ebd1f2.jpg_220x220q75.jpg_.avif",
+            "maquinasCodificadoras": "VAGTacho, VVDI, OBD Star X300, X100 pad, Zed Full, Smelecom, Autel IM-608 / 508",
+            "videoLink": "https://youtu.be/pVmX9zMK6ZE?si=syid3Klrhnp131WY",
+            "valueDataKeyChip": "ID: 48; PCF: ; SÉRIE: ;"
           }
         }
       },
@@ -120,19 +132,19 @@
             "valueKeyConfectAlarm": "4000",
             "valueKeyConfect": "3090"
           },
-          "2000": {
-            "valueCopyStore": "8400",
-            "valueKeyAlarm": "2950",
-            "valueKeyCopy": "1690",
-            "valueKeyConfectAlarm": "4900",
-            "valueKeyConfect": "3790"
-          },
           "1999": {
             "valueCopyStore": "7450",
             "valueKeyAlarm": "2610",
             "valueKeyCopy": "1500",
             "valueKeyConfectAlarm": "4300",
             "valueKeyConfect": "3350"
+          },
+          "2000": {
+            "valueCopyStore": "8400",
+            "valueKeyAlarm": "2950",
+            "valueKeyCopy": "1690",
+            "valueKeyConfectAlarm": "4900",
+            "valueKeyConfect": "3790"
           }
         }
       },
@@ -145,56 +157,7 @@
       },
       "Buggy 1_PDOT6 2-Lug_PDOT": {
         "Gasolina": {
-          "1997": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1996": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1995": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1994": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1993": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1992": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1991": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1990": {
+          "1988": {
             "valueKeyCopy": "30",
             "valueKeyAlarm": "120",
             "valueKeyConfect": "150",
@@ -208,7 +171,56 @@
             "valueKeyConfectAlarm": "220",
             "valueCopyStore": "600"
           },
-          "1988": {
+          "1990": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1991": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1992": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1993": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1994": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1995": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1996": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1997": {
             "valueKeyCopy": "30",
             "valueKeyAlarm": "120",
             "valueKeyConfect": "150",
@@ -219,224 +231,7 @@
       },
       "Buggy 1_PDOT6/ TST/ RS 1_PDOT6 4-Lug_PDOT": {
         "Gasolina": {
-          "32000": {
-            "valueKeyCopy": "300",
-            "valueKeyAlarm": "500",
-            "valueKeyConfect": "640",
-            "valueKeyConfectAlarm": "800",
-            "valueCopyStore": "1380"
-          },
-          "2024": {
-            "valueKeyCopy": "280",
-            "valueKeyAlarm": "490",
-            "valueKeyConfect": "630",
-            "valueKeyConfectAlarm": "820",
-            "valueCopyStore": "1400"
-          },
-          "2023": {
-            "valueKeyCopy": "270",
-            "valueKeyAlarm": "475",
-            "valueKeyConfect": "610",
-            "valueKeyConfectAlarm": "790",
-            "valueCopyStore": "1365"
-          },
-          "2022": {
-            "valueKeyCopy": "260",
-            "valueKeyAlarm": "460",
-            "valueKeyConfect": "590",
-            "valueKeyConfectAlarm": "760",
-            "valueCopyStore": "1320"
-          },
-          "2021": {
-            "valueKeyCopy": "250",
-            "valueKeyAlarm": "440",
-            "valueKeyConfect": "565",
-            "valueKeyConfectAlarm": "735",
-            "valueCopyStore": "1275"
-          },
-          "2020": {
-            "valueKeyCopy": "240",
-            "valueKeyAlarm": "430",
-            "valueKeyConfect": "550",
-            "valueKeyConfectAlarm": "710",
-            "valueCopyStore": "1230"
-          },
-          "2019": {
-            "valueKeyCopy": "230",
-            "valueKeyAlarm": "410",
-            "valueKeyConfect": "530",
-            "valueKeyConfectAlarm": "670",
-            "valueCopyStore": "1180"
-          },
-          "2018": {
-            "valueKeyCopy": "205",
-            "valueKeyAlarm": "360",
-            "valueKeyConfect": "465",
-            "valueKeyConfectAlarm": "590",
-            "valueCopyStore": "1040"
-          },
-          "2017": {
-            "valueKeyCopy": "190",
-            "valueKeyAlarm": "340",
-            "valueKeyConfect": "440",
-            "valueKeyConfectAlarm": "560",
-            "valueCopyStore": "980"
-          },
-          "2016": {
-            "valueKeyCopy": "185",
-            "valueKeyAlarm": "320",
-            "valueKeyConfect": "420",
-            "valueKeyConfectAlarm": "535",
-            "valueCopyStore": "940"
-          },
-          "2015": {
-            "valueKeyCopy": "180",
-            "valueKeyAlarm": "310",
-            "valueKeyConfect": "400",
-            "valueKeyConfectAlarm": "510",
-            "valueCopyStore": "900"
-          },
-          "2012": {
-            "valueKeyCopy": "130",
-            "valueKeyAlarm": "230",
-            "valueKeyConfect": "300",
-            "valueKeyConfectAlarm": "380",
-            "valueCopyStore": "660"
-          },
-          "2011": {
-            "valueKeyCopy": "115",
-            "valueKeyAlarm": "200",
-            "valueKeyConfect": "260",
-            "valueKeyConfectAlarm": "330",
-            "valueCopyStore": "620"
-          },
-          "2010": {
-            "valueKeyCopy": "100",
-            "valueKeyAlarm": "170",
-            "valueKeyConfect": "220",
-            "valueKeyConfectAlarm": "280",
-            "valueCopyStore": "600"
-          },
-          "2009": {
-            "valueKeyCopy": "90",
-            "valueKeyAlarm": "160",
-            "valueKeyConfect": "206",
-            "valueKeyConfectAlarm": "260",
-            "valueCopyStore": "600"
-          },
-          "2008": {
-            "valueKeyCopy": "80",
-            "valueKeyAlarm": "150",
-            "valueKeyConfect": "190",
-            "valueKeyConfectAlarm": "240",
-            "valueCopyStore": "600"
-          },
-          "2007": {
-            "valueKeyCopy": "70",
-            "valueKeyAlarm": "135",
-            "valueKeyConfect": "180",
-            "valueKeyConfectAlarm": "230",
-            "valueCopyStore": "600"
-          },
-          "2006": {
-            "valueKeyCopy": "60",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "2005": {
-            "valueKeyCopy": "58",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1999": {
-            "valueKeyCopy": "50",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1998": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1997": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1996": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1995": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1994": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1993": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1992": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1991": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1990": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1989": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1988": {
-            "valueKeyCopy": "30",
-            "valueKeyAlarm": "120",
-            "valueKeyConfect": "150",
-            "valueKeyConfectAlarm": "220",
-            "valueCopyStore": "600"
-          },
-          "1987": {
+          "1985": {
             "valueKeyCopy": "30",
             "valueKeyAlarm": "120",
             "valueKeyConfect": "150",
@@ -450,59 +245,240 @@
             "valueKeyConfectAlarm": "220",
             "valueCopyStore": "600"
           },
-          "1985": {
+          "1987": {
             "valueKeyCopy": "30",
             "valueKeyAlarm": "120",
             "valueKeyConfect": "150",
             "valueKeyConfectAlarm": "220",
             "valueCopyStore": "600"
+          },
+          "1988": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1989": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1990": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1991": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1992": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1993": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1994": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1995": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1996": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1997": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1998": {
+            "valueKeyCopy": "30",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "1999": {
+            "valueKeyCopy": "50",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "2005": {
+            "valueKeyCopy": "58",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "2006": {
+            "valueKeyCopy": "60",
+            "valueKeyAlarm": "120",
+            "valueKeyConfect": "150",
+            "valueKeyConfectAlarm": "220",
+            "valueCopyStore": "600"
+          },
+          "2007": {
+            "valueKeyCopy": "70",
+            "valueKeyAlarm": "135",
+            "valueKeyConfect": "180",
+            "valueKeyConfectAlarm": "230",
+            "valueCopyStore": "600"
+          },
+          "2008": {
+            "valueKeyCopy": "80",
+            "valueKeyAlarm": "150",
+            "valueKeyConfect": "190",
+            "valueKeyConfectAlarm": "240",
+            "valueCopyStore": "600"
+          },
+          "2009": {
+            "valueKeyCopy": "90",
+            "valueKeyAlarm": "160",
+            "valueKeyConfect": "206",
+            "valueKeyConfectAlarm": "260",
+            "valueCopyStore": "600"
+          },
+          "2010": {
+            "valueKeyCopy": "100",
+            "valueKeyAlarm": "170",
+            "valueKeyConfect": "220",
+            "valueKeyConfectAlarm": "280",
+            "valueCopyStore": "600"
+          },
+          "2011": {
+            "valueKeyCopy": "115",
+            "valueKeyAlarm": "200",
+            "valueKeyConfect": "260",
+            "valueKeyConfectAlarm": "330",
+            "valueCopyStore": "620"
+          },
+          "2012": {
+            "valueKeyCopy": "130",
+            "valueKeyAlarm": "230",
+            "valueKeyConfect": "300",
+            "valueKeyConfectAlarm": "380",
+            "valueCopyStore": "660"
+          },
+          "2015": {
+            "valueKeyCopy": "180",
+            "valueKeyAlarm": "310",
+            "valueKeyConfect": "400",
+            "valueKeyConfectAlarm": "510",
+            "valueCopyStore": "900"
+          },
+          "2016": {
+            "valueKeyCopy": "185",
+            "valueKeyAlarm": "320",
+            "valueKeyConfect": "420",
+            "valueKeyConfectAlarm": "535",
+            "valueCopyStore": "940"
+          },
+          "2017": {
+            "valueKeyCopy": "190",
+            "valueKeyAlarm": "340",
+            "valueKeyConfect": "440",
+            "valueKeyConfectAlarm": "560",
+            "valueCopyStore": "980"
+          },
+          "2018": {
+            "valueKeyCopy": "205",
+            "valueKeyAlarm": "360",
+            "valueKeyConfect": "465",
+            "valueKeyConfectAlarm": "590",
+            "valueCopyStore": "1040"
+          },
+          "2019": {
+            "valueKeyCopy": "230",
+            "valueKeyAlarm": "410",
+            "valueKeyConfect": "530",
+            "valueKeyConfectAlarm": "670",
+            "valueCopyStore": "1180"
+          },
+          "2020": {
+            "valueKeyCopy": "240",
+            "valueKeyAlarm": "430",
+            "valueKeyConfect": "550",
+            "valueKeyConfectAlarm": "710",
+            "valueCopyStore": "1230"
+          },
+          "2021": {
+            "valueKeyCopy": "250",
+            "valueKeyAlarm": "440",
+            "valueKeyConfect": "565",
+            "valueKeyConfectAlarm": "735",
+            "valueCopyStore": "1275"
+          },
+          "2022": {
+            "valueKeyCopy": "260",
+            "valueKeyAlarm": "460",
+            "valueKeyConfect": "590",
+            "valueKeyConfectAlarm": "760",
+            "valueCopyStore": "1320"
+          },
+          "2023": {
+            "valueKeyCopy": "270",
+            "valueKeyAlarm": "475",
+            "valueKeyConfect": "610",
+            "valueKeyConfectAlarm": "790",
+            "valueCopyStore": "1365"
+          },
+          "2024": {
+            "valueKeyCopy": "280",
+            "valueKeyAlarm": "490",
+            "valueKeyConfect": "630",
+            "valueKeyConfectAlarm": "820",
+            "valueCopyStore": "1400"
+          },
+          "32000": {
+            "valueKeyCopy": "300",
+            "valueKeyAlarm": "500",
+            "valueKeyConfect": "640",
+            "valueKeyConfectAlarm": "800",
+            "valueCopyStore": "1380"
           }
         }
       },
       "Buggy RS Evolution 1_PDOT8 8V": {
         "Gasolina": {
-          "32000": {
-            "valueKeyCopy": "390",
-            "valueKeyAlarm": "700",
-            "valueKeyConfect": "910",
-            "valueKeyConfectAlarm": "1110",
-            "valueCopyStore": "1400",
-            "videoLink": "https://fibravan.com.br/novo/"
-          },
-          "2024": {
-            "valueKeyCopy": "370",
-            "valueKeyAlarm": "690",
-            "valueKeyConfect": "900",
-            "valueKeyConfectAlarm": "1100",
-            "valueCopyStore": "1920"
-          },
-          "2023": {
-            "valueKeyCopy": "350",
-            "valueKeyAlarm": "660",
-            "valueKeyConfect": "860",
-            "valueKeyConfectAlarm": "1060",
-            "valueCopyStore": "1880"
-          },
-          "2022": {
-            "valueKeyCopy": "340",
-            "valueKeyAlarm": "630",
-            "valueKeyConfect": "820",
-            "valueKeyConfectAlarm": "1020",
-            "valueCopyStore": "1800"
-          },
-          "2021": {
-            "valueKeyCopy": "330",
-            "valueKeyAlarm": "600",
-            "valueKeyConfect": "780",
-            "valueKeyConfectAlarm": "985",
-            "valueCopyStore": "1720"
-          },
-          "2020": {
-            "valueKeyCopy": "320",
-            "valueKeyAlarm": "570",
-            "valueKeyConfect": "740",
-            "valueKeyConfectAlarm": "940",
-            "valueCopyStore": "1640"
+          "2018": {
+            "valueKeyCopy": "290",
+            "valueKeyAlarm": "500",
+            "valueKeyConfect": "650",
+            "valueKeyConfectAlarm": "830",
+            "valueCopyStore": "1450"
           },
           "2019": {
             "valueKeyCopy": "310",
@@ -511,12 +487,55 @@
             "valueKeyConfectAlarm": "900",
             "valueCopyStore": "1560"
           },
-          "2018": {
-            "valueKeyCopy": "290",
-            "valueKeyAlarm": "500",
-            "valueKeyConfect": "650",
-            "valueKeyConfectAlarm": "830",
-            "valueCopyStore": "1450"
+          "2020": {
+            "valueKeyCopy": "320",
+            "valueKeyAlarm": "570",
+            "valueKeyConfect": "740",
+            "valueKeyConfectAlarm": "940",
+            "valueCopyStore": "1640"
+          },
+          "2021": {
+            "valueKeyCopy": "330",
+            "valueKeyAlarm": "600",
+            "valueKeyConfect": "780",
+            "valueKeyConfectAlarm": "985",
+            "valueCopyStore": "1720"
+          },
+          "2022": {
+            "valueKeyCopy": "340",
+            "valueKeyAlarm": "630",
+            "valueKeyConfect": "820",
+            "valueKeyConfectAlarm": "1020",
+            "valueCopyStore": "1800"
+          },
+          "2023": {
+            "valueKeyCopy": "350",
+            "valueKeyAlarm": "660",
+            "valueKeyConfect": "860",
+            "valueKeyConfectAlarm": "1060",
+            "valueCopyStore": "1880"
+          },
+          "2024": {
+            "valueKeyCopy": "370",
+            "valueKeyAlarm": "690",
+            "valueKeyConfect": "900",
+            "valueKeyConfectAlarm": "1100",
+            "valueCopyStore": "1920"
+          },
+          "32000": {
+            "valueKeyCopy": "390",
+            "valueKeyAlarm": "700",
+            "valueKeyConfect": "910",
+            "valueKeyConfectAlarm": "1110",
+            "valueCopyStore": "1400",
+            "videoLink": "https://fibravan.com.br/novo/"
+          }
+        }
+      },
+      "Legend 3_PDOT2/3_PDOT5": {
+        "Gasolina": {
+          "1998": {
+            "valueKeyAlarm": "333"
           }
         }
       }

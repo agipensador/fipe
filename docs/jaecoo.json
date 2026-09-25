@@ -8,14 +8,27 @@
             "valueKeyConfect": "2200.00",
             "valueKeyCopy": "650.00",
             "valueKeyConfectAlarm": "3600.00",
-            "valueKeyAlarm": "2400.00"
+            "valueKeyAlarm": "2400.00",
+            "laminaPinCode": "SIM",
+            "transponderClone": "Não encontrado procedimento de clonagem direta (a programação é feita via diagnostico/OBD).",
+            "transponderNomenclatura": "ID 47",
+            "transponderCodigo": "ID 47",
+            "telecomandoFrequency": "433 MHz",
+            "telecomandoProcedure": "Programação de chave Smart Key (presencial) realizada via equipamento de diagnóstico conectado à tomada OBD. Permite adicionar nova chave, reaproveitar chave antiga e apagar chaves. Exige a inserção de senha obtida junto à autorizada/concessionária.",
+            "maquinasCodificadoras": "IGOLD"
           },
           "32000": {
             "valueKeyAlarm": "2600.00",
             "valueKeyConfectAlarm": "3900.00",
             "valueKeyCopy": "700.00",
             "valueKeyConfect": "2400.00",
-            "valueCopyStore": "4700.00"
+            "valueCopyStore": "4700.00",
+            "laminasKeys": "lâmina pantográfica",
+            "laminaPinCode": "SIM",
+            "transponderClone": "A codificação é feita via programação de Smart Key com senha.",
+            "transponderNomenclatura": "ID47",
+            "transponderCodigo": "ID 47",
+            "telecomandoFrequency": "433 MHz"
           }
         }
       },
@@ -33,7 +46,15 @@
             "valueKeyConfectAlarm": "4400.00",
             "valueKeyAlarm": "2900.00",
             "valueCopyStore": "5300.00",
-            "valueKeyConfect": "2700.00"
+            "valueKeyConfect": "2700.00",
+            "laminaTextDica": "Acompanha lâmina de emergência pantográfica virgem no interior do telecomando presencial",
+            "laminaPinCode": "SIM",
+            "transponderClone": "Não é possível clonar. A codificação exige gravação via porta de diagnóstico OBD2 com a inserção da senha (PIN code) obtida na autorizada.",
+            "transponderNomenclatura": "Hitag 3",
+            "transponderCodigo": "ID 47",
+            "telecomandoFrequency": "433 MHz",
+            "telecomandoProcedure": "1. Conectar a máquina de diagnóstico na tomada OBD2 do veículo. 2. Acessar o sistema de imobilizador / Smart Key. 3. Selecionar a opção de adicionar nova chave ou apagar chaves. 4. Digitar o PIN Code (senha da concessionária) quando solicitado pelo equipamento. 5. Aproximar e/ou apresentar a chave presencial conforme as instruções na tela da máquina até a confirmação.",
+            "telecomandoBrands": "Original Jaecoo / Chery (RPC)"
           }
         }
       },
@@ -44,14 +65,26 @@
             "valueCopyStore": "4700.00",
             "valueKeyAlarm": "2600.00",
             "valueKeyCopy": "700.00",
-            "valueKeyConfectAlarm": "3900.00"
+            "valueKeyConfectAlarm": "3900.00",
+            "laminaPinCode": "SIM",
+            "transponderNomenclatura": "ID 47",
+            "transponderCodigo": "ID47 / 433MHz",
+            "telecomandoFrequency": "433 MHz",
+            "telecomandoProcedure": "Programação realizada via diagnose/porta OBD para chaves Smart Key. O procedimento inclui as funções de apagar chaves antigas, adicionar chave nova e adicionar chave antiga, exigindo a inserção prévia da senha/PIN obtida na autorizada.",
+            "maquinasCodificadoras": "IGOLD"
           },
           "32000": {
             "valueCopyStore": "5000.00",
             "valueKeyConfect": "2600.00",
             "valueKeyConfectAlarm": "4200.00",
             "valueKeyCopy": "750.00",
-            "valueKeyAlarm": "2800.00"
+            "valueKeyAlarm": "2800.00",
+            "laminaPinCode": "SIM",
+            "transponderNomenclatura": "ID 47 / 433 MHz",
+            "transponderCodigo": "Chip ID 47",
+            "telecomandoFrequency": "433 MHz",
+            "telecomandoProcedure": "Realizado via porta de diagnóstico (OBD) com sistema Smart Key. O sistema permite adicionar chave nova, apagar chaves perdidas e readicionar chaves antigas, sendo obrigatória a inserção do PIN Code fornecido pela autorizada.",
+            "maquinasCodificadoras": "IGOLD"
           }
         }
       }

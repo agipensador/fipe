@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "AION ES Plus (Elétrico)": {
+        "Elétrico": {
+          "2025": {
+            "videoLink": "123",
+            "transponderImage": "123",
+            "valueDataKeyChip": "ID: 12; PCF: 12; SÉRIE: 12;",
+            "valueKeyConfect": "111",
+            "telecomandoProcedure": "123",
+            "valueKeyConfectAlarm": "111",
+            "transponderClone": "qwe",
+            "telecomandoBatery": "CR 123",
+            "valueKeyAlarm": "111",
+            "transponderCodigo": "123",
+            "maquinasCodificadoras": "234",
+            "laminaPinCode": "sss",
+            "telecomandoFrequency": "123",
+            "valueKeyCopy": "111",
+            "laminaPalhetas": "[object Object]",
+            "transponderNomenclatura": "123",
+            "valueCopyStore": "111",
+            "laminasKeys": "111",
+            "laminaTextDica": "qwe"
+          },
+          "32000": {
+            "valueKeyCopy": "2323",
+            "valueKeyAlarm": "21312",
+            "valueKeyConfect": "3213",
+            "telecomandoFrequency": "qwdwq",
+            "telecomandoBatery": "qwdwq",
+            "telecomandoProcedure": "e2edw",
+            "laminaPalhetas": "[object Object]"
+          }
+        }
+      },
+      "HYPTEC HT Elite (Elétrico)": {
+        "Elétrico": {
+          "2025": {
+            "laminaPalhetas": "[object Object]",
+            "valueKeyAlarm": "21",
+            "valueKeyConfect": "21",
+            "valueKeyCopy": "21"
+          }
+        }
+      }
+    }
+  ]
+}

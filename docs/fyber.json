@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "Buggy FyberX 1_PDOT6 8V": {
+        "Gasolina": {
+          "2022": {
+            "valueKeyCopy": "11",
+            "valueKeyAlarm": "22",
+            "valueKeyConfect": "33",
+            "valueKeyConfectAlarm": "111",
+            "valueCopyStore": "22",
+            "laminasKeys": "111",
+            "laminaTextDica": "111",
+            "laminaPinCode": "11",
+            "transponderNomenclatura": "11",
+            "transponderClone": "111",
+            "transponderCodigo": "11",
+            "transponderImage": "11",
+            "telecomandoFrequency": "11",
+            "telecomandoBatery": "11",
+            "telecomandoProcedure": "11",
+            "telecomandoImage": "11",
+            "maquinasCodificadoras": "11",
+            "videoLink": "11",
+            "valueDataKeyChip": "ID: 11; PCF: 111; SÉRIE: 11;",
+            "laminaPalhetas": "[object Object]"
+          }
+        }
+      }
+    }
+  ]
+}
