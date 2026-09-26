@@ -12,7 +12,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "215",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "425",
+            "valueKeyConfect": "625",
+            "valueKeyConfectAlarm": "875",
+            "valueCopyStore": "1350",
+            "laminaTextDica": "Pantográfica, perfil atualizado adotado a partir de 2003/2004 para a linha Palio. Atenção: não confundir com o perfil Yale GT15 / Gold 79 usado nas gerações antigas/G1 até 2002",
+            "keyLaminaTypeGold": "Gold 186",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto 48 (ID48 / T42)",
+            "transponderCodigo": "ID48 (T42)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Pósitron, Kostal, TRW / Marelli"
           },
           "2010": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -23,7 +36,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "115",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "350",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "650",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "SIP22 (Lâmina pantográfica tipo pantógrafo/pantográfica Fiat, utilizada no Palio de 2003/2004 em diante)",
+            "keyLaminaTypeGold": "9786",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42",
+            "transponderCodigo": "T42 / ID48",
+            "telecomandoFrequency": "433.92 MHz",
+            "telecomandoBrands": "Magneti Marelli, TRW (e alarmes de reposição compativéis Pósitron Flex)"
           },
           "2011": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -34,7 +60,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "185",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "350",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "675",
+            "valueCopyStore": "1171",
+            "laminaTextDica": "Lâmina perfil Yale de corte lateral usada no Palio G4 Economy / Itália até 2011.",
+            "keyLaminaTypeGold": "Gold 597",
+            "laminaPinCode": "SIM, 5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42) ou Philips Crypto PCF7936 (ID46)",
+            "transponderCodigo": "ID48 (T42) ou PCF7936AA (ID46)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Pósitron, Magneti Marelli, TRW, Kostal"
           },
           "2012": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -45,7 +84,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "265",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "525",
+            "valueKeyConfect": "650",
+            "valueKeyConfectAlarm": "925",
+            "valueCopyStore": "1700",
+            "keyLaminaTypeGold": "Gold 202 / Gold 326",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42 / Philips Crypto PCF7936AA (ID46 / T19)",
+            "transponderCodigo": "ID48 (T42) ou PCF7936AA / ID46",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Delphi, Continental / PST Pósitron"
           },
           "2013": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -56,7 +107,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "265",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "600",
+            "valueKeyConfectAlarm": "800",
+            "valueCopyStore": "1500",
+            "keyLaminaTypeGold": "G761 / FL 39 (Silca SIP22 / Gold G761T00)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42 (Glass chip)",
+            "transponderCodigo": "ID48 (T42)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Continental / VDO, Pósitron, TRW"
           },
           "2014": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -67,7 +130,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "240",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "550",
+            "valueKeyConfectAlarm": "750",
+            "valueCopyStore": "1150",
+            "keyLaminaTypeGold": "Não encontrado código numérico específico na tabela tradicional Gold para o perfil SIP22 (geralmente comercializado pelos distribuidores diretamente pelo código universal de perfil SIP22)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "PCF7936 / ID46",
+            "transponderCodigo": "PCF7936AA (ID46 / 7936)",
+            "telecomandoFrequency": "433,92 MHz (433 MHz)",
+            "telecomandoBrands": "Magneti Marelli / Delphi / Pósitron"
           }
         }
       },
@@ -82,7 +157,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "265",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "600",
+            "valueKeyConfectAlarm": "800",
+            "valueCopyStore": "1150",
+            "keyLaminaTypeGold": "Friso / Referência 597 (Chave plástica / gaveta modelo Yale)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42",
+            "transponderCodigo": "ID48 (T42)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Delphi, Magneti Marelli, Pósitron, Continental"
           },
           "2010": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -93,7 +180,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "140",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "350",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "675",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "Algumas versões da linha Fire Economy ainda utilizavam lâmina perfil serra Yale/G/GT15.",
+            "keyLaminaTypeGold": "Gold 186 (versão pantográfica SIP22) ou Gold 112 / Gold 597 (se perfil serra Yale)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42) / PCF7936 / ID46",
+            "transponderCodigo": "ID48 (T42 / Megamos 48)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Marelli / Delphi / PST (Pósitron)"
           },
           "2011": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -104,7 +204,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "160",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "300",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "675",
+            "valueCopyStore": "1400",
+            "laminaTextDica": "perfil Yale de serra, padrão do Palio Fire/Economy até a mudança de geração. O perfil pantográfico SIP22 passou a ser adotado no Novo Palio 326, mas o Palio Economy 2011 utiliza perfil SIP35 / GT10.",
+            "keyLaminaTypeGold": "ATM00021 (ou Jas A241072)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "ID48 Megamos Crypto (ou ampolla de vidro T42 / TP08)",
+            "transponderCodigo": "7935 / ID48 / T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli / TRW (originais) ou placas universais compatíveis/Pósitron"
           },
           "2012": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -115,7 +228,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "215",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "390",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "650",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "Perfil pantográfico. Algumas versões da geração anterior usavam GT15, mas no Palio Economy 2012 o padrão mais comum é a lâmina pantográfica SIP22 ou GT15R friso simples.",
+            "keyLaminaTypeGold": "1036G / GATM 00081 / GATM 00082",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42)",
+            "transponderCodigo": "7935 / ID48 T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Pósitron / Valeo / TRW"
           },
           "2013": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -126,7 +252,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "215",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "400",
+            "valueKeyConfect": "525",
+            "valueKeyConfectAlarm": "700",
+            "valueCopyStore": "1425",
+            "laminaTextDica": "perfil Yale / chave dentiada convencional. O Palio Novo / Attractive utiliza lâmina pantográfica SIP22 / Gold 318, mas o Palio Economy 2013 mantém a plataforma Fire G4 com lâmina GT15.",
+            "keyLaminaTypeGold": "Gold 209 (GT15)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42 (Glass ID48)",
+            "transponderCodigo": "T42 / ID48",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Continental / VDO e Pósitron"
           },
           "2014": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -137,7 +276,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "215",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "400",
+            "valueKeyConfect": "550",
+            "valueKeyConfectAlarm": "700",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "Silca: SIP22 (para chave estilo pantográfica / snake key) ou GT15 (para versões com lâmina dentada simples de serra)",
+            "keyLaminaTypeGold": "Gold 207 / Gold 156 / 157",
+            "laminaPinCode": "5",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42 / Glass chip) ou PCF7936 / ID46",
+            "transponderCodigo": "ID48 (T42) / ID46 (7936)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Marelli / Pósitron / Delphi / Calsonic"
           }
         }
       },
@@ -152,7 +304,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "240",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "400",
+            "valueKeyConfect": "600",
+            "valueKeyConfectAlarm": "700",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "pantográfica",
+            "keyLaminaTypeGold": "Gold 224 / G834",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42)",
+            "transponderCodigo": "ID48 / T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Pósitron, TRW, Delphi, Kostal"
           },
           "2010": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -163,7 +328,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "200",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "550",
+            "valueKeyConfectAlarm": "750",
+            "valueCopyStore": "1200",
+            "laminaTextDica": "Perfil pantográfico / snake key. Modelos Palio mais antigos até 2002 utilizavam Silca GT15, mas o Palio Economy 2010 utiliza a lâmina pantográfica SIP22.",
+            "keyLaminaTypeGold": "Gold 597",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42 / TP08)",
+            "transponderCodigo": "ID48 / T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, TRW ou módulos de alarme compatíveis como Pósitron (sistemas FX/PX32/PX293)"
           },
           "2011": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -174,7 +352,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "215",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "350",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "650",
+            "valueCopyStore": "1371",
+            "laminaTextDica": "Os catálogos Gold utilizam códigos numéricos como 1040/Z-438 para modelos Yale tradicionais como a GT15R, mas para a lâmina pantográfica SIP22 do Palio 2011, o mercado e distribuidores comercializam diretamente com a nomenclatura SIP22.",
+            "keyLaminaTypeGold": "Não encontrado.",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 ou PCF7936AA (ID46)",
+            "transponderCodigo": "ID48 ou 7936AA / ID46",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Kostal, Magneti Marelli, Delphi / TRW e Pósitron"
           },
           "2012": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -185,7 +376,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "265",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "625",
+            "valueKeyConfectAlarm": "825",
+            "valueCopyStore": "1250",
+            "keyLaminaTypeGold": "164 / Mod. G",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42)",
+            "transponderCodigo": "ID48 / T42 (ou PCF7936 / ID46)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, TRW, Kostal e Pósitron"
           },
           "2013": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -196,7 +399,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "215",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "375",
+            "valueKeyConfect": "550",
+            "valueKeyConfectAlarm": "725",
+            "valueCopyStore": "1500",
+            "laminaTextDica": "Lâmina pantográfica para o sistema Fiat Code 2 de 2ª geração. Caso o veículo utilize o perfil tradicional de serrilha YALE em cilindros antigos/reposição, aplica-se Silca GT15 / Gold FI-10.",
+            "keyLaminaTypeGold": "FI-28 / FI22",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42) no sistema de caixinha imobilizadora cinza / painel Marelli, ou PCF7936AA / ID46 (T19) caso equipado com Body Computer.",
+            "transponderCodigo": "ID48 (TP08 / T42) ou ID46 (7936AA / PCF7946)",
+            "telecomandoFrequency": "433.92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Delphi, Continental (originais) ou placas universais/Pósitron Flex"
           },
           "2014": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -207,7 +423,16 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "240",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "425",
+            "keyLaminaTypeGold": "Gold 597 / Gold 834 / AT2039 / AT2040",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42) ou PCF7936 / ID46",
+            "transponderCodigo": "T42 (ID48) ou ID46 (PCF7936AA)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "TRW / Delphi / Magneti Marelli / Valeo / Pósitron, FKS, Kostal"
           }
         }
       },
@@ -222,7 +447,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "115",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "250",
+            "valueKeyConfect": "350",
+            "valueKeyConfectAlarm": "450",
+            "valueCopyStore": "900",
+            "keyLaminaTypeGold": "Gold 597 (lâmina Yale) / Gold 608 (lâmina pantográfica SIP22)",
+            "laminaPinCode": "SIM, 5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (conhecido comercialmente como T42 Fiat Code 2)",
+            "transponderCodigo": "ID48 (T42)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Pósitron (linha Flex / PX), PST, Magneti Marelli, Kostal"
           },
           "2004": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -233,7 +470,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "240",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "400",
+            "valueKeyConfect": "525",
+            "valueKeyConfectAlarm": "675",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "GT15 (Perfil Convencional / Yale tradicional de dente no Palio 2004) ou SIP22 (Lâmina Pantográfica presente nas versões com restilização de miolo/trava).",
+            "keyLaminaTypeGold": "GOLD 161, GOLD 242",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42)",
+            "transponderCodigo": "T42 / ID48",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Delphi, TRW"
           },
           "2005": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -244,7 +494,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "215",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "390",
+            "valueKeyConfect": "575",
+            "valueKeyConfectAlarm": "800",
+            "valueCopyStore": "1175",
+            "laminaTextDica": "Lâmina pantográfica, padrão Fiat adotado a partir das reestilizações da linha Palio. (Obs: Algumas versões de entrada de transição 2004/2005 usavam Yale GT15, mas o padrão do Palio Fire 2005 é a pantográfica SIP22).",
+            "keyLaminaTypeGold": "FI-26 / FI-16",
+            "laminaPinCode": "5",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42 Fiat)",
+            "transponderCodigo": "ID48 / T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Delphi, Magneti Marelli, Pósitron"
           },
           "2006": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -255,7 +518,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "265",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "475",
+            "valueKeyConfect": "625",
+            "valueKeyConfectAlarm": "775",
+            "valueCopyStore": "1250",
+            "keyLaminaTypeGold": "G597T00 / G761T00 / ATM00021",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42",
+            "transponderCodigo": "7935 / ID48 / T42 (Megamos Crypto Encrypted)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Marelli / Valeo / Pósitron / Kostal"
           },
           "2007": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -266,7 +541,13 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "keyLaminaTypeGold": "186 (lâmina Yale Fiat) / 312 (lâmina pantográfica SIP22)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42) (vidro)",
+            "transponderCodigo": "ID48 / T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Delphi, TRW (sistemas originais Fiat) ou Pósitron / Keydiy / Xhorse (sistemas de canivetes e alarmes aftermarket)"
           },
           "2008": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -277,7 +558,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "265",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "600",
+            "valueKeyConfectAlarm": "800",
+            "valueCopyStore": "1371",
+            "keyLaminaTypeGold": "Gold 597 ou Gold 312",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42)",
+            "transponderCodigo": "ID48 / T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Delphi, Magneti Marelli ou alarmes integrados homologados Pósitron"
           },
           "2009": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -288,7 +581,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "215",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "400",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "650",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "No Palio Economy 2009 o uso de chave Yale GT15 é predominante, mas há unidades com perfil pantográfico SIP22.",
+            "keyLaminaTypeGold": "Gold 203 / Gold 210",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "ID48 (T42 Megamos Crypto) / PCF7936 (ID46)",
+            "transponderCodigo": "ID48 / T42 / PCF7936 / ID46",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Delphi, TRW e Pósitron"
           },
           "2014": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -299,7 +605,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "290",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "550",
+            "valueKeyConfect": "700",
+            "valueKeyConfectAlarm": "900",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "Silca: SIP22 (Lâmina pantográfica de perfil SIP22) / perfil Yale GT15 dependendo da trava/cilindro do modelo Economy Fire.",
+            "keyLaminaTypeGold": "FI-38 / FI-15",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "PCF7936 / ID46 (PCF7936AA / Crypto 2) ou PCF7946 / ID46",
+            "transponderCodigo": "7936AA ID46 ou 7946 ID46",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Kostal, ou Pósitron"
           },
           "2015": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -310,7 +629,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "290",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "550",
+            "valueKeyConfect": "650",
+            "valueKeyConfectAlarm": "900",
+            "valueCopyStore": "1300",
+            "laminaTextDica": "A versão Palio Economy Fire 2015 mantém a lâmina convencional Yale GT15; versões do New Palio utilizam a lâmina pantográfica SIP22.",
+            "keyLaminaTypeGold": "Gold 597",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42 / TP08)",
+            "transponderCodigo": "Megamos ID48 (T42)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Continental / Siemens VDO, Calsonic ou Pósitron"
           },
           "2016": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -321,7 +653,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "200",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "400",
+            "valueKeyConfect": "550",
+            "valueKeyConfectAlarm": "725",
+            "valueCopyStore": "1100",
+            "keyLaminaTypeGold": "Gold 183 (lâmina Yale perfil GT15/GT15R) ou Gold 597 (lâmina pantográfica SIP22)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42",
+            "transponderCodigo": "ID48 (Glass Chip / Megamos 48 / T42)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Delphi / Continental e Positron"
           }
         }
       },
@@ -336,7 +680,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "215",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "400",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "675",
+            "valueCopyStore": "1150",
+            "keyLaminaTypeGold": "Gold 597 (chave de gaveta plástica) ou Gold SIP22",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "7936AA ID46 (comercialmente designado como transponder T19 ou JMA TP12)",
+            "transponderCodigo": "PCF7936 / PCF7936AA",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli (linha original) e PST / Pósitron (alarmes de concessionária/acessórios flex)"
           },
           "2010": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -347,7 +703,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "200",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "380",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "650",
+            "valueCopyStore": "1150",
+            "keyLaminaTypeGold": "Gold 152 (Pantográfica SIP22) / Gold 597 (Yale)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "ID48 (Megamos Crypto / T42) ou ID46 (PCF7946)",
+            "transponderCodigo": "T42 / Megamos ID48",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Delphi, Kostal ou Positron"
           },
           "2011": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -358,7 +726,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "150",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "350",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "650",
+            "valueCopyStore": "1500",
+            "keyLaminaTypeGold": "Gold 187 ou Gold 218",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42) ou PCF7936 (ID46)",
+            "transponderCodigo": "T42 / ID48 ou 7936AA (ID46)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Delphi, Continental ou Pósitron"
           },
           "2012": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -369,7 +749,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "240",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "600",
+            "valueKeyConfectAlarm": "800",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "Silca: GT15 (lâmina perfil simples/comutador convencional) ou SIP22 (se for o perfil pantográfico).",
+            "keyLaminaTypeGold": "Gold 145 / Gold 168",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42)",
+            "transponderCodigo": "ID48 / T42",
+            "telecomandoFrequency": "433.92 MHz",
+            "telecomandoBrands": "Marelli / TRW / Delphi / Pósitron (série PX32/PX80)"
           },
           "2013": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -380,7 +773,16 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "240",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "550",
+            "keyLaminaTypeGold": "LMFI-001 (ou referência 182 / 501 Yale Fiat)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "ID48 / Megamos Crypto ID48 (também chamado comercialmente de T42)",
+            "transponderCodigo": "T42 (ID48 / Megamos 48)",
+            "telecomandoFrequency": "433.92 MHz",
+            "telecomandoBrands": "Magneti Marelli / Delphi / TRW / Kostal (ou marcas alternativas do mercado de reposição como Pósitron, Keydiy e Xhorse)"
           },
           "2014": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -391,7 +793,16 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "80",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "230",
+            "valueCopyStore": "750",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "PCF7936 (ID46) ou Megamos Crypto ID48 (T42)",
+            "transponderCodigo": "ID48 (T42) ou PCF7936 (ID46)",
+            "telecomandoFrequency": "433 MHz",
+            "telecomandoBrands": "Magneti Marelli e Positron"
           }
         }
       },
@@ -406,7 +817,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "160",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "300",
+            "valueKeyConfect": "375",
+            "valueKeyConfectAlarm": "490",
+            "valueCopyStore": "1171",
+            "laminaTextDica": "Silca: GT15 (Perfil convencional / dente externo Yale - predominante no ano/modelo 2003 G2) ou SIP22 (Perfil pantográfico, introduzido nas transições da linha G3).",
+            "keyLaminaTypeGold": "Lâmina Fiat GT15 (ou Gold 01/02 conforme catálogo de lâminas Fiat) / SIP22",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42",
+            "transponderCodigo": "T42 (ID48 / Megamos 48)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli / Locktronic / Soft / Pósitron"
           },
           "2004": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -417,7 +841,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "170",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "365",
+            "valueKeyConfect": "490",
+            "valueKeyConfectAlarm": "700",
+            "valueCopyStore": "1250",
+            "laminaTextDica": "Depende do perfil mecânico em 2004 (fase de transição do Palio): GT15 (para versão Yale/caixinha cinza) ou SIP22 (para versão pantográfica/G3 Body Computer).",
+            "keyLaminaTypeGold": "Gold 186 / 207 / 248",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "ID48 (T42)",
+            "transponderCodigo": "Megamos Crypto ID48",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Delphi, Magneti Marelli, Pósitron, TRW, Continental/Kostal"
           },
           "2005": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -428,7 +865,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "240",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "425",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "650",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "SIP22 (perfil pantográfico de 2 pistas) ou GT15 (perfil Yale/serra, utilizado em algumas versões de transição G2/G3 do ano 2005).",
+            "keyLaminaTypeGold": "Gold 209 (para lâmina pantográfica SIP22) ou Gold 154 (para lâmina Yale GT15)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42 (Sistema Fiat Code Fase 2)",
+            "transponderCodigo": "ID48 (T42)",
+            "telecomandoFrequency": "433.92 MHz",
+            "telecomandoBrands": "Pósitron / PST, Magneti Marelli, Calsonic"
           },
           "2006": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -439,7 +889,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "240",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "400",
+            "valueKeyConfect": "500",
+            "valueKeyConfectAlarm": "650",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "Silca: SIP22 (perfil pantográfico) ou GT15 (perfil Yale/comum em versões Fire de transição G2).",
+            "keyLaminaTypeGold": "597 (Fiat Gaveta) / YALE Fiat",
+            "laminaPinCode": "Sim (5 dígitos)",
+            "transponderNomenclatura": "ID48 Megamos Crypto",
+            "transponderCodigo": "T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Delphi, TRW (sistemas originais) / Pósitron (sistemas de alarme universais/canivete)"
           },
           "2007": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -450,7 +913,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "150",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "300",
+            "valueKeyConfect": "380",
+            "valueKeyConfectAlarm": "525",
+            "valueCopyStore": "950",
+            "laminaTextDica": "GT15 (perfil convencional com dente duplo) ou SIP22 (perfil pantográfico / snake, dependendo da versão do miolo montado no ano 2007).",
+            "keyLaminaTypeGold": "Lâmina Gold 115 (GT15) / Gold 162 ou 178 (SIP22 pantográfica)",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 (conhecido comercialmente como T42 em ampola de vidro)",
+            "transponderCodigo": "ID48 / T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Pósitron / PST Electronics, Kostal"
           },
           "2008": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -461,7 +937,17 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "34",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "92",
+            "valueCopyStore": "1541",
+            "laminaTextDica": "Silca: SIP22 (perfil pantográfico / snake key) ou GT15 / perfil Yale em versões mais simples.",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42",
+            "transponderCodigo": "ID48 / T42",
+            "telecomandoFrequency": "433,92 MHz (433 MHz)",
+            "telecomandoBrands": "Pósitron, Magneti Marelli, VDO, Continental, Kostal"
           },
           "2009": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -472,7 +958,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "160",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "350",
+            "valueKeyConfect": "475",
+            "valueKeyConfectAlarm": "625",
+            "valueCopyStore": "1150",
+            "laminaTextDica": "Dependendo da carcaça do miolo da versão Fire, pode utilizar também o perfil perfilado GT15R",
+            "keyLaminaTypeGold": "GOLD 218",
+            "laminaPinCode": "5",
+            "transponderNomenclatura": "Megamos Crypto ID48",
+            "transponderCodigo": "ID48 / T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli / TRW / Kostal / Pósitron (PX32/PX80)"
           },
           "2014": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -483,7 +982,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "240",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "475",
+            "valueKeyConfect": "600",
+            "valueKeyConfectAlarm": "750",
+            "valueCopyStore": "1700",
+            "laminaTextDica": "Lâmina pantográfica interna. Uso da ferramenta Lishi SIP22 para confecção de lâmina sem a chave original.",
+            "keyLaminaTypeGold": "Lâmina Gold 183 / SIP22",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "ID46 (Philips Crypto 2 / PCF7936AA)",
+            "transponderCodigo": "PCF7936 / PCF7936AA (para chave simples) ou PCF7946 (integrado na placa da chave canivete/telecomando)",
+            "telecomandoFrequency": "433,92 MHz (433 MHz FSK)",
+            "telecomandoBrands": "Magneti Marelli, Delphi, Continental ou Pósitron (para alarmes pós-venda)"
           },
           "2015": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -494,7 +1006,20 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "200",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "550",
+            "valueKeyConfectAlarm": "750",
+            "valueCopyStore": "1600",
+            "laminaTextDica": "SIP22 (perfil pantográfico/mapa) ou GT15 / GT15R (perfil yale/dentada, dependendo do cilindro/versão Fire)",
+            "keyLaminaTypeGold": "GOLD 207, GOLD 154",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "ID46, ID48",
+            "transponderCodigo": "PCF7936AA, T42",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Delphi, Valeo, Pósitron"
           },
           "2016": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -505,7 +1030,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "215",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "500",
+            "valueKeyConfectAlarm": "750",
+            "valueCopyStore": "1500",
+            "keyLaminaTypeGold": "Gold 157 (Yale) ou Gold 834 / Gold 597 (Pantográfica SIP22)",
+            "laminaPinCode": "5 DÍGITOS",
+            "transponderNomenclatura": "PCF7936AA (ID46) / PCF7946 / Megamos Crypto ID48 (T42)",
+            "transponderCodigo": "7936AA (ID46) ou ID48 (T42)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Magneti Marelli, Continental ou Delphi"
           },
           "2017": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -516,7 +1053,19 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "200",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "450",
+            "valueKeyConfect": "525",
+            "valueKeyConfectAlarm": "750",
+            "valueCopyStore": "1500",
+            "keyLaminaTypeGold": "Lâmina pantográfica Gold SIP22",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "PCF7936 / ID46 (Philips Crypto 2)",
+            "transponderCodigo": "PCF7936 / ID46",
+            "telecomandoFrequency": "433,92 MHz (modulação ASK)",
+            "telecomandoBrands": "Marelli, Delphi, Continental ou Pósitron (para alarmes universais adaptados)"
           }
         }
       },
@@ -530,7 +1079,15 @@
             "telecomandoProcedure": "O Telecomando é automaticamente programado no momento da programação do transponder. O vídeo demonstra a explicação;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "-Faz+\n-Igold\n-obdMap\n-Rasther\n-Remap/Scanicar\n-Tango\n-TMPro\n-UPA",
-            "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D"
+            "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D",
+            "laminaTextDica": "Perfil Yale tradicional da linha Fiat até a transição para o perfil pantográfico.",
+            "keyLaminaTypeGold": "Gold GT15 (Yale)",
+            "laminaPinCode": "5 DÍGITOS",
+            "transponderNomenclatura": "Megamos Crypto ID48 (T42)",
+            "transponderCodigo": "ID48 / T42",
+            "telecomandoFrequency": "433,92 MHz (ou 300 MHz em alarmes universais antigos)",
+            "telecomandoBatery": "CR2032 ou CR2016",
+            "telecomandoBrands": "Pósitron, Olimpus, Kostal, Keydiy (KD) e Xhorse (VVDI)"
           },
           "2003": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -541,7 +1098,12 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48",
+            "transponderCodigo": "T42 / ID48",
+            "telecomandoFrequency": "433 MHz / 433,92 MHz",
+            "telecomandoBrands": "Go Mec, Universal Automotive Systems, Pósitron"
           }
         }
       },
@@ -555,7 +1117,17 @@
             "telecomandoProcedure": "O Telecomando é automaticamente programado no momento da programação do transponder. O vídeo demonstra a explicação;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "-Faz+\n-Igold\n-obdMap\n-Rasther\n-Remap/Scanicar\n-Tango\n-TMPro\n-UPA",
-            "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D"
+            "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D",
+            "valueKeyCopy": "45",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "240",
+            "valueKeyConfect": "350",
+            "valueKeyConfectAlarm": "475",
+            "valueCopyStore": "800",
+            "laminaTextDica": "Lâmina perfil Yale/dentada de metal, padrão da linha Fiat até 2002",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48 / T42",
+            "transponderCodigo": "ID48 / T42"
           },
           "2003": {
             "laminasKeys": "Gold: 761ou834; Silca: GT15ouSIP22;",
@@ -566,7 +1138,18 @@
             "telecomandoProcedure": "Ref: Positron\nHabilita por procedimento\nProcedimento: \n1-Ligar o contato\n2-Aperte o botão de aprendizado do alarme até que a sirene emita 3 toques\n3-Aperte os botões de travar e destravar do controle juntos\n4-A sirene emitirá um toque indicando o aprendizado do controle\n-Repita o passo 3 para os demais controles\n6Após cadastrar todos os controles, desligue o contato\n\nLocal do botão de aprendizado: Se o alarme foi instalado na autorizada, o botão está próximo ao retrovisor, no centro do teto, junto aos sensores de ultrasom. Já se os sensores de ultrasom estiverem nos cantos do parabrisas, procure o botão de aprendizado próximo à caixa de fusíveis.\nNão usa senha;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "(08+)\n-Fácil\n-Faz+\n-Igold\n-obd Star x300\n-obdMap\n-Remap/Scanicar\n-Tango\n-TMPro\n-x100 Pad\n-Smelecon",
-            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4"
+            "videoLink": "https://www.youtube.com/watch?v=3fuldNm79x0&pp=ygUbY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDA4",
+            "valueKeyCopy": "240",
+            "precoAtualizadoEm": "2026-09-26",
+            "valueKeyAlarm": "390",
+            "valueKeyConfect": "350",
+            "valueKeyConfectAlarm": "425",
+            "valueCopyStore": "185",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Megamos Crypto ID48",
+            "transponderCodigo": "ID48 (T42)",
+            "telecomandoFrequency": "433,92 MHz",
+            "telecomandoBrands": "Pósitron, Go Mec"
           }
         }
       },
@@ -580,7 +1163,15 @@
             "telecomandoProcedure": "O Telecomando é automaticamente programado no momento da programação do transponder. O vídeo demonstra a explicação;",
             "telecomandoImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh2DSTHV7lVD9oZtIuoCyl5aTzzW2P-QHYjhHz_mcQ5VlujOf6O81F8j62T-9r9qJZy_to9JAwIdB-tCaBTV-t91PLdQdBEsw4OZ4vZYayEZ35MWf63Mnzh-WeRi3VzkKOc2_h49dAgFf0V9Vzdkd5zqxNXLRy898v4z-Vua0p34HXrqE1JR2sSuuJkd7IH",
             "maquinasCodificadoras": "-Faz+\n-Igold\n-obdMap\n-Rasther\n-Remap/Scanicar\n-Tango\n-TMPro\n-UPA",
-            "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D"
+            "videoLink": "https://www.youtube.com/watch?v=QTwFq_-to5U&pp=ygUcY2xvbmUgY2hhdmUgZmlhdCBwYWxpbyAyMDAwIA%3D%3D",
+            "laminaTextDica": "Perfil tipo Yale clássico com ranhuras laterais",
+            "keyLaminaTypeGold": "133 / 185",
+            "laminaPinCode": "5 dígitos",
+            "transponderNomenclatura": "Temic 11 / Megamos 13",
+            "transponderCodigo": "ID33",
+            "telecomandoFrequency": "Não se aplica",
+            "telecomandoBatery": "Não se aplica",
+            "telecomandoBrands": "Pósitron, Olimpus, Kostal"
           },
           "1997": {
             "laminasKeys": "Gold: 761; Silca: GT15;",

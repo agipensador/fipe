@@ -1,13 +1,58 @@
-# Execução de 2026-09-22
+# Execução de 2026-09-26
 
-- campos gravados: 5
-- para revisão: 6
-- descartados pela validação: 0
+- campos gravados: 50
+- para revisão: 0
+- descartados pela validação: 14
 
 ## Mudanças
 
-- jaecoo · 7 Elite 1_PDOT5 TB 16v Aut 5p (Híbrido) · 2027: +7 campo(s)
-- jaecoo · 7 Elite 1_PDOT5 TB 16v Aut 5p (Híbrido) · 32000: +6 campo(s)
-- jaecoo · 7 Prestige1_PDOT5 TB 16v Aut  (Híbrido) · 32000: +8 campo(s)
-- jaecoo · 7 Luxury 1_PDOT5 TB 16v Aut 5p (Híbrido) · 2026: +6 campo(s)
-- jaecoo · 7 Luxury 1_PDOT5 TB 16v Aut 5p (Híbrido) · 32000: +6 campo(s)
+- fiat2 · Palio 1_PDOT0 Cel_PDOT ECON_PDOT/ITALIA F_PDOTFlex 8V 4p · 2009: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 Cel_PDOT ECON_PDOT/ITALIA F_PDOTFlex 8V 4p · 2010: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 Cel_PDOT ECON_PDOT/ITALIA F_PDOTFlex 8V 4p · 2011: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 Cel_PDOT ECON_PDOT/ITALIA F_PDOTFlex 8V 4p · 2012: +11 campo(s)
+- fiat2 · Palio 1_PDOT0 Cel_PDOT ECON_PDOT/ITALIA F_PDOTFlex 8V 4p · 2013: +11 campo(s)
+- fiat2 · Palio 1_PDOT0 Cel_PDOT ECON_PDOT/ITALIA F_PDOTFlex 8V 4p · 2014: +11 campo(s)
+- fiat2 · Palio 1_PDOT0 Celebr_PDOT ECONOMY F_PDOTFlex 8V 2p · 2009: +11 campo(s)
+- fiat2 · Palio 1_PDOT0 Celebr_PDOT ECONOMY F_PDOTFlex 8V 2p · 2010: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 Celebr_PDOT ECONOMY F_PDOTFlex 8V 2p · 2011: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 Celebr_PDOT ECONOMY F_PDOTFlex 8V 2p · 2012: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 Celebr_PDOT ECONOMY F_PDOTFlex 8V 2p · 2013: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 Celebr_PDOT ECONOMY F_PDOTFlex 8V 2p · 2014: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 2p · 2009: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 2p · 2010: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 2p · 2011: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 2p · 2012: +11 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 2p · 2013: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 2p · 2014: +8 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 4p · 2003: +11 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 4p · 2004: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 4p · 2005: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 4p · 2006: +11 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 4p · 2007: +6 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 4p · 2008: +11 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 4p · 2009: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 4p · 2014: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 4p · 2015: +12 campo(s)
+- fiat2 · Palio 1_PDOT0 ECONOMY Fire Flex 8V 4p · 2016: +11 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 2p · 2009: +11 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 2p · 2010: +11 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 2p · 2011: +11 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 2p · 2012: +12 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 2p · 2013: +8 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 2p · 2014: +8 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2003: +12 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2004: +12 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2005: +12 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2006: +12 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2007: +12 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2008: +9 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2009: +12 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2014: +12 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2015: +12 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2016: +11 campo(s)
+- fiat2 · Palio 1_PDOT0/ Trofeo 1_PDOT0 Fire/ Fire Flex 4p · 2017: +11 campo(s)
+- fiat2 · Palio 1_PDOT5 mpi 8V 2p · 2002: +8 campo(s)
+- fiat2 · Palio 1_PDOT5 mpi 8V 2p · 2003: +5 campo(s)
+- fiat2 · Palio 1_PDOT5 mpi 8V 4p · 2002: +9 campo(s)
+- fiat2 · Palio 1_PDOT5 mpi 8V 4p · 2003: +10 campo(s)
+- fiat2 · Palio 1_PDOT6 mpi 16V 2p · 1996: +8 campo(s)
